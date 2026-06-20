@@ -1,0 +1,37 @@
+case_id,genes,expected_keywords
+HRR_repair,BRCA2;PALB2;CHEK2,DNA Repair;DNA Double-Strand Break Repair;Homologous Recombination;HRR;Homology Directed Repair
+Mitochondrial_respiration,NDUFS4;SDHA;SURF1,Respiratory electron transport;Aerobic respiration;ATP synthesis;Complex I;Citric acid cycle
+DNA_damage_checkpoint,ATM;ATR;CHEK1,DNA damage checkpoint;Cell Cycle Checkpoints;G1/S DNA Damage Checkpoints;G2/M DNA damage checkpoint
+Apoptosis,CASP3;CASP8;BAX,Apoptosis;Programmed Cell Death;Caspase
+WNT_signaling,APC;CTNNB1;AXIN1,WNT;Beta-catenin;TCF
+MAPK_signaling,KRAS;BRAF;MAPK1,MAPK;RAF;ERK;RAS
+PI3K_AKT,PIK3CA;AKT1;PTEN,PI3K;AKT;PTEN;Phosphatidylinositol
+TGF_beta,SMAD2;SMAD3;TGFB1,TGF;SMAD;Transforming growth factor
+NOTCH_signaling,NOTCH1;DLL4;JAG1,NOTCH;Delta;Jagged
+TP53_pathway,TP53;MDM2;CDKN1A,TP53;p53;Cell Cycle Checkpoints;DNA Damage
+EGFR_signaling,EGFR;ERBB2;GRB2,EGFR;ERBB;Signaling by Receptor Tyrosine Kinases;GRB2
+Interferon_signaling,IFNA1;IFNB1;STAT1,Interferon;JAK-STAT;STAT1;Cytokine Signaling
+JAK_STAT_signaling,JAK1;JAK2;STAT3,JAK-STAT;STAT3;Cytokine Signaling;Interleukin
+NFkB_signaling,NFKB1;RELA;IKBKB,NF-kB;NFKB;IKK;TNF signaling;Inflammation
+Toll_like_receptor_signaling,TLR4;MYD88;IRAK4,Toll Like Receptor;TLR;MyD88;Innate Immune System
+Complement_cascade,C3;C5;CFB,Complement;Complement cascade;Immune System
+Coagulation_cascade,F2;F5;F10,Hemostasis;Coagulation;Thrombin;Platelet
+Cholesterol_metabolism,LDLR;APOB;PCSK9,Cholesterol;Lipoprotein;Metabolism of lipids;LDL
+Fatty_acid_metabolism,ACACA;FASN;CPT1A,Fatty acid;Lipid metabolism;Beta-oxidation;Metabolism of lipids
+Glycolysis,HK1;PFKM;PKM,Glycolysis;Glucose metabolism;Metabolism of carbohydrates
+Urea_cycle,CPS1;OTC;ASS1,Urea cycle;Amino acid metabolism;Nitrogen metabolism
+Autophagy,ATG5;BECN1;MAP1LC3B,Autophagy;Macroautophagy;Cellular responses to stress
+ER_stress_UPR,ERN1;ATF6;EIF2AK3,Unfolded Protein Response;ER stress;PERK;IRE1;ATF6
+mTOR_signaling,MTOR;RPTOR;RICTOR,mTOR;MTORC1;MTORC2;PI3K;AKT
+VEGF_signaling,VEGFA;KDR;FLT1,VEGF;Vascular endothelial growth factor;Angiogenesis;Receptor Tyrosine Kinases
+Integrin_signaling,ITGA5;ITGB1;FN1,Integrin;Extracellular matrix;ECM;Cell adhesion
+ECM_organization,COL1A1;COL1A2;MMP2,Extracellular matrix organization;ECM;Collagen;Matrix metalloproteinase
+Chromatin_modification,EZH2;SUZ12;EED,Chromatin;PRC2;Polycomb;Histone methylation;Epigenetic
+RNA_polymerase_II,POLR2A;POLR2B;POLR2C,RNA Polymerase II;Transcription;Gene expression
+Translation_initiation,EIF4E;EIF4G1;EIF2S1,Translation;Eukaryotic Translation Initiation;EIF2;EIF4
+Proteasome_degradation,PSMA1;PSMB5;PSMC1,Proteasome;Protein degradation;Ubiquitin;Metabolism of proteins
+DNA_replication,MCM2;MCM4;PCNA,DNA Replication;MCM;Synthesis of DNA;Cell Cycle
+Mismatch_repair,MLH1;MSH2;MSH6,Mismatch Repair;DNA Repair;MSH;MLH
+Base_excision_repair,OGG1;APE1;XRCC1,Base Excision Repair;DNA Repair;BER;XRCC1
+Nucleotide_excision_repair,XPA;ERCC2;ERCC3,Nucleotide Excision Repair;DNA Repair;NER;ERCC
+Telomere_maintenance,TERT;TERF1;TERF2,Telomere;Telomere Maintenance;TERT;TERF

@@ -1,0 +1,1421 @@
+﻿case_id,method,rank,pathway,matched_genes,score,specificity,direct_relation_bonus,match_mode,is_expected_hit
+HRR_repair,GraphRAG-Gene full,1,DNA Double-Strand Break Repair,BRCA2;CHEK2;PALB2,31.25,1.0,0.25,synonym,1
+HRR_repair,GraphRAG-Gene full,2,DNA Repair,BRCA2;CHEK2;PALB2,31.25,1.0,0.25,synonym,1
+HRR_repair,GraphRAG-Gene full,3,Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA1 binding function,BRCA2;PALB2,21.25,1.0,0.25,synonym,1
+HRR_repair,GraphRAG-Gene full,4,Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function,BRCA2;PALB2,21.25,1.0,0.25,synonym,1
+HRR_repair,GraphRAG-Gene full,5,Defective homologous recombination repair (HRR) due to BRCA1 loss of function,BRCA2;PALB2,21.25,1.0,0.25,synonym,1
+HRR_repair,GraphRAG-Gene full,6,Defective homologous recombination repair (HRR) due to BRCA2 loss of function,BRCA2;PALB2,21.25,1.0,0.25,synonym,1
+HRR_repair,GraphRAG-Gene full,7,Defective homologous recombination repair (HRR) due to PALB2 loss of function,BRCA2;PALB2,21.25,1.0,0.25,synonym,1
+HRR_repair,GraphRAG-Gene full,8,HDR through Homologous Recombination (HRR),BRCA2;PALB2,21.25,1.0,0.25,synonym,1
+HRR_repair,GraphRAG-Gene full,9,HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),BRCA2;PALB2,21.25,1.0,0.25,synonym,1
+HRR_repair,GraphRAG-Gene full,10,Homologous DNA Pairing and Strand Exchange,BRCA2;PALB2,21.25,1.0,0.25,synonym,0
+HRR_repair,No direct-relation bonus,1,DNA Double-Strand Break Repair,BRCA2;CHEK2;PALB2,31.0,1.0,0.0,synonym,1
+HRR_repair,No direct-relation bonus,2,DNA Repair,BRCA2;CHEK2;PALB2,31.0,1.0,0.0,synonym,1
+HRR_repair,No direct-relation bonus,3,Cell Cycle,BRCA2;CHEK2,21.0,1.0,0.0,synonym,0
+HRR_repair,No direct-relation bonus,4,Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA1 binding function,BRCA2;PALB2,21.0,1.0,0.0,synonym,1
+HRR_repair,No direct-relation bonus,5,Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function,BRCA2;PALB2,21.0,1.0,0.0,synonym,1
+HRR_repair,No direct-relation bonus,6,Defective homologous recombination repair (HRR) due to BRCA1 loss of function,BRCA2;PALB2,21.0,1.0,0.0,synonym,1
+HRR_repair,No direct-relation bonus,7,Defective homologous recombination repair (HRR) due to BRCA2 loss of function,BRCA2;PALB2,21.0,1.0,0.0,synonym,1
+HRR_repair,No direct-relation bonus,8,Defective homologous recombination repair (HRR) due to PALB2 loss of function,BRCA2;PALB2,21.0,1.0,0.0,synonym,1
+HRR_repair,No direct-relation bonus,9,HDR through Homologous Recombination (HRR),BRCA2;PALB2,21.0,1.0,0.0,synonym,1
+HRR_repair,No direct-relation bonus,10,HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),BRCA2;PALB2,21.0,1.0,0.0,synonym,1
+HRR_repair,No specificity weighting,1,DNA Double-Strand Break Repair,BRCA2;CHEK2;PALB2,30.25,1.0,0.25,synonym,1
+HRR_repair,No specificity weighting,2,DNA Repair,BRCA2;CHEK2;PALB2,30.25,1.0,0.25,synonym,1
+HRR_repair,No specificity weighting,3,Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA1 binding function,BRCA2;PALB2,20.25,1.0,0.25,synonym,1
+HRR_repair,No specificity weighting,4,Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function,BRCA2;PALB2,20.25,1.0,0.25,synonym,1
+HRR_repair,No specificity weighting,5,Defective homologous recombination repair (HRR) due to BRCA1 loss of function,BRCA2;PALB2,20.25,1.0,0.25,synonym,1
+HRR_repair,No specificity weighting,6,Defective homologous recombination repair (HRR) due to BRCA2 loss of function,BRCA2;PALB2,20.25,1.0,0.25,synonym,1
+HRR_repair,No specificity weighting,7,Defective homologous recombination repair (HRR) due to PALB2 loss of function,BRCA2;PALB2,20.25,1.0,0.25,synonym,1
+HRR_repair,No specificity weighting,8,Disease,BRCA2;PALB2,20.25,0.85,0.25,synonym,0
+HRR_repair,No specificity weighting,9,Diseases of DNA Double-Strand Break Repair,BRCA2;PALB2,20.25,0.7,0.25,synonym,1
+HRR_repair,No specificity weighting,10,Diseases of DNA repair,BRCA2;PALB2,20.25,0.7,0.25,synonym,1
+HRR_repair,Overlap count only,1,DNA Double-Strand Break Repair,BRCA2;CHEK2;PALB2,3.0,1.0,0.0,synonym,1
+HRR_repair,Overlap count only,2,DNA Repair,BRCA2;CHEK2;PALB2,3.0,1.0,0.0,synonym,1
+HRR_repair,Overlap count only,3,Cell Cycle,BRCA2;CHEK2,2.0,1.0,0.0,synonym,0
+HRR_repair,Overlap count only,4,Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA1 binding function,BRCA2;PALB2,2.0,1.0,0.0,synonym,1
+HRR_repair,Overlap count only,5,Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function,BRCA2;PALB2,2.0,1.0,0.0,synonym,1
+HRR_repair,Overlap count only,6,Defective homologous recombination repair (HRR) due to BRCA1 loss of function,BRCA2;PALB2,2.0,1.0,0.0,synonym,1
+HRR_repair,Overlap count only,7,Defective homologous recombination repair (HRR) due to BRCA2 loss of function,BRCA2;PALB2,2.0,1.0,0.0,synonym,1
+HRR_repair,Overlap count only,8,Defective homologous recombination repair (HRR) due to PALB2 loss of function,BRCA2;PALB2,2.0,1.0,0.0,synonym,1
+HRR_repair,Overlap count only,9,Disease,BRCA2;PALB2,2.0,0.85,0.0,synonym,0
+HRR_repair,Overlap count only,10,Diseases of DNA Double-Strand Break Repair,BRCA2;PALB2,2.0,0.7,0.0,synonym,1
+Mitochondrial_respiration,GraphRAG-Gene full,1,Aerobic respiration and respiratory electron transport,NDUFS4;SDHA;SURF1,31.25,1.0,0.25,synonym,1
+Mitochondrial_respiration,GraphRAG-Gene full,2,Respiratory electron transport,NDUFS4;SDHA;SURF1,31.25,1.0,0.25,synonym,1
+Mitochondrial_respiration,GraphRAG-Gene full,3,"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",NDUFS4;SDHA;SURF1,31.25,1.0,0.25,synonym,1
+Mitochondrial_respiration,GraphRAG-Gene full,4,Metabolism,NDUFS4;SDHA;SURF1,31.1,0.85,0.25,synonym,0
+Mitochondrial_respiration,GraphRAG-Gene full,5,Citric acid cycle (TCA cycle),SDHA,11.0,1.0,0.0,synonym,1
+Mitochondrial_respiration,GraphRAG-Gene full,6,Complex I biogenesis,NDUFS4,11.0,1.0,0.0,synonym,1
+Mitochondrial_respiration,GraphRAG-Gene full,7,Cytoprotection by HMOX1,SURF1,11.0,1.0,0.0,synonym,0
+Mitochondrial_respiration,GraphRAG-Gene full,8,Maturation of TCA enzymes and regulation of TCA cycle,SDHA,11.0,1.0,0.0,synonym,0
+Mitochondrial_respiration,GraphRAG-Gene full,9,TP53 Regulates Metabolic Genes,SURF1,11.0,1.0,0.0,synonym,0
+Mitochondrial_respiration,GraphRAG-Gene full,10,Cellular response to chemical stress,SURF1,10.85,0.85,0.0,synonym,0
+Mitochondrial_respiration,No direct-relation bonus,1,Aerobic respiration and respiratory electron transport,NDUFS4;SDHA;SURF1,31.0,1.0,0.0,synonym,1
+Mitochondrial_respiration,No direct-relation bonus,2,Respiratory electron transport,NDUFS4;SDHA;SURF1,31.0,1.0,0.0,synonym,1
+Mitochondrial_respiration,No direct-relation bonus,3,"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",NDUFS4;SDHA;SURF1,31.0,1.0,0.0,synonym,1
+Mitochondrial_respiration,No direct-relation bonus,4,Metabolism,NDUFS4;SDHA;SURF1,30.85,0.85,0.0,synonym,0
+Mitochondrial_respiration,No direct-relation bonus,5,Citric acid cycle (TCA cycle),SDHA,11.0,1.0,0.0,synonym,1
+Mitochondrial_respiration,No direct-relation bonus,6,Complex I biogenesis,NDUFS4,11.0,1.0,0.0,synonym,1
+Mitochondrial_respiration,No direct-relation bonus,7,Cytoprotection by HMOX1,SURF1,11.0,1.0,0.0,synonym,0
+Mitochondrial_respiration,No direct-relation bonus,8,Maturation of TCA enzymes and regulation of TCA cycle,SDHA,11.0,1.0,0.0,synonym,0
+Mitochondrial_respiration,No direct-relation bonus,9,TP53 Regulates Metabolic Genes,SURF1,11.0,1.0,0.0,synonym,0
+Mitochondrial_respiration,No direct-relation bonus,10,Cellular response to chemical stress,SURF1,10.85,0.85,0.0,synonym,0
+Mitochondrial_respiration,No specificity weighting,1,Aerobic respiration and respiratory electron transport,NDUFS4;SDHA;SURF1,30.25,1.0,0.25,synonym,1
+Mitochondrial_respiration,No specificity weighting,2,Metabolism,NDUFS4;SDHA;SURF1,30.25,0.85,0.25,synonym,0
+Mitochondrial_respiration,No specificity weighting,3,Respiratory electron transport,NDUFS4;SDHA;SURF1,30.25,1.0,0.25,synonym,1
+Mitochondrial_respiration,No specificity weighting,4,"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",NDUFS4;SDHA;SURF1,30.25,1.0,0.25,synonym,1
+Mitochondrial_respiration,No specificity weighting,5,Cellular response to chemical stress,SURF1,10.0,0.85,0.0,synonym,0
+Mitochondrial_respiration,No specificity weighting,6,Cellular responses to stimuli,SURF1,10.0,0.7,0.0,synonym,0
+Mitochondrial_respiration,No specificity weighting,7,Cellular responses to stress,SURF1,10.0,0.7,0.0,synonym,0
+Mitochondrial_respiration,No specificity weighting,8,Citric acid cycle (TCA cycle),SDHA,10.0,1.0,0.0,synonym,1
+Mitochondrial_respiration,No specificity weighting,9,Complex I biogenesis,NDUFS4,10.0,1.0,0.0,synonym,1
+Mitochondrial_respiration,No specificity weighting,10,Cytoprotection by HMOX1,SURF1,10.0,1.0,0.0,synonym,0
+Mitochondrial_respiration,Overlap count only,1,Aerobic respiration and respiratory electron transport,NDUFS4;SDHA;SURF1,3.0,1.0,0.0,synonym,1
+Mitochondrial_respiration,Overlap count only,2,Metabolism,NDUFS4;SDHA;SURF1,3.0,0.85,0.0,synonym,0
+Mitochondrial_respiration,Overlap count only,3,Respiratory electron transport,NDUFS4;SDHA;SURF1,3.0,1.0,0.0,synonym,1
+Mitochondrial_respiration,Overlap count only,4,"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",NDUFS4;SDHA;SURF1,3.0,1.0,0.0,synonym,1
+Mitochondrial_respiration,Overlap count only,5,Cellular response to chemical stress,SURF1,1.0,0.85,0.0,synonym,0
+Mitochondrial_respiration,Overlap count only,6,Cellular responses to stimuli,SURF1,1.0,0.7,0.0,synonym,0
+Mitochondrial_respiration,Overlap count only,7,Cellular responses to stress,SURF1,1.0,0.7,0.0,synonym,0
+Mitochondrial_respiration,Overlap count only,8,Citric acid cycle (TCA cycle),SDHA,1.0,1.0,0.0,synonym,1
+Mitochondrial_respiration,Overlap count only,9,Complex I biogenesis,NDUFS4,1.0,1.0,0.0,synonym,1
+Mitochondrial_respiration,Overlap count only,10,Cytoprotection by HMOX1,SURF1,1.0,1.0,0.0,synonym,0
+DNA_damage_checkpoint,GraphRAG-Gene full,1,Cell Cycle,ATM;ATR;CHEK1,31.75,1.0,0.75,synonym,0
+DNA_damage_checkpoint,GraphRAG-Gene full,2,Cell Cycle Checkpoints,ATM;ATR;CHEK1,31.75,1.0,0.75,synonym,1
+DNA_damage_checkpoint,GraphRAG-Gene full,3,DNA Double-Strand Break Repair,ATM;ATR;CHEK1,31.75,1.0,0.75,synonym,0
+DNA_damage_checkpoint,GraphRAG-Gene full,4,DNA Repair,ATM;ATR;CHEK1,31.75,1.0,0.75,synonym,0
+DNA_damage_checkpoint,GraphRAG-Gene full,5,G2/M Checkpoints,ATM;ATR;CHEK1,31.75,1.0,0.75,synonym,0
+DNA_damage_checkpoint,GraphRAG-Gene full,6,G2/M DNA damage checkpoint,ATM;ATR;CHEK1,31.75,1.0,0.75,synonym,1
+DNA_damage_checkpoint,GraphRAG-Gene full,7,HDR through Homologous Recombination (HRR),ATM;ATR;CHEK1,31.75,1.0,0.75,synonym,0
+DNA_damage_checkpoint,GraphRAG-Gene full,8,HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),ATM;ATR;CHEK1,31.75,1.0,0.75,synonym,0
+DNA_damage_checkpoint,GraphRAG-Gene full,9,Homologous DNA Pairing and Strand Exchange,ATM;ATR;CHEK1,31.75,1.0,0.75,synonym,0
+DNA_damage_checkpoint,GraphRAG-Gene full,10,Homology Directed Repair,ATM;ATR;CHEK1,31.75,1.0,0.75,synonym,0
+DNA_damage_checkpoint,No direct-relation bonus,1,Cell Cycle,ATM;ATR;CHEK1,31.0,1.0,0.0,synonym,0
+DNA_damage_checkpoint,No direct-relation bonus,2,Cell Cycle Checkpoints,ATM;ATR;CHEK1,31.0,1.0,0.0,synonym,1
+DNA_damage_checkpoint,No direct-relation bonus,3,DNA Double-Strand Break Repair,ATM;ATR;CHEK1,31.0,1.0,0.0,synonym,0
+DNA_damage_checkpoint,No direct-relation bonus,4,DNA Repair,ATM;ATR;CHEK1,31.0,1.0,0.0,synonym,0
+DNA_damage_checkpoint,No direct-relation bonus,5,G2/M Checkpoints,ATM;ATR;CHEK1,31.0,1.0,0.0,synonym,0
+DNA_damage_checkpoint,No direct-relation bonus,6,G2/M DNA damage checkpoint,ATM;ATR;CHEK1,31.0,1.0,0.0,synonym,1
+DNA_damage_checkpoint,No direct-relation bonus,7,HDR through Homologous Recombination (HRR),ATM;ATR;CHEK1,31.0,1.0,0.0,synonym,0
+DNA_damage_checkpoint,No direct-relation bonus,8,HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),ATM;ATR;CHEK1,31.0,1.0,0.0,synonym,0
+DNA_damage_checkpoint,No direct-relation bonus,9,Homologous DNA Pairing and Strand Exchange,ATM;ATR;CHEK1,31.0,1.0,0.0,synonym,0
+DNA_damage_checkpoint,No direct-relation bonus,10,Homology Directed Repair,ATM;ATR;CHEK1,31.0,1.0,0.0,synonym,0
+DNA_damage_checkpoint,No specificity weighting,1,Cell Cycle,ATM;ATR;CHEK1,30.75,1.0,0.75,synonym,0
+DNA_damage_checkpoint,No specificity weighting,2,Cell Cycle Checkpoints,ATM;ATR;CHEK1,30.75,1.0,0.75,synonym,1
+DNA_damage_checkpoint,No specificity weighting,3,DNA Double-Strand Break Repair,ATM;ATR;CHEK1,30.75,1.0,0.75,synonym,0
+DNA_damage_checkpoint,No specificity weighting,4,DNA Repair,ATM;ATR;CHEK1,30.75,1.0,0.75,synonym,0
+DNA_damage_checkpoint,No specificity weighting,5,G2/M Checkpoints,ATM;ATR;CHEK1,30.75,1.0,0.75,synonym,0
+DNA_damage_checkpoint,No specificity weighting,6,G2/M DNA damage checkpoint,ATM;ATR;CHEK1,30.75,1.0,0.75,synonym,1
+DNA_damage_checkpoint,No specificity weighting,7,Gene expression (Transcription),ATM;ATR;CHEK1,30.75,0.7,0.75,synonym,0
+DNA_damage_checkpoint,No specificity weighting,8,Generic Transcription Pathway,ATM;ATR;CHEK1,30.75,0.85,0.75,synonym,0
+DNA_damage_checkpoint,No specificity weighting,9,HDR through Homologous Recombination (HRR),ATM;ATR;CHEK1,30.75,1.0,0.75,synonym,0
+DNA_damage_checkpoint,No specificity weighting,10,HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),ATM;ATR;CHEK1,30.75,1.0,0.75,synonym,0
+DNA_damage_checkpoint,Overlap count only,1,Cell Cycle,ATM;ATR;CHEK1,3.0,1.0,0.0,synonym,0
+DNA_damage_checkpoint,Overlap count only,2,Cell Cycle Checkpoints,ATM;ATR;CHEK1,3.0,1.0,0.0,synonym,1
+DNA_damage_checkpoint,Overlap count only,3,DNA Double-Strand Break Repair,ATM;ATR;CHEK1,3.0,1.0,0.0,synonym,0
+DNA_damage_checkpoint,Overlap count only,4,DNA Repair,ATM;ATR;CHEK1,3.0,1.0,0.0,synonym,0
+DNA_damage_checkpoint,Overlap count only,5,G2/M Checkpoints,ATM;ATR;CHEK1,3.0,1.0,0.0,synonym,0
+DNA_damage_checkpoint,Overlap count only,6,G2/M DNA damage checkpoint,ATM;ATR;CHEK1,3.0,1.0,0.0,synonym,1
+DNA_damage_checkpoint,Overlap count only,7,Gene expression (Transcription),ATM;ATR;CHEK1,3.0,0.7,0.0,synonym,0
+DNA_damage_checkpoint,Overlap count only,8,Generic Transcription Pathway,ATM;ATR;CHEK1,3.0,0.85,0.0,synonym,0
+DNA_damage_checkpoint,Overlap count only,9,HDR through Homologous Recombination (HRR),ATM;ATR;CHEK1,3.0,1.0,0.0,synonym,0
+DNA_damage_checkpoint,Overlap count only,10,HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),ATM;ATR;CHEK1,3.0,1.0,0.0,synonym,0
+Apoptosis,GraphRAG-Gene full,1,Apoptosis,BAX;CASP3;CASP8,31.75,1.0,0.75,synonym,1
+Apoptosis,GraphRAG-Gene full,2,Intrinsic Pathway for Apoptosis,BAX;CASP3;CASP8,31.75,1.0,0.75,synonym,1
+Apoptosis,GraphRAG-Gene full,3,Programmed Cell Death,BAX;CASP3;CASP8,31.75,1.0,0.75,synonym,1
+Apoptosis,GraphRAG-Gene full,4,Regulated Necrosis,BAX;CASP3;CASP8,31.75,1.0,0.75,synonym,0
+Apoptosis,GraphRAG-Gene full,5,Signal Transduction,BAX;CASP3;CASP8,31.6,0.85,0.75,synonym,0
+Apoptosis,GraphRAG-Gene full,6,Apoptotic cleavage of cellular proteins,CASP3;CASP8,21.25,1.0,0.25,synonym,0
+Apoptosis,GraphRAG-Gene full,7,Apoptotic execution phase,CASP3;CASP8,21.25,1.0,0.25,synonym,0
+Apoptosis,GraphRAG-Gene full,8,Apoptotic factor-mediated response,BAX;CASP3,21.25,1.0,0.25,synonym,0
+Apoptosis,GraphRAG-Gene full,9,Caspase activation via extrinsic apoptotic signalling pathway,CASP3;CASP8,21.25,1.0,0.25,synonym,1
+Apoptosis,GraphRAG-Gene full,10,Caspase-mediated cleavage of cytoskeletal proteins,CASP3;CASP8,21.25,1.0,0.25,synonym,1
+Apoptosis,No direct-relation bonus,1,Apoptosis,BAX;CASP3;CASP8,31.0,1.0,0.0,synonym,1
+Apoptosis,No direct-relation bonus,2,Intrinsic Pathway for Apoptosis,BAX;CASP3;CASP8,31.0,1.0,0.0,synonym,1
+Apoptosis,No direct-relation bonus,3,Programmed Cell Death,BAX;CASP3;CASP8,31.0,1.0,0.0,synonym,1
+Apoptosis,No direct-relation bonus,4,Regulated Necrosis,BAX;CASP3;CASP8,31.0,1.0,0.0,synonym,0
+Apoptosis,No direct-relation bonus,5,Signal Transduction,BAX;CASP3;CASP8,30.85,0.85,0.0,synonym,0
+Apoptosis,No direct-relation bonus,6,Apoptotic cleavage of cellular proteins,CASP3;CASP8,21.0,1.0,0.0,synonym,0
+Apoptosis,No direct-relation bonus,7,Apoptotic execution phase,CASP3;CASP8,21.0,1.0,0.0,synonym,0
+Apoptosis,No direct-relation bonus,8,Apoptotic factor-mediated response,BAX;CASP3,21.0,1.0,0.0,synonym,0
+Apoptosis,No direct-relation bonus,9,Caspase activation via extrinsic apoptotic signalling pathway,CASP3;CASP8,21.0,1.0,0.0,synonym,1
+Apoptosis,No direct-relation bonus,10,Caspase-mediated cleavage of cytoskeletal proteins,CASP3;CASP8,21.0,1.0,0.0,synonym,1
+Apoptosis,No specificity weighting,1,Apoptosis,BAX;CASP3;CASP8,30.75,1.0,0.75,synonym,1
+Apoptosis,No specificity weighting,2,Intrinsic Pathway for Apoptosis,BAX;CASP3;CASP8,30.75,1.0,0.75,synonym,1
+Apoptosis,No specificity weighting,3,Programmed Cell Death,BAX;CASP3;CASP8,30.75,1.0,0.75,synonym,1
+Apoptosis,No specificity weighting,4,Regulated Necrosis,BAX;CASP3;CASP8,30.75,1.0,0.75,synonym,0
+Apoptosis,No specificity weighting,5,Signal Transduction,BAX;CASP3;CASP8,30.75,0.85,0.75,synonym,0
+Apoptosis,No specificity weighting,6,Apoptotic cleavage of cellular proteins,CASP3;CASP8,20.25,1.0,0.25,synonym,0
+Apoptosis,No specificity weighting,7,Apoptotic execution phase,CASP3;CASP8,20.25,1.0,0.25,synonym,0
+Apoptosis,No specificity weighting,8,Apoptotic factor-mediated response,BAX;CASP3,20.25,1.0,0.25,synonym,0
+Apoptosis,No specificity weighting,9,Caspase activation via extrinsic apoptotic signalling pathway,CASP3;CASP8,20.25,1.0,0.25,synonym,1
+Apoptosis,No specificity weighting,10,Caspase-mediated cleavage of cytoskeletal proteins,CASP3;CASP8,20.25,1.0,0.25,synonym,1
+Apoptosis,Overlap count only,1,Apoptosis,BAX;CASP3;CASP8,3.0,1.0,0.0,synonym,1
+Apoptosis,Overlap count only,2,Intrinsic Pathway for Apoptosis,BAX;CASP3;CASP8,3.0,1.0,0.0,synonym,1
+Apoptosis,Overlap count only,3,Programmed Cell Death,BAX;CASP3;CASP8,3.0,1.0,0.0,synonym,1
+Apoptosis,Overlap count only,4,Regulated Necrosis,BAX;CASP3;CASP8,3.0,1.0,0.0,synonym,0
+Apoptosis,Overlap count only,5,Signal Transduction,BAX;CASP3;CASP8,3.0,0.85,0.0,synonym,0
+Apoptosis,Overlap count only,6,Apoptotic cleavage of cellular proteins,CASP3;CASP8,2.0,1.0,0.0,synonym,0
+Apoptosis,Overlap count only,7,Apoptotic execution phase,CASP3;CASP8,2.0,1.0,0.0,synonym,0
+Apoptosis,Overlap count only,8,Apoptotic factor-mediated response,BAX;CASP3,2.0,1.0,0.0,synonym,0
+Apoptosis,Overlap count only,9,Caspase activation via extrinsic apoptotic signalling pathway,CASP3;CASP8,2.0,1.0,0.0,synonym,1
+Apoptosis,Overlap count only,10,Caspase-mediated cleavage of cytoskeletal proteins,CASP3;CASP8,2.0,1.0,0.0,synonym,1
+WNT_signaling,GraphRAG-Gene full,1,Beta-catenin phosphorylation cascade,APC;AXIN1;CTNNB1,31.75,1.0,0.75,synonym,1
+WNT_signaling,GraphRAG-Gene full,2,CTNNB1 S33 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,31.75,1.0,0.75,synonym,0
+WNT_signaling,GraphRAG-Gene full,3,CTNNB1 S37 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,31.75,1.0,0.75,synonym,0
+WNT_signaling,GraphRAG-Gene full,4,CTNNB1 S45 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,31.75,1.0,0.75,synonym,0
+WNT_signaling,GraphRAG-Gene full,5,CTNNB1 T41 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,31.75,1.0,0.75,synonym,0
+WNT_signaling,GraphRAG-Gene full,6,Degradation of beta-catenin by the destruction complex,APC;AXIN1;CTNNB1,31.75,1.0,0.75,synonym,1
+WNT_signaling,GraphRAG-Gene full,7,Disassembly of the destruction complex and recruitment of AXIN to the membrane,APC;AXIN1;CTNNB1,31.75,1.0,0.75,synonym,0
+WNT_signaling,GraphRAG-Gene full,8,Signaling by CTNNB1 phospho-site mutants,APC;AXIN1;CTNNB1,31.75,1.0,0.75,synonym,0
+WNT_signaling,GraphRAG-Gene full,9,Signaling by GSK3beta mutants,APC;AXIN1;CTNNB1,31.75,1.0,0.75,synonym,0
+WNT_signaling,GraphRAG-Gene full,10,Signaling by WNT,APC;AXIN1;CTNNB1,31.75,1.0,0.75,synonym,1
+WNT_signaling,No direct-relation bonus,1,Beta-catenin phosphorylation cascade,APC;AXIN1;CTNNB1,31.0,1.0,0.0,synonym,1
+WNT_signaling,No direct-relation bonus,2,CTNNB1 S33 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,31.0,1.0,0.0,synonym,0
+WNT_signaling,No direct-relation bonus,3,CTNNB1 S37 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,31.0,1.0,0.0,synonym,0
+WNT_signaling,No direct-relation bonus,4,CTNNB1 S45 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,31.0,1.0,0.0,synonym,0
+WNT_signaling,No direct-relation bonus,5,CTNNB1 T41 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,31.0,1.0,0.0,synonym,0
+WNT_signaling,No direct-relation bonus,6,Degradation of beta-catenin by the destruction complex,APC;AXIN1;CTNNB1,31.0,1.0,0.0,synonym,1
+WNT_signaling,No direct-relation bonus,7,Disassembly of the destruction complex and recruitment of AXIN to the membrane,APC;AXIN1;CTNNB1,31.0,1.0,0.0,synonym,0
+WNT_signaling,No direct-relation bonus,8,Signaling by CTNNB1 phospho-site mutants,APC;AXIN1;CTNNB1,31.0,1.0,0.0,synonym,0
+WNT_signaling,No direct-relation bonus,9,Signaling by GSK3beta mutants,APC;AXIN1;CTNNB1,31.0,1.0,0.0,synonym,0
+WNT_signaling,No direct-relation bonus,10,Signaling by WNT,APC;AXIN1;CTNNB1,31.0,1.0,0.0,synonym,1
+WNT_signaling,No specificity weighting,1,Beta-catenin phosphorylation cascade,APC;AXIN1;CTNNB1,30.75,1.0,0.75,synonym,1
+WNT_signaling,No specificity weighting,2,CTNNB1 S33 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,30.75,1.0,0.75,synonym,0
+WNT_signaling,No specificity weighting,3,CTNNB1 S37 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,30.75,1.0,0.75,synonym,0
+WNT_signaling,No specificity weighting,4,CTNNB1 S45 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,30.75,1.0,0.75,synonym,0
+WNT_signaling,No specificity weighting,5,CTNNB1 T41 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,30.75,1.0,0.75,synonym,0
+WNT_signaling,No specificity weighting,6,Degradation of beta-catenin by the destruction complex,APC;AXIN1;CTNNB1,30.75,1.0,0.75,synonym,1
+WNT_signaling,No specificity weighting,7,Disassembly of the destruction complex and recruitment of AXIN to the membrane,APC;AXIN1;CTNNB1,30.75,1.0,0.75,synonym,0
+WNT_signaling,No specificity weighting,8,Disease,APC;AXIN1;CTNNB1,30.75,0.85,0.75,synonym,0
+WNT_signaling,No specificity weighting,9,Diseases of signal transduction by growth factor receptors and second messengers,APC;AXIN1;CTNNB1,30.75,0.55,0.75,synonym,0
+WNT_signaling,No specificity weighting,10,Metabolism of proteins,APC;AXIN1;CTNNB1,30.75,0.85,0.75,synonym,0
+WNT_signaling,Overlap count only,1,Beta-catenin phosphorylation cascade,APC;AXIN1;CTNNB1,3.0,1.0,0.0,synonym,1
+WNT_signaling,Overlap count only,2,CTNNB1 S33 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,3.0,1.0,0.0,synonym,0
+WNT_signaling,Overlap count only,3,CTNNB1 S37 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,3.0,1.0,0.0,synonym,0
+WNT_signaling,Overlap count only,4,CTNNB1 S45 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,3.0,1.0,0.0,synonym,0
+WNT_signaling,Overlap count only,5,CTNNB1 T41 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,3.0,1.0,0.0,synonym,0
+WNT_signaling,Overlap count only,6,Degradation of beta-catenin by the destruction complex,APC;AXIN1;CTNNB1,3.0,1.0,0.0,synonym,1
+WNT_signaling,Overlap count only,7,Disassembly of the destruction complex and recruitment of AXIN to the membrane,APC;AXIN1;CTNNB1,3.0,1.0,0.0,synonym,0
+WNT_signaling,Overlap count only,8,Disease,APC;AXIN1;CTNNB1,3.0,0.85,0.0,synonym,0
+WNT_signaling,Overlap count only,9,Diseases of signal transduction by growth factor receptors and second messengers,APC;AXIN1;CTNNB1,3.0,0.55,0.0,synonym,0
+WNT_signaling,Overlap count only,10,Metabolism of proteins,APC;AXIN1;CTNNB1,3.0,0.85,0.0,synonym,0
+MAPK_signaling,GraphRAG-Gene full,1,MAP2K and MAPK activation,BRAF;KRAS;MAPK1,31.75,1.0,0.75,synonym,1
+MAPK_signaling,GraphRAG-Gene full,2,MAPK family signaling cascades,BRAF;KRAS;MAPK1,31.75,1.0,0.75,synonym,1
+MAPK_signaling,GraphRAG-Gene full,3,MAPK1/MAPK3 signaling,BRAF;KRAS;MAPK1,31.75,1.0,0.75,synonym,1
+MAPK_signaling,GraphRAG-Gene full,4,Negative regulation of MAPK pathway,BRAF;KRAS;MAPK1,31.75,1.0,0.75,synonym,1
+MAPK_signaling,GraphRAG-Gene full,5,Oncogenic MAPK signaling,BRAF;KRAS;MAPK1,31.75,1.0,0.75,synonym,1
+MAPK_signaling,GraphRAG-Gene full,6,Paradoxical activation of RAF signaling by kinase inactive BRAF,BRAF;KRAS;MAPK1,31.75,1.0,0.75,synonym,1
+MAPK_signaling,GraphRAG-Gene full,7,RAF/MAP kinase cascade,BRAF;KRAS;MAPK1,31.75,1.0,0.75,synonym,1
+MAPK_signaling,GraphRAG-Gene full,8,Signaling by BRAF and RAF1 fusions,BRAF;KRAS;MAPK1,31.75,1.0,0.75,synonym,1
+MAPK_signaling,GraphRAG-Gene full,9,Signaling by FGFR,BRAF;KRAS;MAPK1,31.75,1.0,0.75,synonym,0
+MAPK_signaling,GraphRAG-Gene full,10,Signaling by FGFR1,BRAF;KRAS;MAPK1,31.75,1.0,0.75,synonym,0
+MAPK_signaling,No direct-relation bonus,1,MAP2K and MAPK activation,BRAF;KRAS;MAPK1,31.0,1.0,0.0,synonym,1
+MAPK_signaling,No direct-relation bonus,2,MAPK family signaling cascades,BRAF;KRAS;MAPK1,31.0,1.0,0.0,synonym,1
+MAPK_signaling,No direct-relation bonus,3,MAPK1/MAPK3 signaling,BRAF;KRAS;MAPK1,31.0,1.0,0.0,synonym,1
+MAPK_signaling,No direct-relation bonus,4,Negative regulation of MAPK pathway,BRAF;KRAS;MAPK1,31.0,1.0,0.0,synonym,1
+MAPK_signaling,No direct-relation bonus,5,Oncogenic MAPK signaling,BRAF;KRAS;MAPK1,31.0,1.0,0.0,synonym,1
+MAPK_signaling,No direct-relation bonus,6,Paradoxical activation of RAF signaling by kinase inactive BRAF,BRAF;KRAS;MAPK1,31.0,1.0,0.0,synonym,1
+MAPK_signaling,No direct-relation bonus,7,RAF/MAP kinase cascade,BRAF;KRAS;MAPK1,31.0,1.0,0.0,synonym,1
+MAPK_signaling,No direct-relation bonus,8,Signaling by BRAF and RAF1 fusions,BRAF;KRAS;MAPK1,31.0,1.0,0.0,synonym,1
+MAPK_signaling,No direct-relation bonus,9,Signaling by FGFR,BRAF;KRAS;MAPK1,31.0,1.0,0.0,synonym,0
+MAPK_signaling,No direct-relation bonus,10,Signaling by FGFR1,BRAF;KRAS;MAPK1,31.0,1.0,0.0,synonym,0
+MAPK_signaling,No specificity weighting,1,Disease,BRAF;KRAS;MAPK1,30.75,0.85,0.75,synonym,0
+MAPK_signaling,No specificity weighting,2,Diseases of signal transduction by growth factor receptors and second messengers,BRAF;KRAS;MAPK1,30.75,0.55,0.75,synonym,0
+MAPK_signaling,No specificity weighting,3,MAP2K and MAPK activation,BRAF;KRAS;MAPK1,30.75,1.0,0.75,synonym,1
+MAPK_signaling,No specificity weighting,4,MAPK family signaling cascades,BRAF;KRAS;MAPK1,30.75,1.0,0.75,synonym,1
+MAPK_signaling,No specificity weighting,5,MAPK1/MAPK3 signaling,BRAF;KRAS;MAPK1,30.75,1.0,0.75,synonym,1
+MAPK_signaling,No specificity weighting,6,Negative regulation of MAPK pathway,BRAF;KRAS;MAPK1,30.75,1.0,0.75,synonym,1
+MAPK_signaling,No specificity weighting,7,Oncogenic MAPK signaling,BRAF;KRAS;MAPK1,30.75,1.0,0.75,synonym,1
+MAPK_signaling,No specificity weighting,8,Paradoxical activation of RAF signaling by kinase inactive BRAF,BRAF;KRAS;MAPK1,30.75,1.0,0.75,synonym,1
+MAPK_signaling,No specificity weighting,9,RAF/MAP kinase cascade,BRAF;KRAS;MAPK1,30.75,1.0,0.75,synonym,1
+MAPK_signaling,No specificity weighting,10,Signal Transduction,BRAF;KRAS;MAPK1,30.75,0.85,0.75,synonym,0
+MAPK_signaling,Overlap count only,1,Disease,BRAF;KRAS;MAPK1,3.0,0.85,0.0,synonym,0
+MAPK_signaling,Overlap count only,2,Diseases of signal transduction by growth factor receptors and second messengers,BRAF;KRAS;MAPK1,3.0,0.55,0.0,synonym,0
+MAPK_signaling,Overlap count only,3,MAP2K and MAPK activation,BRAF;KRAS;MAPK1,3.0,1.0,0.0,synonym,1
+MAPK_signaling,Overlap count only,4,MAPK family signaling cascades,BRAF;KRAS;MAPK1,3.0,1.0,0.0,synonym,1
+MAPK_signaling,Overlap count only,5,MAPK1/MAPK3 signaling,BRAF;KRAS;MAPK1,3.0,1.0,0.0,synonym,1
+MAPK_signaling,Overlap count only,6,Negative regulation of MAPK pathway,BRAF;KRAS;MAPK1,3.0,1.0,0.0,synonym,1
+MAPK_signaling,Overlap count only,7,Oncogenic MAPK signaling,BRAF;KRAS;MAPK1,3.0,1.0,0.0,synonym,1
+MAPK_signaling,Overlap count only,8,Paradoxical activation of RAF signaling by kinase inactive BRAF,BRAF;KRAS;MAPK1,3.0,1.0,0.0,synonym,1
+MAPK_signaling,Overlap count only,9,RAF/MAP kinase cascade,BRAF;KRAS;MAPK1,3.0,1.0,0.0,synonym,1
+MAPK_signaling,Overlap count only,10,Signal Transduction,BRAF;KRAS;MAPK1,3.0,0.85,0.0,synonym,0
+PI3K_AKT,GraphRAG-Gene full,1,Adaptive Immune System,AKT1;PIK3CA;PTEN,31.75,1.0,0.75,synonym,0
+PI3K_AKT,GraphRAG-Gene full,2,Immune System,AKT1;PIK3CA;PTEN,31.75,1.0,0.75,synonym,0
+PI3K_AKT,GraphRAG-Gene full,3,Intracellular signaling by second messengers,AKT1;PIK3CA;PTEN,31.75,1.0,0.75,synonym,0
+PI3K_AKT,GraphRAG-Gene full,4,Negative regulation of the PI3K/AKT network,AKT1;PIK3CA;PTEN,31.75,1.0,0.75,synonym,1
+PI3K_AKT,GraphRAG-Gene full,5,PI3K/AKT Signaling in Cancer,AKT1;PIK3CA;PTEN,31.75,1.0,0.75,synonym,1
+PI3K_AKT,GraphRAG-Gene full,6,PIP3 activates AKT signaling,AKT1;PIK3CA;PTEN,31.75,1.0,0.75,synonym,1
+PI3K_AKT,GraphRAG-Gene full,7,Disease,AKT1;PIK3CA;PTEN,31.6,0.85,0.75,synonym,0
+PI3K_AKT,GraphRAG-Gene full,8,Metabolism,AKT1;PIK3CA;PTEN,31.6,0.85,0.75,synonym,0
+PI3K_AKT,GraphRAG-Gene full,9,Signal Transduction,AKT1;PIK3CA;PTEN,31.6,0.85,0.75,synonym,0
+PI3K_AKT,GraphRAG-Gene full,10,Diseases of signal transduction by growth factor receptors and second messengers,AKT1;PIK3CA;PTEN,31.3,0.55,0.75,synonym,0
+PI3K_AKT,No direct-relation bonus,1,Adaptive Immune System,AKT1;PIK3CA;PTEN,31.0,1.0,0.0,synonym,0
+PI3K_AKT,No direct-relation bonus,2,Immune System,AKT1;PIK3CA;PTEN,31.0,1.0,0.0,synonym,0
+PI3K_AKT,No direct-relation bonus,3,Intracellular signaling by second messengers,AKT1;PIK3CA;PTEN,31.0,1.0,0.0,synonym,0
+PI3K_AKT,No direct-relation bonus,4,Negative regulation of the PI3K/AKT network,AKT1;PIK3CA;PTEN,31.0,1.0,0.0,synonym,1
+PI3K_AKT,No direct-relation bonus,5,PI3K/AKT Signaling in Cancer,AKT1;PIK3CA;PTEN,31.0,1.0,0.0,synonym,1
+PI3K_AKT,No direct-relation bonus,6,PIP3 activates AKT signaling,AKT1;PIK3CA;PTEN,31.0,1.0,0.0,synonym,1
+PI3K_AKT,No direct-relation bonus,7,Disease,AKT1;PIK3CA;PTEN,30.85,0.85,0.0,synonym,0
+PI3K_AKT,No direct-relation bonus,8,Metabolism,AKT1;PIK3CA;PTEN,30.85,0.85,0.0,synonym,0
+PI3K_AKT,No direct-relation bonus,9,Signal Transduction,AKT1;PIK3CA;PTEN,30.85,0.85,0.0,synonym,0
+PI3K_AKT,No direct-relation bonus,10,Diseases of signal transduction by growth factor receptors and second messengers,AKT1;PIK3CA;PTEN,30.55,0.55,0.0,synonym,0
+PI3K_AKT,No specificity weighting,1,Adaptive Immune System,AKT1;PIK3CA;PTEN,30.75,1.0,0.75,synonym,0
+PI3K_AKT,No specificity weighting,2,Disease,AKT1;PIK3CA;PTEN,30.75,0.85,0.75,synonym,0
+PI3K_AKT,No specificity weighting,3,Diseases of signal transduction by growth factor receptors and second messengers,AKT1;PIK3CA;PTEN,30.75,0.55,0.75,synonym,0
+PI3K_AKT,No specificity weighting,4,Immune System,AKT1;PIK3CA;PTEN,30.75,1.0,0.75,synonym,0
+PI3K_AKT,No specificity weighting,5,Intracellular signaling by second messengers,AKT1;PIK3CA;PTEN,30.75,1.0,0.75,synonym,0
+PI3K_AKT,No specificity weighting,6,Metabolism,AKT1;PIK3CA;PTEN,30.75,0.85,0.75,synonym,0
+PI3K_AKT,No specificity weighting,7,Negative regulation of the PI3K/AKT network,AKT1;PIK3CA;PTEN,30.75,1.0,0.75,synonym,1
+PI3K_AKT,No specificity weighting,8,PI3K/AKT Signaling in Cancer,AKT1;PIK3CA;PTEN,30.75,1.0,0.75,synonym,1
+PI3K_AKT,No specificity weighting,9,PIP3 activates AKT signaling,AKT1;PIK3CA;PTEN,30.75,1.0,0.75,synonym,1
+PI3K_AKT,No specificity weighting,10,Signal Transduction,AKT1;PIK3CA;PTEN,30.75,0.85,0.75,synonym,0
+PI3K_AKT,Overlap count only,1,Adaptive Immune System,AKT1;PIK3CA;PTEN,3.0,1.0,0.0,synonym,0
+PI3K_AKT,Overlap count only,2,Disease,AKT1;PIK3CA;PTEN,3.0,0.85,0.0,synonym,0
+PI3K_AKT,Overlap count only,3,Diseases of signal transduction by growth factor receptors and second messengers,AKT1;PIK3CA;PTEN,3.0,0.55,0.0,synonym,0
+PI3K_AKT,Overlap count only,4,Immune System,AKT1;PIK3CA;PTEN,3.0,1.0,0.0,synonym,0
+PI3K_AKT,Overlap count only,5,Intracellular signaling by second messengers,AKT1;PIK3CA;PTEN,3.0,1.0,0.0,synonym,0
+PI3K_AKT,Overlap count only,6,Metabolism,AKT1;PIK3CA;PTEN,3.0,0.85,0.0,synonym,0
+PI3K_AKT,Overlap count only,7,Negative regulation of the PI3K/AKT network,AKT1;PIK3CA;PTEN,3.0,1.0,0.0,synonym,1
+PI3K_AKT,Overlap count only,8,PI3K/AKT Signaling in Cancer,AKT1;PIK3CA;PTEN,3.0,1.0,0.0,synonym,1
+PI3K_AKT,Overlap count only,9,PIP3 activates AKT signaling,AKT1;PIK3CA;PTEN,3.0,1.0,0.0,synonym,1
+PI3K_AKT,Overlap count only,10,Signal Transduction,AKT1;PIK3CA;PTEN,3.0,0.85,0.0,synonym,0
+TGF_beta,GraphRAG-Gene full,1,Deubiquitination,SMAD2;SMAD3;TGFB1,31.75,1.0,0.75,synonym,0
+TGF_beta,GraphRAG-Gene full,2,Downregulation of TGF-beta receptor signaling,SMAD2;SMAD3;TGFB1,31.75,1.0,0.75,synonym,1
+TGF_beta,GraphRAG-Gene full,3,Loss of Function of SMAD2/3 in Cancer,SMAD2;SMAD3;TGFB1,31.75,1.0,0.75,synonym,1
+TGF_beta,GraphRAG-Gene full,4,Loss of Function of TGFBR1 in Cancer,SMAD2;SMAD3;TGFB1,31.75,1.0,0.75,synonym,1
+TGF_beta,GraphRAG-Gene full,5,Post-translational protein modification,SMAD2;SMAD3;TGFB1,31.75,1.0,0.75,synonym,0
+TGF_beta,GraphRAG-Gene full,6,Signaling by TGF-beta Receptor Complex,SMAD2;SMAD3;TGFB1,31.75,1.0,0.75,synonym,1
+TGF_beta,GraphRAG-Gene full,7,Signaling by TGF-beta Receptor Complex in Cancer,SMAD2;SMAD3;TGFB1,31.75,1.0,0.75,synonym,1
+TGF_beta,GraphRAG-Gene full,8,Signaling by TGFB family members,SMAD2;SMAD3;TGFB1,31.75,1.0,0.75,synonym,1
+TGF_beta,GraphRAG-Gene full,9,SMAD2/3 Phosphorylation Motif Mutants in Cancer,SMAD2;SMAD3;TGFB1,31.75,1.0,0.75,synonym,1
+TGF_beta,GraphRAG-Gene full,10,TGF-beta receptor signaling activates SMADs,SMAD2;SMAD3;TGFB1,31.75,1.0,0.75,synonym,1
+TGF_beta,No direct-relation bonus,1,Deubiquitination,SMAD2;SMAD3;TGFB1,31.0,1.0,0.0,synonym,0
+TGF_beta,No direct-relation bonus,2,Downregulation of TGF-beta receptor signaling,SMAD2;SMAD3;TGFB1,31.0,1.0,0.0,synonym,1
+TGF_beta,No direct-relation bonus,3,Loss of Function of SMAD2/3 in Cancer,SMAD2;SMAD3;TGFB1,31.0,1.0,0.0,synonym,1
+TGF_beta,No direct-relation bonus,4,Loss of Function of TGFBR1 in Cancer,SMAD2;SMAD3;TGFB1,31.0,1.0,0.0,synonym,1
+TGF_beta,No direct-relation bonus,5,Post-translational protein modification,SMAD2;SMAD3;TGFB1,31.0,1.0,0.0,synonym,0
+TGF_beta,No direct-relation bonus,6,Signaling by TGF-beta Receptor Complex,SMAD2;SMAD3;TGFB1,31.0,1.0,0.0,synonym,1
+TGF_beta,No direct-relation bonus,7,Signaling by TGF-beta Receptor Complex in Cancer,SMAD2;SMAD3;TGFB1,31.0,1.0,0.0,synonym,1
+TGF_beta,No direct-relation bonus,8,Signaling by TGFB family members,SMAD2;SMAD3;TGFB1,31.0,1.0,0.0,synonym,1
+TGF_beta,No direct-relation bonus,9,SMAD2/3 Phosphorylation Motif Mutants in Cancer,SMAD2;SMAD3;TGFB1,31.0,1.0,0.0,synonym,1
+TGF_beta,No direct-relation bonus,10,TGF-beta receptor signaling activates SMADs,SMAD2;SMAD3;TGFB1,31.0,1.0,0.0,synonym,1
+TGF_beta,No specificity weighting,1,Deubiquitination,SMAD2;SMAD3;TGFB1,30.75,1.0,0.75,synonym,0
+TGF_beta,No specificity weighting,2,Developmental Biology,SMAD2;SMAD3;TGFB1,30.75,0.85,0.75,synonym,0
+TGF_beta,No specificity weighting,3,Disease,SMAD2;SMAD3;TGFB1,30.75,0.85,0.75,synonym,0
+TGF_beta,No specificity weighting,4,Diseases of signal transduction by growth factor receptors and second messengers,SMAD2;SMAD3;TGFB1,30.75,0.55,0.75,synonym,0
+TGF_beta,No specificity weighting,5,Downregulation of TGF-beta receptor signaling,SMAD2;SMAD3;TGFB1,30.75,1.0,0.75,synonym,1
+TGF_beta,No specificity weighting,6,Gene expression (Transcription),SMAD2;SMAD3;TGFB1,30.75,0.7,0.75,synonym,0
+TGF_beta,No specificity weighting,7,Generic Transcription Pathway,SMAD2;SMAD3;TGFB1,30.75,0.85,0.75,synonym,0
+TGF_beta,No specificity weighting,8,Loss of Function of SMAD2/3 in Cancer,SMAD2;SMAD3;TGFB1,30.75,1.0,0.75,synonym,1
+TGF_beta,No specificity weighting,9,Loss of Function of TGFBR1 in Cancer,SMAD2;SMAD3;TGFB1,30.75,1.0,0.75,synonym,1
+TGF_beta,No specificity weighting,10,Metabolism of proteins,SMAD2;SMAD3;TGFB1,30.75,0.85,0.75,synonym,0
+TGF_beta,Overlap count only,1,Deubiquitination,SMAD2;SMAD3;TGFB1,3.0,1.0,0.0,synonym,0
+TGF_beta,Overlap count only,2,Developmental Biology,SMAD2;SMAD3;TGFB1,3.0,0.85,0.0,synonym,0
+TGF_beta,Overlap count only,3,Disease,SMAD2;SMAD3;TGFB1,3.0,0.85,0.0,synonym,0
+TGF_beta,Overlap count only,4,Diseases of signal transduction by growth factor receptors and second messengers,SMAD2;SMAD3;TGFB1,3.0,0.55,0.0,synonym,0
+TGF_beta,Overlap count only,5,Downregulation of TGF-beta receptor signaling,SMAD2;SMAD3;TGFB1,3.0,1.0,0.0,synonym,1
+TGF_beta,Overlap count only,6,Gene expression (Transcription),SMAD2;SMAD3;TGFB1,3.0,0.7,0.0,synonym,0
+TGF_beta,Overlap count only,7,Generic Transcription Pathway,SMAD2;SMAD3;TGFB1,3.0,0.85,0.0,synonym,0
+TGF_beta,Overlap count only,8,Loss of Function of SMAD2/3 in Cancer,SMAD2;SMAD3;TGFB1,3.0,1.0,0.0,synonym,1
+TGF_beta,Overlap count only,9,Loss of Function of TGFBR1 in Cancer,SMAD2;SMAD3;TGFB1,3.0,1.0,0.0,synonym,1
+TGF_beta,Overlap count only,10,Metabolism of proteins,SMAD2;SMAD3;TGFB1,3.0,0.85,0.0,synonym,0
+NOTCH_signaling,GraphRAG-Gene full,1,Activated NOTCH1 Transmits Signal to the Nucleus,DLL4;JAG1;NOTCH1,31.5,1.0,0.5,synonym,1
+NOTCH_signaling,GraphRAG-Gene full,2,Constitutive Signaling by NOTCH1 HD Domain Mutants,DLL4;JAG1;NOTCH1,31.5,1.0,0.5,synonym,1
+NOTCH_signaling,GraphRAG-Gene full,3,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants,DLL4;JAG1;NOTCH1,31.5,1.0,0.5,synonym,1
+NOTCH_signaling,GraphRAG-Gene full,4,Constitutive Signaling by NOTCH1 PEST Domain Mutants,DLL4;JAG1;NOTCH1,31.5,1.0,0.5,synonym,1
+NOTCH_signaling,GraphRAG-Gene full,5,Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant,DLL4;JAG1;NOTCH1,31.5,1.0,0.5,synonym,1
+NOTCH_signaling,GraphRAG-Gene full,6,Signaling by NOTCH,DLL4;JAG1;NOTCH1,31.5,1.0,0.5,synonym,1
+NOTCH_signaling,GraphRAG-Gene full,7,Signaling by NOTCH1,DLL4;JAG1;NOTCH1,31.5,1.0,0.5,synonym,1
+NOTCH_signaling,GraphRAG-Gene full,8,Signaling by NOTCH1 HD Domain Mutants in Cancer,DLL4;JAG1;NOTCH1,31.5,1.0,0.5,synonym,1
+NOTCH_signaling,GraphRAG-Gene full,9,Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer,DLL4;JAG1;NOTCH1,31.5,1.0,0.5,synonym,1
+NOTCH_signaling,GraphRAG-Gene full,10,Signaling by NOTCH1 in Cancer,DLL4;JAG1;NOTCH1,31.5,1.0,0.5,synonym,1
+NOTCH_signaling,No direct-relation bonus,1,Activated NOTCH1 Transmits Signal to the Nucleus,DLL4;JAG1;NOTCH1,31.0,1.0,0.0,synonym,1
+NOTCH_signaling,No direct-relation bonus,2,Constitutive Signaling by NOTCH1 HD Domain Mutants,DLL4;JAG1;NOTCH1,31.0,1.0,0.0,synonym,1
+NOTCH_signaling,No direct-relation bonus,3,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants,DLL4;JAG1;NOTCH1,31.0,1.0,0.0,synonym,1
+NOTCH_signaling,No direct-relation bonus,4,Constitutive Signaling by NOTCH1 PEST Domain Mutants,DLL4;JAG1;NOTCH1,31.0,1.0,0.0,synonym,1
+NOTCH_signaling,No direct-relation bonus,5,Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant,DLL4;JAG1;NOTCH1,31.0,1.0,0.0,synonym,1
+NOTCH_signaling,No direct-relation bonus,6,Signaling by NOTCH,DLL4;JAG1;NOTCH1,31.0,1.0,0.0,synonym,1
+NOTCH_signaling,No direct-relation bonus,7,Signaling by NOTCH1,DLL4;JAG1;NOTCH1,31.0,1.0,0.0,synonym,1
+NOTCH_signaling,No direct-relation bonus,8,Signaling by NOTCH1 HD Domain Mutants in Cancer,DLL4;JAG1;NOTCH1,31.0,1.0,0.0,synonym,1
+NOTCH_signaling,No direct-relation bonus,9,Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer,DLL4;JAG1;NOTCH1,31.0,1.0,0.0,synonym,1
+NOTCH_signaling,No direct-relation bonus,10,Signaling by NOTCH1 in Cancer,DLL4;JAG1;NOTCH1,31.0,1.0,0.0,synonym,1
+NOTCH_signaling,No specificity weighting,1,Activated NOTCH1 Transmits Signal to the Nucleus,DLL4;JAG1;NOTCH1,30.5,1.0,0.5,synonym,1
+NOTCH_signaling,No specificity weighting,2,Constitutive Signaling by NOTCH1 HD Domain Mutants,DLL4;JAG1;NOTCH1,30.5,1.0,0.5,synonym,1
+NOTCH_signaling,No specificity weighting,3,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants,DLL4;JAG1;NOTCH1,30.5,1.0,0.5,synonym,1
+NOTCH_signaling,No specificity weighting,4,Constitutive Signaling by NOTCH1 PEST Domain Mutants,DLL4;JAG1;NOTCH1,30.5,1.0,0.5,synonym,1
+NOTCH_signaling,No specificity weighting,5,Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant,DLL4;JAG1;NOTCH1,30.5,1.0,0.5,synonym,1
+NOTCH_signaling,No specificity weighting,6,Disease,DLL4;JAG1;NOTCH1,30.5,0.85,0.5,synonym,0
+NOTCH_signaling,No specificity weighting,7,Diseases of signal transduction by growth factor receptors and second messengers,DLL4;JAG1;NOTCH1,30.5,0.55,0.5,synonym,0
+NOTCH_signaling,No specificity weighting,8,Signal Transduction,DLL4;JAG1;NOTCH1,30.5,0.85,0.5,synonym,0
+NOTCH_signaling,No specificity weighting,9,Signaling by NOTCH,DLL4;JAG1;NOTCH1,30.5,1.0,0.5,synonym,1
+NOTCH_signaling,No specificity weighting,10,Signaling by NOTCH1,DLL4;JAG1;NOTCH1,30.5,1.0,0.5,synonym,1
+NOTCH_signaling,Overlap count only,1,Activated NOTCH1 Transmits Signal to the Nucleus,DLL4;JAG1;NOTCH1,3.0,1.0,0.0,synonym,1
+NOTCH_signaling,Overlap count only,2,Constitutive Signaling by NOTCH1 HD Domain Mutants,DLL4;JAG1;NOTCH1,3.0,1.0,0.0,synonym,1
+NOTCH_signaling,Overlap count only,3,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants,DLL4;JAG1;NOTCH1,3.0,1.0,0.0,synonym,1
+NOTCH_signaling,Overlap count only,4,Constitutive Signaling by NOTCH1 PEST Domain Mutants,DLL4;JAG1;NOTCH1,3.0,1.0,0.0,synonym,1
+NOTCH_signaling,Overlap count only,5,Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant,DLL4;JAG1;NOTCH1,3.0,1.0,0.0,synonym,1
+NOTCH_signaling,Overlap count only,6,Disease,DLL4;JAG1;NOTCH1,3.0,0.85,0.0,synonym,0
+NOTCH_signaling,Overlap count only,7,Diseases of signal transduction by growth factor receptors and second messengers,DLL4;JAG1;NOTCH1,3.0,0.55,0.0,synonym,0
+NOTCH_signaling,Overlap count only,8,Signal Transduction,DLL4;JAG1;NOTCH1,3.0,0.85,0.0,synonym,0
+NOTCH_signaling,Overlap count only,9,Signaling by NOTCH,DLL4;JAG1;NOTCH1,3.0,1.0,0.0,synonym,1
+NOTCH_signaling,Overlap count only,10,Signaling by NOTCH1,DLL4;JAG1;NOTCH1,3.0,1.0,0.0,synonym,1
+TP53_pathway,GraphRAG-Gene full,1,Cell Cycle,CDKN1A;MDM2;TP53,31.75,1.0,0.75,synonym,0
+TP53_pathway,GraphRAG-Gene full,2,Cell Cycle Checkpoints,CDKN1A;MDM2;TP53,31.75,1.0,0.75,synonym,1
+TP53_pathway,GraphRAG-Gene full,3,Cellular Senescence,CDKN1A;MDM2;TP53,31.75,1.0,0.75,synonym,0
+TP53_pathway,GraphRAG-Gene full,4,G1/S DNA Damage Checkpoints,CDKN1A;MDM2;TP53,31.75,1.0,0.75,synonym,1
+TP53_pathway,GraphRAG-Gene full,5,Intracellular signaling by second messengers,CDKN1A;MDM2;TP53,31.75,1.0,0.75,synonym,0
+TP53_pathway,GraphRAG-Gene full,6,p53-Dependent G1 DNA Damage Response,CDKN1A;MDM2;TP53,31.75,1.0,0.75,synonym,1
+TP53_pathway,GraphRAG-Gene full,7,p53-Dependent G1/S DNA damage checkpoint,CDKN1A;MDM2;TP53,31.75,1.0,0.75,synonym,1
+TP53_pathway,GraphRAG-Gene full,8,PIP3 activates AKT signaling,CDKN1A;MDM2;TP53,31.75,1.0,0.75,synonym,0
+TP53_pathway,GraphRAG-Gene full,9,Post-translational protein modification,CDKN1A;MDM2;TP53,31.75,1.0,0.75,synonym,0
+TP53_pathway,GraphRAG-Gene full,10,Signaling by ALK fusions and activated point mutants,CDKN1A;MDM2;TP53,31.75,1.0,0.75,synonym,0
+TP53_pathway,No direct-relation bonus,1,Cell Cycle,CDKN1A;MDM2;TP53,31.0,1.0,0.0,synonym,0
+TP53_pathway,No direct-relation bonus,2,Cell Cycle Checkpoints,CDKN1A;MDM2;TP53,31.0,1.0,0.0,synonym,1
+TP53_pathway,No direct-relation bonus,3,Cellular Senescence,CDKN1A;MDM2;TP53,31.0,1.0,0.0,synonym,0
+TP53_pathway,No direct-relation bonus,4,G1/S DNA Damage Checkpoints,CDKN1A;MDM2;TP53,31.0,1.0,0.0,synonym,1
+TP53_pathway,No direct-relation bonus,5,Intracellular signaling by second messengers,CDKN1A;MDM2;TP53,31.0,1.0,0.0,synonym,0
+TP53_pathway,No direct-relation bonus,6,p53-Dependent G1 DNA Damage Response,CDKN1A;MDM2;TP53,31.0,1.0,0.0,synonym,1
+TP53_pathway,No direct-relation bonus,7,p53-Dependent G1/S DNA damage checkpoint,CDKN1A;MDM2;TP53,31.0,1.0,0.0,synonym,1
+TP53_pathway,No direct-relation bonus,8,PIP3 activates AKT signaling,CDKN1A;MDM2;TP53,31.0,1.0,0.0,synonym,0
+TP53_pathway,No direct-relation bonus,9,Post-translational protein modification,CDKN1A;MDM2;TP53,31.0,1.0,0.0,synonym,0
+TP53_pathway,No direct-relation bonus,10,Signaling by ALK fusions and activated point mutants,CDKN1A;MDM2;TP53,31.0,1.0,0.0,synonym,0
+TP53_pathway,No specificity weighting,1,Cell Cycle,CDKN1A;MDM2;TP53,30.75,1.0,0.75,synonym,0
+TP53_pathway,No specificity weighting,2,Cell Cycle Checkpoints,CDKN1A;MDM2;TP53,30.75,1.0,0.75,synonym,1
+TP53_pathway,No specificity weighting,3,Cellular responses to stimuli,CDKN1A;MDM2;TP53,30.75,0.7,0.75,synonym,0
+TP53_pathway,No specificity weighting,4,Cellular responses to stress,CDKN1A;MDM2;TP53,30.75,0.7,0.75,synonym,0
+TP53_pathway,No specificity weighting,5,Cellular Senescence,CDKN1A;MDM2;TP53,30.75,1.0,0.75,synonym,0
+TP53_pathway,No specificity weighting,6,Disease,CDKN1A;MDM2;TP53,30.75,0.85,0.75,synonym,0
+TP53_pathway,No specificity weighting,7,Diseases of signal transduction by growth factor receptors and second messengers,CDKN1A;MDM2;TP53,30.75,0.55,0.75,synonym,0
+TP53_pathway,No specificity weighting,8,G1/S DNA Damage Checkpoints,CDKN1A;MDM2;TP53,30.75,1.0,0.75,synonym,1
+TP53_pathway,No specificity weighting,9,Gene expression (Transcription),CDKN1A;MDM2;TP53,30.75,0.7,0.75,synonym,0
+TP53_pathway,No specificity weighting,10,Generic Transcription Pathway,CDKN1A;MDM2;TP53,30.75,0.85,0.75,synonym,0
+TP53_pathway,Overlap count only,1,Cell Cycle,CDKN1A;MDM2;TP53,3.0,1.0,0.0,synonym,0
+TP53_pathway,Overlap count only,2,Cell Cycle Checkpoints,CDKN1A;MDM2;TP53,3.0,1.0,0.0,synonym,1
+TP53_pathway,Overlap count only,3,Cellular responses to stimuli,CDKN1A;MDM2;TP53,3.0,0.7,0.0,synonym,0
+TP53_pathway,Overlap count only,4,Cellular responses to stress,CDKN1A;MDM2;TP53,3.0,0.7,0.0,synonym,0
+TP53_pathway,Overlap count only,5,Cellular Senescence,CDKN1A;MDM2;TP53,3.0,1.0,0.0,synonym,0
+TP53_pathway,Overlap count only,6,Disease,CDKN1A;MDM2;TP53,3.0,0.85,0.0,synonym,0
+TP53_pathway,Overlap count only,7,Diseases of signal transduction by growth factor receptors and second messengers,CDKN1A;MDM2;TP53,3.0,0.55,0.0,synonym,0
+TP53_pathway,Overlap count only,8,G1/S DNA Damage Checkpoints,CDKN1A;MDM2;TP53,3.0,1.0,0.0,synonym,1
+TP53_pathway,Overlap count only,9,Gene expression (Transcription),CDKN1A;MDM2;TP53,3.0,0.7,0.0,synonym,0
+TP53_pathway,Overlap count only,10,Generic Transcription Pathway,CDKN1A;MDM2;TP53,3.0,0.85,0.0,synonym,0
+EGFR_signaling,GraphRAG-Gene full,1,Axon guidance,EGFR;ERBB2;GRB2,31.75,1.0,0.75,synonym,0
+EGFR_signaling,GraphRAG-Gene full,2,Constitutive Signaling by Aberrant PI3K in Cancer,EGFR;ERBB2;GRB2,31.75,1.0,0.75,synonym,0
+EGFR_signaling,GraphRAG-Gene full,3,GRB2 events in ERBB2 signaling,EGFR;ERBB2;GRB2,31.75,1.0,0.75,synonym,1
+EGFR_signaling,GraphRAG-Gene full,4,Intracellular signaling by second messengers,EGFR;ERBB2;GRB2,31.75,1.0,0.75,synonym,0
+EGFR_signaling,GraphRAG-Gene full,5,MAPK family signaling cascades,EGFR;ERBB2;GRB2,31.75,1.0,0.75,synonym,0
+EGFR_signaling,GraphRAG-Gene full,6,MAPK1/MAPK3 signaling,EGFR;ERBB2;GRB2,31.75,1.0,0.75,synonym,0
+EGFR_signaling,GraphRAG-Gene full,7,Negative regulation of the PI3K/AKT network,EGFR;ERBB2;GRB2,31.75,1.0,0.75,synonym,0
+EGFR_signaling,GraphRAG-Gene full,8,Nervous system development,EGFR;ERBB2;GRB2,31.75,1.0,0.75,synonym,0
+EGFR_signaling,GraphRAG-Gene full,9,PI3K events in ERBB2 signaling,EGFR;ERBB2;GRB2,31.75,1.0,0.75,synonym,1
+EGFR_signaling,GraphRAG-Gene full,10,PI3K/AKT Signaling in Cancer,EGFR;ERBB2;GRB2,31.75,1.0,0.75,synonym,0
+EGFR_signaling,No direct-relation bonus,1,Axon guidance,EGFR;ERBB2;GRB2,31.0,1.0,0.0,synonym,0
+EGFR_signaling,No direct-relation bonus,2,Constitutive Signaling by Aberrant PI3K in Cancer,EGFR;ERBB2;GRB2,31.0,1.0,0.0,synonym,0
+EGFR_signaling,No direct-relation bonus,3,GRB2 events in ERBB2 signaling,EGFR;ERBB2;GRB2,31.0,1.0,0.0,synonym,1
+EGFR_signaling,No direct-relation bonus,4,Intracellular signaling by second messengers,EGFR;ERBB2;GRB2,31.0,1.0,0.0,synonym,0
+EGFR_signaling,No direct-relation bonus,5,MAPK family signaling cascades,EGFR;ERBB2;GRB2,31.0,1.0,0.0,synonym,0
+EGFR_signaling,No direct-relation bonus,6,MAPK1/MAPK3 signaling,EGFR;ERBB2;GRB2,31.0,1.0,0.0,synonym,0
+EGFR_signaling,No direct-relation bonus,7,Negative regulation of the PI3K/AKT network,EGFR;ERBB2;GRB2,31.0,1.0,0.0,synonym,0
+EGFR_signaling,No direct-relation bonus,8,Nervous system development,EGFR;ERBB2;GRB2,31.0,1.0,0.0,synonym,0
+EGFR_signaling,No direct-relation bonus,9,PI3K events in ERBB2 signaling,EGFR;ERBB2;GRB2,31.0,1.0,0.0,synonym,1
+EGFR_signaling,No direct-relation bonus,10,PI3K/AKT Signaling in Cancer,EGFR;ERBB2;GRB2,31.0,1.0,0.0,synonym,0
+EGFR_signaling,No specificity weighting,1,Axon guidance,EGFR;ERBB2;GRB2,30.75,1.0,0.75,synonym,0
+EGFR_signaling,No specificity weighting,2,Constitutive Signaling by Aberrant PI3K in Cancer,EGFR;ERBB2;GRB2,30.75,1.0,0.75,synonym,0
+EGFR_signaling,No specificity weighting,3,Developmental Biology,EGFR;ERBB2;GRB2,30.75,0.85,0.75,synonym,0
+EGFR_signaling,No specificity weighting,4,Disease,EGFR;ERBB2;GRB2,30.75,0.85,0.75,synonym,0
+EGFR_signaling,No specificity weighting,5,Diseases of signal transduction by growth factor receptors and second messengers,EGFR;ERBB2;GRB2,30.75,0.55,0.75,synonym,0
+EGFR_signaling,No specificity weighting,6,GRB2 events in ERBB2 signaling,EGFR;ERBB2;GRB2,30.75,1.0,0.75,synonym,1
+EGFR_signaling,No specificity weighting,7,Intracellular signaling by second messengers,EGFR;ERBB2;GRB2,30.75,1.0,0.75,synonym,0
+EGFR_signaling,No specificity weighting,8,MAPK family signaling cascades,EGFR;ERBB2;GRB2,30.75,1.0,0.75,synonym,0
+EGFR_signaling,No specificity weighting,9,MAPK1/MAPK3 signaling,EGFR;ERBB2;GRB2,30.75,1.0,0.75,synonym,0
+EGFR_signaling,No specificity weighting,10,Negative regulation of the PI3K/AKT network,EGFR;ERBB2;GRB2,30.75,1.0,0.75,synonym,0
+EGFR_signaling,Overlap count only,1,Axon guidance,EGFR;ERBB2;GRB2,3.0,1.0,0.0,synonym,0
+EGFR_signaling,Overlap count only,2,Constitutive Signaling by Aberrant PI3K in Cancer,EGFR;ERBB2;GRB2,3.0,1.0,0.0,synonym,0
+EGFR_signaling,Overlap count only,3,Developmental Biology,EGFR;ERBB2;GRB2,3.0,0.85,0.0,synonym,0
+EGFR_signaling,Overlap count only,4,Disease,EGFR;ERBB2;GRB2,3.0,0.85,0.0,synonym,0
+EGFR_signaling,Overlap count only,5,Diseases of signal transduction by growth factor receptors and second messengers,EGFR;ERBB2;GRB2,3.0,0.55,0.0,synonym,0
+EGFR_signaling,Overlap count only,6,GRB2 events in ERBB2 signaling,EGFR;ERBB2;GRB2,3.0,1.0,0.0,synonym,1
+EGFR_signaling,Overlap count only,7,Intracellular signaling by second messengers,EGFR;ERBB2;GRB2,3.0,1.0,0.0,synonym,0
+EGFR_signaling,Overlap count only,8,MAPK family signaling cascades,EGFR;ERBB2;GRB2,3.0,1.0,0.0,synonym,0
+EGFR_signaling,Overlap count only,9,MAPK1/MAPK3 signaling,EGFR;ERBB2;GRB2,3.0,1.0,0.0,synonym,0
+EGFR_signaling,Overlap count only,10,Negative regulation of the PI3K/AKT network,EGFR;ERBB2;GRB2,3.0,1.0,0.0,synonym,0
+Interferon_signaling,GraphRAG-Gene full,1,Cytokine Signaling in Immune system,IFNA1;IFNB1;STAT1,31.75,1.0,0.75,synonym,1
+Interferon_signaling,GraphRAG-Gene full,2,Immune System,IFNA1;IFNB1;STAT1,31.75,1.0,0.75,synonym,0
+Interferon_signaling,GraphRAG-Gene full,3,Interferon alpha/beta signaling,IFNA1;IFNB1;STAT1,31.75,1.0,0.75,synonym,1
+Interferon_signaling,GraphRAG-Gene full,4,Interferon Signaling,IFNA1;IFNB1;STAT1,31.75,1.0,0.75,synonym,1
+Interferon_signaling,GraphRAG-Gene full,5,Regulation of IFNA/IFNB signaling,IFNA1;IFNB1;STAT1,31.75,1.0,0.75,synonym,0
+Interferon_signaling,GraphRAG-Gene full,6,SARS-CoV Infections,IFNA1;IFNB1;STAT1,31.75,1.0,0.75,synonym,0
+Interferon_signaling,GraphRAG-Gene full,7,SARS-CoV-2 activates/modulates innate and adaptive immune responses,IFNA1;IFNB1;STAT1,31.75,1.0,0.75,synonym,0
+Interferon_signaling,GraphRAG-Gene full,8,SARS-CoV-2 Infection,IFNA1;IFNB1;STAT1,31.75,1.0,0.75,synonym,0
+Interferon_signaling,GraphRAG-Gene full,9,SARS-CoV-2-host interactions,IFNA1;IFNB1;STAT1,31.75,1.0,0.75,synonym,0
+Interferon_signaling,GraphRAG-Gene full,10,Viral Infection Pathways,IFNA1;IFNB1;STAT1,31.75,1.0,0.75,synonym,0
+Interferon_signaling,No direct-relation bonus,1,Cytokine Signaling in Immune system,IFNA1;IFNB1;STAT1,31.0,1.0,0.0,synonym,1
+Interferon_signaling,No direct-relation bonus,2,Immune System,IFNA1;IFNB1;STAT1,31.0,1.0,0.0,synonym,0
+Interferon_signaling,No direct-relation bonus,3,Interferon alpha/beta signaling,IFNA1;IFNB1;STAT1,31.0,1.0,0.0,synonym,1
+Interferon_signaling,No direct-relation bonus,4,Interferon Signaling,IFNA1;IFNB1;STAT1,31.0,1.0,0.0,synonym,1
+Interferon_signaling,No direct-relation bonus,5,Regulation of IFNA/IFNB signaling,IFNA1;IFNB1;STAT1,31.0,1.0,0.0,synonym,0
+Interferon_signaling,No direct-relation bonus,6,SARS-CoV Infections,IFNA1;IFNB1;STAT1,31.0,1.0,0.0,synonym,0
+Interferon_signaling,No direct-relation bonus,7,SARS-CoV-2 activates/modulates innate and adaptive immune responses,IFNA1;IFNB1;STAT1,31.0,1.0,0.0,synonym,0
+Interferon_signaling,No direct-relation bonus,8,SARS-CoV-2 Infection,IFNA1;IFNB1;STAT1,31.0,1.0,0.0,synonym,0
+Interferon_signaling,No direct-relation bonus,9,SARS-CoV-2-host interactions,IFNA1;IFNB1;STAT1,31.0,1.0,0.0,synonym,0
+Interferon_signaling,No direct-relation bonus,10,Viral Infection Pathways,IFNA1;IFNB1;STAT1,31.0,1.0,0.0,synonym,0
+Interferon_signaling,No specificity weighting,1,Cytokine Signaling in Immune system,IFNA1;IFNB1;STAT1,30.75,1.0,0.75,synonym,1
+Interferon_signaling,No specificity weighting,2,Disease,IFNA1;IFNB1;STAT1,30.75,0.85,0.75,synonym,0
+Interferon_signaling,No specificity weighting,3,Immune System,IFNA1;IFNB1;STAT1,30.75,1.0,0.75,synonym,0
+Interferon_signaling,No specificity weighting,4,Infectious disease,IFNA1;IFNB1;STAT1,30.75,0.85,0.75,synonym,0
+Interferon_signaling,No specificity weighting,5,Interferon alpha/beta signaling,IFNA1;IFNB1;STAT1,30.75,1.0,0.75,synonym,1
+Interferon_signaling,No specificity weighting,6,Interferon Signaling,IFNA1;IFNB1;STAT1,30.75,1.0,0.75,synonym,1
+Interferon_signaling,No specificity weighting,7,Regulation of IFNA/IFNB signaling,IFNA1;IFNB1;STAT1,30.75,1.0,0.75,synonym,0
+Interferon_signaling,No specificity weighting,8,SARS-CoV Infections,IFNA1;IFNB1;STAT1,30.75,1.0,0.75,synonym,0
+Interferon_signaling,No specificity weighting,9,SARS-CoV-2 activates/modulates innate and adaptive immune responses,IFNA1;IFNB1;STAT1,30.75,1.0,0.75,synonym,0
+Interferon_signaling,No specificity weighting,10,SARS-CoV-2 Infection,IFNA1;IFNB1;STAT1,30.75,1.0,0.75,synonym,0
+Interferon_signaling,Overlap count only,1,Cytokine Signaling in Immune system,IFNA1;IFNB1;STAT1,3.0,1.0,0.0,synonym,1
+Interferon_signaling,Overlap count only,2,Disease,IFNA1;IFNB1;STAT1,3.0,0.85,0.0,synonym,0
+Interferon_signaling,Overlap count only,3,Immune System,IFNA1;IFNB1;STAT1,3.0,1.0,0.0,synonym,0
+Interferon_signaling,Overlap count only,4,Infectious disease,IFNA1;IFNB1;STAT1,3.0,0.85,0.0,synonym,0
+Interferon_signaling,Overlap count only,5,Interferon alpha/beta signaling,IFNA1;IFNB1;STAT1,3.0,1.0,0.0,synonym,1
+Interferon_signaling,Overlap count only,6,Interferon Signaling,IFNA1;IFNB1;STAT1,3.0,1.0,0.0,synonym,1
+Interferon_signaling,Overlap count only,7,Regulation of IFNA/IFNB signaling,IFNA1;IFNB1;STAT1,3.0,1.0,0.0,synonym,0
+Interferon_signaling,Overlap count only,8,SARS-CoV Infections,IFNA1;IFNB1;STAT1,3.0,1.0,0.0,synonym,0
+Interferon_signaling,Overlap count only,9,SARS-CoV-2 activates/modulates innate and adaptive immune responses,IFNA1;IFNB1;STAT1,3.0,1.0,0.0,synonym,0
+Interferon_signaling,Overlap count only,10,SARS-CoV-2 Infection,IFNA1;IFNB1;STAT1,3.0,1.0,0.0,synonym,0
+JAK_STAT_signaling,GraphRAG-Gene full,1,Cytokine Signaling in Immune system,JAK1;JAK2;STAT3,31.75,1.0,0.75,synonym,1
+JAK_STAT_signaling,GraphRAG-Gene full,2,Immune System,JAK1;JAK2;STAT3,31.75,1.0,0.75,synonym,0
+JAK_STAT_signaling,GraphRAG-Gene full,3,Inactivation of CSF3 (G-CSF) signaling,JAK1;JAK2;STAT3,31.75,1.0,0.75,synonym,0
+JAK_STAT_signaling,GraphRAG-Gene full,4,Interferon Signaling,JAK1;JAK2;STAT3,31.75,1.0,0.75,synonym,0
+JAK_STAT_signaling,GraphRAG-Gene full,5,Interleukin-12 family signaling,JAK1;JAK2;STAT3,31.75,1.0,0.75,synonym,1
+JAK_STAT_signaling,GraphRAG-Gene full,6,Interleukin-2 family signaling,JAK1;JAK2;STAT3,31.75,1.0,0.75,synonym,1
+JAK_STAT_signaling,GraphRAG-Gene full,7,Interleukin-20 family signaling,JAK1;JAK2;STAT3,31.75,1.0,0.75,synonym,1
+JAK_STAT_signaling,GraphRAG-Gene full,8,Interleukin-27 signaling,JAK1;JAK2;STAT3,31.75,1.0,0.75,synonym,1
+JAK_STAT_signaling,GraphRAG-Gene full,9,Interleukin-35 Signalling,JAK1;JAK2;STAT3,31.75,1.0,0.75,synonym,1
+JAK_STAT_signaling,GraphRAG-Gene full,10,Interleukin-4 and Interleukin-13 signaling,JAK1;JAK2;STAT3,31.75,1.0,0.75,synonym,1
+JAK_STAT_signaling,No direct-relation bonus,1,Cytokine Signaling in Immune system,JAK1;JAK2;STAT3,31.0,1.0,0.0,synonym,1
+JAK_STAT_signaling,No direct-relation bonus,2,Immune System,JAK1;JAK2;STAT3,31.0,1.0,0.0,synonym,0
+JAK_STAT_signaling,No direct-relation bonus,3,Inactivation of CSF3 (G-CSF) signaling,JAK1;JAK2;STAT3,31.0,1.0,0.0,synonym,0
+JAK_STAT_signaling,No direct-relation bonus,4,Interferon Signaling,JAK1;JAK2;STAT3,31.0,1.0,0.0,synonym,0
+JAK_STAT_signaling,No direct-relation bonus,5,Interleukin-12 family signaling,JAK1;JAK2;STAT3,31.0,1.0,0.0,synonym,1
+JAK_STAT_signaling,No direct-relation bonus,6,Interleukin-2 family signaling,JAK1;JAK2;STAT3,31.0,1.0,0.0,synonym,1
+JAK_STAT_signaling,No direct-relation bonus,7,Interleukin-20 family signaling,JAK1;JAK2;STAT3,31.0,1.0,0.0,synonym,1
+JAK_STAT_signaling,No direct-relation bonus,8,Interleukin-27 signaling,JAK1;JAK2;STAT3,31.0,1.0,0.0,synonym,1
+JAK_STAT_signaling,No direct-relation bonus,9,Interleukin-35 Signalling,JAK1;JAK2;STAT3,31.0,1.0,0.0,synonym,1
+JAK_STAT_signaling,No direct-relation bonus,10,Interleukin-4 and Interleukin-13 signaling,JAK1;JAK2;STAT3,31.0,1.0,0.0,synonym,1
+JAK_STAT_signaling,No specificity weighting,1,Cytokine Signaling in Immune system,JAK1;JAK2;STAT3,30.75,1.0,0.75,synonym,1
+JAK_STAT_signaling,No specificity weighting,2,Disease,JAK1;JAK2;STAT3,30.75,0.85,0.75,synonym,0
+JAK_STAT_signaling,No specificity weighting,3,Immune System,JAK1;JAK2;STAT3,30.75,1.0,0.75,synonym,0
+JAK_STAT_signaling,No specificity weighting,4,Inactivation of CSF3 (G-CSF) signaling,JAK1;JAK2;STAT3,30.75,1.0,0.75,synonym,0
+JAK_STAT_signaling,No specificity weighting,5,Interferon Signaling,JAK1;JAK2;STAT3,30.75,1.0,0.75,synonym,0
+JAK_STAT_signaling,No specificity weighting,6,Interleukin-12 family signaling,JAK1;JAK2;STAT3,30.75,1.0,0.75,synonym,1
+JAK_STAT_signaling,No specificity weighting,7,Interleukin-2 family signaling,JAK1;JAK2;STAT3,30.75,1.0,0.75,synonym,1
+JAK_STAT_signaling,No specificity weighting,8,Interleukin-20 family signaling,JAK1;JAK2;STAT3,30.75,1.0,0.75,synonym,1
+JAK_STAT_signaling,No specificity weighting,9,Interleukin-27 signaling,JAK1;JAK2;STAT3,30.75,1.0,0.75,synonym,1
+JAK_STAT_signaling,No specificity weighting,10,Interleukin-35 Signalling,JAK1;JAK2;STAT3,30.75,1.0,0.75,synonym,1
+JAK_STAT_signaling,Overlap count only,1,Cytokine Signaling in Immune system,JAK1;JAK2;STAT3,3.0,1.0,0.0,synonym,1
+JAK_STAT_signaling,Overlap count only,2,Disease,JAK1;JAK2;STAT3,3.0,0.85,0.0,synonym,0
+JAK_STAT_signaling,Overlap count only,3,Immune System,JAK1;JAK2;STAT3,3.0,1.0,0.0,synonym,0
+JAK_STAT_signaling,Overlap count only,4,Inactivation of CSF3 (G-CSF) signaling,JAK1;JAK2;STAT3,3.0,1.0,0.0,synonym,0
+JAK_STAT_signaling,Overlap count only,5,Interferon Signaling,JAK1;JAK2;STAT3,3.0,1.0,0.0,synonym,0
+JAK_STAT_signaling,Overlap count only,6,Interleukin-12 family signaling,JAK1;JAK2;STAT3,3.0,1.0,0.0,synonym,1
+JAK_STAT_signaling,Overlap count only,7,Interleukin-2 family signaling,JAK1;JAK2;STAT3,3.0,1.0,0.0,synonym,1
+JAK_STAT_signaling,Overlap count only,8,Interleukin-20 family signaling,JAK1;JAK2;STAT3,3.0,1.0,0.0,synonym,1
+JAK_STAT_signaling,Overlap count only,9,Interleukin-27 signaling,JAK1;JAK2;STAT3,3.0,1.0,0.0,synonym,1
+JAK_STAT_signaling,Overlap count only,10,Interleukin-35 Signalling,JAK1;JAK2;STAT3,3.0,1.0,0.0,synonym,1
+NFkB_signaling,GraphRAG-Gene full,1,Activation of NF-kappaB in B cells,IKBKB;NFKB1;RELA,31.75,1.0,0.75,synonym,1
+NFkB_signaling,GraphRAG-Gene full,2,Adaptive Immune System,IKBKB;NFKB1;RELA,31.75,1.0,0.75,synonym,0
+NFkB_signaling,GraphRAG-Gene full,3,C-type lectin receptors (CLRs),IKBKB;NFKB1;RELA,31.75,1.0,0.75,synonym,0
+NFkB_signaling,GraphRAG-Gene full,4,CLEC7A (Dectin-1) signaling,IKBKB;NFKB1;RELA,31.75,1.0,0.75,synonym,0
+NFkB_signaling,GraphRAG-Gene full,5,Cytokine Signaling in Immune system,IKBKB;NFKB1;RELA,31.75,1.0,0.75,synonym,0
+NFkB_signaling,GraphRAG-Gene full,6,Cytosolic sensors of pathogen-associated DNA,IKBKB;NFKB1;RELA,31.75,1.0,0.75,synonym,0
+NFkB_signaling,GraphRAG-Gene full,7,DDX58/IFIH1-mediated induction of interferon-alpha/beta,IKBKB;NFKB1;RELA,31.75,1.0,0.75,synonym,0
+NFkB_signaling,GraphRAG-Gene full,8,Death Receptor Signaling,IKBKB;NFKB1;RELA,31.75,1.0,0.75,synonym,0
+NFkB_signaling,GraphRAG-Gene full,9,Downstream signaling events of B Cell Receptor (BCR),IKBKB;NFKB1;RELA,31.75,1.0,0.75,synonym,0
+NFkB_signaling,GraphRAG-Gene full,10,Downstream TCR signaling,IKBKB;NFKB1;RELA,31.75,1.0,0.75,synonym,0
+NFkB_signaling,No direct-relation bonus,1,Activation of NF-kappaB in B cells,IKBKB;NFKB1;RELA,31.0,1.0,0.0,synonym,1
+NFkB_signaling,No direct-relation bonus,2,Adaptive Immune System,IKBKB;NFKB1;RELA,31.0,1.0,0.0,synonym,0
+NFkB_signaling,No direct-relation bonus,3,C-type lectin receptors (CLRs),IKBKB;NFKB1;RELA,31.0,1.0,0.0,synonym,0
+NFkB_signaling,No direct-relation bonus,4,CLEC7A (Dectin-1) signaling,IKBKB;NFKB1;RELA,31.0,1.0,0.0,synonym,0
+NFkB_signaling,No direct-relation bonus,5,Cytokine Signaling in Immune system,IKBKB;NFKB1;RELA,31.0,1.0,0.0,synonym,0
+NFkB_signaling,No direct-relation bonus,6,Cytosolic sensors of pathogen-associated DNA,IKBKB;NFKB1;RELA,31.0,1.0,0.0,synonym,0
+NFkB_signaling,No direct-relation bonus,7,DDX58/IFIH1-mediated induction of interferon-alpha/beta,IKBKB;NFKB1;RELA,31.0,1.0,0.0,synonym,0
+NFkB_signaling,No direct-relation bonus,8,Death Receptor Signaling,IKBKB;NFKB1;RELA,31.0,1.0,0.0,synonym,0
+NFkB_signaling,No direct-relation bonus,9,Downstream signaling events of B Cell Receptor (BCR),IKBKB;NFKB1;RELA,31.0,1.0,0.0,synonym,0
+NFkB_signaling,No direct-relation bonus,10,Downstream TCR signaling,IKBKB;NFKB1;RELA,31.0,1.0,0.0,synonym,0
+NFkB_signaling,No specificity weighting,1,Activation of NF-kappaB in B cells,IKBKB;NFKB1;RELA,30.75,1.0,0.75,synonym,1
+NFkB_signaling,No specificity weighting,2,Adaptive Immune System,IKBKB;NFKB1;RELA,30.75,1.0,0.75,synonym,0
+NFkB_signaling,No specificity weighting,3,C-type lectin receptors (CLRs),IKBKB;NFKB1;RELA,30.75,1.0,0.75,synonym,0
+NFkB_signaling,No specificity weighting,4,CLEC7A (Dectin-1) signaling,IKBKB;NFKB1;RELA,30.75,1.0,0.75,synonym,0
+NFkB_signaling,No specificity weighting,5,Cytokine Signaling in Immune system,IKBKB;NFKB1;RELA,30.75,1.0,0.75,synonym,0
+NFkB_signaling,No specificity weighting,6,Cytosolic sensors of pathogen-associated DNA,IKBKB;NFKB1;RELA,30.75,1.0,0.75,synonym,0
+NFkB_signaling,No specificity weighting,7,DDX58/IFIH1-mediated induction of interferon-alpha/beta,IKBKB;NFKB1;RELA,30.75,1.0,0.75,synonym,0
+NFkB_signaling,No specificity weighting,8,Death Receptor Signaling,IKBKB;NFKB1;RELA,30.75,1.0,0.75,synonym,0
+NFkB_signaling,No specificity weighting,9,Disease,IKBKB;NFKB1;RELA,30.75,0.85,0.75,synonym,0
+NFkB_signaling,No specificity weighting,10,Diseases associated with the TLR signaling cascade,IKBKB;NFKB1;RELA,30.75,0.7,0.75,synonym,0
+NFkB_signaling,Overlap count only,1,Activation of NF-kappaB in B cells,IKBKB;NFKB1;RELA,3.0,1.0,0.0,synonym,1
+NFkB_signaling,Overlap count only,2,Adaptive Immune System,IKBKB;NFKB1;RELA,3.0,1.0,0.0,synonym,0
+NFkB_signaling,Overlap count only,3,C-type lectin receptors (CLRs),IKBKB;NFKB1;RELA,3.0,1.0,0.0,synonym,0
+NFkB_signaling,Overlap count only,4,CLEC7A (Dectin-1) signaling,IKBKB;NFKB1;RELA,3.0,1.0,0.0,synonym,0
+NFkB_signaling,Overlap count only,5,Cytokine Signaling in Immune system,IKBKB;NFKB1;RELA,3.0,1.0,0.0,synonym,0
+NFkB_signaling,Overlap count only,6,Cytosolic sensors of pathogen-associated DNA,IKBKB;NFKB1;RELA,3.0,1.0,0.0,synonym,0
+NFkB_signaling,Overlap count only,7,DDX58/IFIH1-mediated induction of interferon-alpha/beta,IKBKB;NFKB1;RELA,3.0,1.0,0.0,synonym,0
+NFkB_signaling,Overlap count only,8,Death Receptor Signaling,IKBKB;NFKB1;RELA,3.0,1.0,0.0,synonym,0
+NFkB_signaling,Overlap count only,9,Disease,IKBKB;NFKB1;RELA,3.0,0.85,0.0,synonym,0
+NFkB_signaling,Overlap count only,10,Diseases associated with the TLR signaling cascade,IKBKB;NFKB1;RELA,3.0,0.7,0.0,synonym,0
+Toll_like_receptor_signaling,GraphRAG-Gene full,1,Immune System,IRAK4;MYD88;TLR4,31.75,1.0,0.75,synonym,0
+Toll_like_receptor_signaling,GraphRAG-Gene full,2,Innate Immune System,IRAK4;MYD88;TLR4,31.75,1.0,0.75,synonym,1
+Toll_like_receptor_signaling,GraphRAG-Gene full,3,IRAK4 deficiency (TLR2/4),IRAK4;MYD88;TLR4,31.75,1.0,0.75,synonym,1
+Toll_like_receptor_signaling,GraphRAG-Gene full,4,MyD88 dependent cascade initiated on endosome,IRAK4;MYD88;TLR4,31.75,1.0,0.75,synonym,1
+Toll_like_receptor_signaling,GraphRAG-Gene full,5,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,IRAK4;MYD88;TLR4,31.75,1.0,0.75,synonym,1
+Toll_like_receptor_signaling,GraphRAG-Gene full,6,Toll Like Receptor 2 (TLR2) Cascade,IRAK4;MYD88;TLR4,31.75,1.0,0.75,synonym,1
+Toll_like_receptor_signaling,GraphRAG-Gene full,7,Toll Like Receptor 4 (TLR4) Cascade,IRAK4;MYD88;TLR4,31.75,1.0,0.75,synonym,1
+Toll_like_receptor_signaling,GraphRAG-Gene full,8,Toll Like Receptor 7/8 (TLR7/8) Cascade,IRAK4;MYD88;TLR4,31.75,1.0,0.75,synonym,1
+Toll_like_receptor_signaling,GraphRAG-Gene full,9,Toll Like Receptor 9 (TLR9) Cascade,IRAK4;MYD88;TLR4,31.75,1.0,0.75,synonym,1
+Toll_like_receptor_signaling,GraphRAG-Gene full,10,Toll Like Receptor TLR1:TLR2 Cascade,IRAK4;MYD88;TLR4,31.75,1.0,0.75,synonym,1
+Toll_like_receptor_signaling,No direct-relation bonus,1,Immune System,IRAK4;MYD88;TLR4,31.0,1.0,0.0,synonym,0
+Toll_like_receptor_signaling,No direct-relation bonus,2,Innate Immune System,IRAK4;MYD88;TLR4,31.0,1.0,0.0,synonym,1
+Toll_like_receptor_signaling,No direct-relation bonus,3,IRAK4 deficiency (TLR2/4),IRAK4;MYD88;TLR4,31.0,1.0,0.0,synonym,1
+Toll_like_receptor_signaling,No direct-relation bonus,4,MyD88 dependent cascade initiated on endosome,IRAK4;MYD88;TLR4,31.0,1.0,0.0,synonym,1
+Toll_like_receptor_signaling,No direct-relation bonus,5,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,IRAK4;MYD88;TLR4,31.0,1.0,0.0,synonym,1
+Toll_like_receptor_signaling,No direct-relation bonus,6,Toll Like Receptor 2 (TLR2) Cascade,IRAK4;MYD88;TLR4,31.0,1.0,0.0,synonym,1
+Toll_like_receptor_signaling,No direct-relation bonus,7,Toll Like Receptor 4 (TLR4) Cascade,IRAK4;MYD88;TLR4,31.0,1.0,0.0,synonym,1
+Toll_like_receptor_signaling,No direct-relation bonus,8,Toll Like Receptor 7/8 (TLR7/8) Cascade,IRAK4;MYD88;TLR4,31.0,1.0,0.0,synonym,1
+Toll_like_receptor_signaling,No direct-relation bonus,9,Toll Like Receptor 9 (TLR9) Cascade,IRAK4;MYD88;TLR4,31.0,1.0,0.0,synonym,1
+Toll_like_receptor_signaling,No direct-relation bonus,10,Toll Like Receptor TLR1:TLR2 Cascade,IRAK4;MYD88;TLR4,31.0,1.0,0.0,synonym,1
+Toll_like_receptor_signaling,No specificity weighting,1,Disease,IRAK4;MYD88;TLR4,30.75,0.85,0.75,synonym,0
+Toll_like_receptor_signaling,No specificity weighting,2,Diseases associated with the TLR signaling cascade,IRAK4;MYD88;TLR4,30.75,0.7,0.75,synonym,1
+Toll_like_receptor_signaling,No specificity weighting,3,Diseases of Immune System,IRAK4;MYD88;TLR4,30.75,0.7,0.75,synonym,0
+Toll_like_receptor_signaling,No specificity weighting,4,Immune System,IRAK4;MYD88;TLR4,30.75,1.0,0.75,synonym,0
+Toll_like_receptor_signaling,No specificity weighting,5,Innate Immune System,IRAK4;MYD88;TLR4,30.75,1.0,0.75,synonym,1
+Toll_like_receptor_signaling,No specificity weighting,6,IRAK4 deficiency (TLR2/4),IRAK4;MYD88;TLR4,30.75,1.0,0.75,synonym,1
+Toll_like_receptor_signaling,No specificity weighting,7,MyD88 dependent cascade initiated on endosome,IRAK4;MYD88;TLR4,30.75,1.0,0.75,synonym,1
+Toll_like_receptor_signaling,No specificity weighting,8,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,IRAK4;MYD88;TLR4,30.75,1.0,0.75,synonym,1
+Toll_like_receptor_signaling,No specificity weighting,9,Toll Like Receptor 2 (TLR2) Cascade,IRAK4;MYD88;TLR4,30.75,1.0,0.75,synonym,1
+Toll_like_receptor_signaling,No specificity weighting,10,Toll Like Receptor 4 (TLR4) Cascade,IRAK4;MYD88;TLR4,30.75,1.0,0.75,synonym,1
+Toll_like_receptor_signaling,Overlap count only,1,Disease,IRAK4;MYD88;TLR4,3.0,0.85,0.0,synonym,0
+Toll_like_receptor_signaling,Overlap count only,2,Diseases associated with the TLR signaling cascade,IRAK4;MYD88;TLR4,3.0,0.7,0.0,synonym,1
+Toll_like_receptor_signaling,Overlap count only,3,Diseases of Immune System,IRAK4;MYD88;TLR4,3.0,0.7,0.0,synonym,0
+Toll_like_receptor_signaling,Overlap count only,4,Immune System,IRAK4;MYD88;TLR4,3.0,1.0,0.0,synonym,0
+Toll_like_receptor_signaling,Overlap count only,5,Innate Immune System,IRAK4;MYD88;TLR4,3.0,1.0,0.0,synonym,1
+Toll_like_receptor_signaling,Overlap count only,6,IRAK4 deficiency (TLR2/4),IRAK4;MYD88;TLR4,3.0,1.0,0.0,synonym,1
+Toll_like_receptor_signaling,Overlap count only,7,MyD88 dependent cascade initiated on endosome,IRAK4;MYD88;TLR4,3.0,1.0,0.0,synonym,1
+Toll_like_receptor_signaling,Overlap count only,8,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,IRAK4;MYD88;TLR4,3.0,1.0,0.0,synonym,1
+Toll_like_receptor_signaling,Overlap count only,9,Toll Like Receptor 2 (TLR2) Cascade,IRAK4;MYD88;TLR4,3.0,1.0,0.0,synonym,1
+Toll_like_receptor_signaling,Overlap count only,10,Toll Like Receptor 4 (TLR4) Cascade,IRAK4;MYD88;TLR4,3.0,1.0,0.0,synonym,1
+Complement_cascade,GraphRAG-Gene full,1,Activation of C3 and C5,C3;C5;CFB,31.75,1.0,0.75,synonym,0
+Complement_cascade,GraphRAG-Gene full,2,Complement cascade,C3;C5;CFB,31.75,1.0,0.75,synonym,1
+Complement_cascade,GraphRAG-Gene full,3,Immune System,C3;C5;CFB,31.75,1.0,0.75,synonym,1
+Complement_cascade,GraphRAG-Gene full,4,Innate Immune System,C3;C5;CFB,31.75,1.0,0.75,synonym,1
+Complement_cascade,GraphRAG-Gene full,5,Regulation of Complement cascade,C3;C5;CFB,31.75,1.0,0.75,synonym,1
+Complement_cascade,GraphRAG-Gene full,6,Alternative complement activation,C3;CFB,21.25,1.0,0.25,synonym,1
+Complement_cascade,GraphRAG-Gene full,7,Class A/1 (Rhodopsin-like receptors),C3;C5,21.25,1.0,0.25,synonym,0
+Complement_cascade,GraphRAG-Gene full,8,G alpha (i) signalling events,C3;C5,21.25,1.0,0.25,synonym,0
+Complement_cascade,GraphRAG-Gene full,9,GPCR downstream signalling,C3;C5,21.25,1.0,0.25,synonym,0
+Complement_cascade,GraphRAG-Gene full,10,GPCR ligand binding,C3;C5,21.25,1.0,0.25,synonym,0
+Complement_cascade,No direct-relation bonus,1,Activation of C3 and C5,C3;C5;CFB,31.0,1.0,0.0,synonym,0
+Complement_cascade,No direct-relation bonus,2,Complement cascade,C3;C5;CFB,31.0,1.0,0.0,synonym,1
+Complement_cascade,No direct-relation bonus,3,Immune System,C3;C5;CFB,31.0,1.0,0.0,synonym,1
+Complement_cascade,No direct-relation bonus,4,Innate Immune System,C3;C5;CFB,31.0,1.0,0.0,synonym,1
+Complement_cascade,No direct-relation bonus,5,Regulation of Complement cascade,C3;C5;CFB,31.0,1.0,0.0,synonym,1
+Complement_cascade,No direct-relation bonus,6,Alternative complement activation,C3;CFB,21.0,1.0,0.0,synonym,1
+Complement_cascade,No direct-relation bonus,7,Class A/1 (Rhodopsin-like receptors),C3;C5,21.0,1.0,0.0,synonym,0
+Complement_cascade,No direct-relation bonus,8,G alpha (i) signalling events,C3;C5,21.0,1.0,0.0,synonym,0
+Complement_cascade,No direct-relation bonus,9,GPCR downstream signalling,C3;C5,21.0,1.0,0.0,synonym,0
+Complement_cascade,No direct-relation bonus,10,GPCR ligand binding,C3;C5,21.0,1.0,0.0,synonym,0
+Complement_cascade,No specificity weighting,1,Activation of C3 and C5,C3;C5;CFB,30.75,1.0,0.75,synonym,0
+Complement_cascade,No specificity weighting,2,Complement cascade,C3;C5;CFB,30.75,1.0,0.75,synonym,1
+Complement_cascade,No specificity weighting,3,Immune System,C3;C5;CFB,30.75,1.0,0.75,synonym,1
+Complement_cascade,No specificity weighting,4,Innate Immune System,C3;C5;CFB,30.75,1.0,0.75,synonym,1
+Complement_cascade,No specificity weighting,5,Regulation of Complement cascade,C3;C5;CFB,30.75,1.0,0.75,synonym,1
+Complement_cascade,No specificity weighting,6,Alternative complement activation,C3;CFB,20.25,1.0,0.25,synonym,1
+Complement_cascade,No specificity weighting,7,Class A/1 (Rhodopsin-like receptors),C3;C5,20.25,1.0,0.25,synonym,0
+Complement_cascade,No specificity weighting,8,G alpha (i) signalling events,C3;C5,20.25,1.0,0.25,synonym,0
+Complement_cascade,No specificity weighting,9,GPCR downstream signalling,C3;C5,20.25,1.0,0.25,synonym,0
+Complement_cascade,No specificity weighting,10,GPCR ligand binding,C3;C5,20.25,1.0,0.25,synonym,0
+Complement_cascade,Overlap count only,1,Activation of C3 and C5,C3;C5;CFB,3.0,1.0,0.0,synonym,0
+Complement_cascade,Overlap count only,2,Complement cascade,C3;C5;CFB,3.0,1.0,0.0,synonym,1
+Complement_cascade,Overlap count only,3,Immune System,C3;C5;CFB,3.0,1.0,0.0,synonym,1
+Complement_cascade,Overlap count only,4,Innate Immune System,C3;C5;CFB,3.0,1.0,0.0,synonym,1
+Complement_cascade,Overlap count only,5,Regulation of Complement cascade,C3;C5;CFB,3.0,1.0,0.0,synonym,1
+Complement_cascade,Overlap count only,6,Alternative complement activation,C3;CFB,2.0,1.0,0.0,synonym,1
+Complement_cascade,Overlap count only,7,Class A/1 (Rhodopsin-like receptors),C3;C5,2.0,1.0,0.0,synonym,0
+Complement_cascade,Overlap count only,8,G alpha (i) signalling events,C3;C5,2.0,1.0,0.0,synonym,0
+Complement_cascade,Overlap count only,9,GPCR downstream signalling,C3;C5,2.0,1.0,0.0,synonym,0
+Complement_cascade,Overlap count only,10,GPCR ligand binding,C3;C5,2.0,1.0,0.0,synonym,0
+Coagulation_cascade,GraphRAG-Gene full,1,Formation of Fibrin Clot (Clotting Cascade),F10;F2;F5,31.75,1.0,0.75,synonym,0
+Coagulation_cascade,GraphRAG-Gene full,2,Hemostasis,F10;F2;F5,31.75,1.0,0.75,synonym,1
+Coagulation_cascade,GraphRAG-Gene full,3,Post-translational protein modification,F10;F2;F5,31.75,1.0,0.75,synonym,0
+Coagulation_cascade,GraphRAG-Gene full,4,Common Pathway of Fibrin Clot Formation,F10;F2;F5,31.65,0.9,0.75,synonym,0
+Coagulation_cascade,GraphRAG-Gene full,5,Metabolism of proteins,F10;F2;F5,31.6,0.85,0.75,synonym,0
+Coagulation_cascade,GraphRAG-Gene full,6,Defective factor VIII causes hemophilia A,F10;F2,21.25,1.0,0.25,synonym,0
+Coagulation_cascade,GraphRAG-Gene full,7,Defects of contact activation system (CAS) and kallikrein/kinin system (KKS),F10;F2,21.25,1.0,0.25,synonym,0
+Coagulation_cascade,GraphRAG-Gene full,8,"Gamma carboxylation, hypusinylation, hydroxylation, and arylsulfatase activation",F10;F2,21.25,1.0,0.25,synonym,0
+Coagulation_cascade,GraphRAG-Gene full,9,Gamma-carboxylation of protein precursors,F10;F2,21.25,1.0,0.25,synonym,0
+Coagulation_cascade,GraphRAG-Gene full,10,"Gamma-carboxylation, transport, and amino-terminal cleavage of proteins",F10;F2,21.25,1.0,0.25,synonym,0
+Coagulation_cascade,No direct-relation bonus,1,Formation of Fibrin Clot (Clotting Cascade),F10;F2;F5,31.0,1.0,0.0,synonym,0
+Coagulation_cascade,No direct-relation bonus,2,Hemostasis,F10;F2;F5,31.0,1.0,0.0,synonym,1
+Coagulation_cascade,No direct-relation bonus,3,Post-translational protein modification,F10;F2;F5,31.0,1.0,0.0,synonym,0
+Coagulation_cascade,No direct-relation bonus,4,Common Pathway of Fibrin Clot Formation,F10;F2;F5,30.9,0.9,0.0,synonym,0
+Coagulation_cascade,No direct-relation bonus,5,Metabolism of proteins,F10;F2;F5,30.85,0.85,0.0,synonym,0
+Coagulation_cascade,No direct-relation bonus,6,Defective factor VIII causes hemophilia A,F10;F2,21.0,1.0,0.0,synonym,0
+Coagulation_cascade,No direct-relation bonus,7,Defects of contact activation system (CAS) and kallikrein/kinin system (KKS),F10;F2,21.0,1.0,0.0,synonym,0
+Coagulation_cascade,No direct-relation bonus,8,"Gamma carboxylation, hypusinylation, hydroxylation, and arylsulfatase activation",F10;F2,21.0,1.0,0.0,synonym,0
+Coagulation_cascade,No direct-relation bonus,9,Gamma-carboxylation of protein precursors,F10;F2,21.0,1.0,0.0,synonym,0
+Coagulation_cascade,No direct-relation bonus,10,"Gamma-carboxylation, transport, and amino-terminal cleavage of proteins",F10;F2,21.0,1.0,0.0,synonym,0
+Coagulation_cascade,No specificity weighting,1,Common Pathway of Fibrin Clot Formation,F10;F2;F5,30.75,0.9,0.75,synonym,0
+Coagulation_cascade,No specificity weighting,2,Formation of Fibrin Clot (Clotting Cascade),F10;F2;F5,30.75,1.0,0.75,synonym,0
+Coagulation_cascade,No specificity weighting,3,Hemostasis,F10;F2;F5,30.75,1.0,0.75,synonym,1
+Coagulation_cascade,No specificity weighting,4,Metabolism of proteins,F10;F2;F5,30.75,0.85,0.75,synonym,0
+Coagulation_cascade,No specificity weighting,5,Post-translational protein modification,F10;F2;F5,30.75,1.0,0.75,synonym,0
+Coagulation_cascade,No specificity weighting,6,Defective factor VIII causes hemophilia A,F10;F2,20.25,1.0,0.25,synonym,0
+Coagulation_cascade,No specificity weighting,7,Defects of contact activation system (CAS) and kallikrein/kinin system (KKS),F10;F2,20.25,1.0,0.25,synonym,0
+Coagulation_cascade,No specificity weighting,8,Disease,F10;F2,20.25,0.85,0.25,synonym,0
+Coagulation_cascade,No specificity weighting,9,Diseases of hemostasis,F10;F2,20.25,0.7,0.25,synonym,1
+Coagulation_cascade,No specificity weighting,10,"Gamma carboxylation, hypusinylation, hydroxylation, and arylsulfatase activation",F10;F2,20.25,1.0,0.25,synonym,0
+Coagulation_cascade,Overlap count only,1,Common Pathway of Fibrin Clot Formation,F10;F2;F5,3.0,0.9,0.0,synonym,0
+Coagulation_cascade,Overlap count only,2,Formation of Fibrin Clot (Clotting Cascade),F10;F2;F5,3.0,1.0,0.0,synonym,0
+Coagulation_cascade,Overlap count only,3,Hemostasis,F10;F2;F5,3.0,1.0,0.0,synonym,1
+Coagulation_cascade,Overlap count only,4,Metabolism of proteins,F10;F2;F5,3.0,0.85,0.0,synonym,0
+Coagulation_cascade,Overlap count only,5,Post-translational protein modification,F10;F2;F5,3.0,1.0,0.0,synonym,0
+Coagulation_cascade,Overlap count only,6,Defective factor VIII causes hemophilia A,F10;F2,2.0,1.0,0.0,synonym,0
+Coagulation_cascade,Overlap count only,7,Defects of contact activation system (CAS) and kallikrein/kinin system (KKS),F10;F2,2.0,1.0,0.0,synonym,0
+Coagulation_cascade,Overlap count only,8,Disease,F10;F2,2.0,0.85,0.0,synonym,0
+Coagulation_cascade,Overlap count only,9,Diseases of hemostasis,F10;F2,2.0,0.7,0.0,synonym,1
+Coagulation_cascade,Overlap count only,10,"Gamma carboxylation, hypusinylation, hydroxylation, and arylsulfatase activation",F10;F2,2.0,1.0,0.0,synonym,0
+Cholesterol_metabolism,GraphRAG-Gene full,1,LDL clearance,APOB;LDLR;PCSK9,31.5,1.0,0.5,synonym,1
+Cholesterol_metabolism,GraphRAG-Gene full,2,"Plasma lipoprotein assembly, remodeling, and clearance",APOB;LDLR;PCSK9,31.5,1.0,0.5,synonym,1
+Cholesterol_metabolism,GraphRAG-Gene full,3,Plasma lipoprotein clearance,APOB;LDLR;PCSK9,31.5,1.0,0.5,synonym,1
+Cholesterol_metabolism,GraphRAG-Gene full,4,Transport of small molecules,APOB;LDLR;PCSK9,31.5,1.0,0.5,synonym,0
+Cholesterol_metabolism,GraphRAG-Gene full,5,Cargo recognition for clathrin-mediated endocytosis,APOB;LDLR,21.25,1.0,0.25,synonym,0
+Cholesterol_metabolism,GraphRAG-Gene full,6,Chylomicron clearance,APOB;LDLR,21.25,1.0,0.25,synonym,0
+Cholesterol_metabolism,GraphRAG-Gene full,7,Clathrin-mediated endocytosis,APOB;LDLR,21.25,1.0,0.25,synonym,0
+Cholesterol_metabolism,GraphRAG-Gene full,8,Membrane Trafficking,APOB;LDLR,21.25,1.0,0.25,synonym,0
+Cholesterol_metabolism,GraphRAG-Gene full,9,Sensory Perception,APOB;LDLR,21.25,1.0,0.25,synonym,0
+Cholesterol_metabolism,GraphRAG-Gene full,10,Vesicle-mediated transport,APOB;LDLR,21.25,1.0,0.25,synonym,0
+Cholesterol_metabolism,No direct-relation bonus,1,LDL clearance,APOB;LDLR;PCSK9,31.0,1.0,0.0,synonym,1
+Cholesterol_metabolism,No direct-relation bonus,2,"Plasma lipoprotein assembly, remodeling, and clearance",APOB;LDLR;PCSK9,31.0,1.0,0.0,synonym,1
+Cholesterol_metabolism,No direct-relation bonus,3,Plasma lipoprotein clearance,APOB;LDLR;PCSK9,31.0,1.0,0.0,synonym,1
+Cholesterol_metabolism,No direct-relation bonus,4,Transport of small molecules,APOB;LDLR;PCSK9,31.0,1.0,0.0,synonym,0
+Cholesterol_metabolism,No direct-relation bonus,5,Cargo recognition for clathrin-mediated endocytosis,APOB;LDLR,21.0,1.0,0.0,synonym,0
+Cholesterol_metabolism,No direct-relation bonus,6,Chylomicron clearance,APOB;LDLR,21.0,1.0,0.0,synonym,0
+Cholesterol_metabolism,No direct-relation bonus,7,Clathrin-mediated endocytosis,APOB;LDLR,21.0,1.0,0.0,synonym,0
+Cholesterol_metabolism,No direct-relation bonus,8,Membrane Trafficking,APOB;LDLR,21.0,1.0,0.0,synonym,0
+Cholesterol_metabolism,No direct-relation bonus,9,Post-translational protein modification,APOB;PCSK9,21.0,1.0,0.0,synonym,0
+Cholesterol_metabolism,No direct-relation bonus,10,Post-translational protein phosphorylation,APOB;PCSK9,21.0,1.0,0.0,synonym,0
+Cholesterol_metabolism,No specificity weighting,1,LDL clearance,APOB;LDLR;PCSK9,30.5,1.0,0.5,synonym,1
+Cholesterol_metabolism,No specificity weighting,2,"Plasma lipoprotein assembly, remodeling, and clearance",APOB;LDLR;PCSK9,30.5,1.0,0.5,synonym,1
+Cholesterol_metabolism,No specificity weighting,3,Plasma lipoprotein clearance,APOB;LDLR;PCSK9,30.5,1.0,0.5,synonym,1
+Cholesterol_metabolism,No specificity weighting,4,Transport of small molecules,APOB;LDLR;PCSK9,30.5,1.0,0.5,synonym,0
+Cholesterol_metabolism,No specificity weighting,5,Cargo recognition for clathrin-mediated endocytosis,APOB;LDLR,20.25,1.0,0.25,synonym,0
+Cholesterol_metabolism,No specificity weighting,6,Chylomicron clearance,APOB;LDLR,20.25,1.0,0.25,synonym,0
+Cholesterol_metabolism,No specificity weighting,7,Clathrin-mediated endocytosis,APOB;LDLR,20.25,1.0,0.25,synonym,0
+Cholesterol_metabolism,No specificity weighting,8,Membrane Trafficking,APOB;LDLR,20.25,1.0,0.25,synonym,0
+Cholesterol_metabolism,No specificity weighting,9,Metabolism,APOB;LDLR,20.25,0.85,0.25,synonym,0
+Cholesterol_metabolism,No specificity weighting,10,Metabolism of fat-soluble vitamins,APOB;LDLR,20.25,0.85,0.25,synonym,0
+Cholesterol_metabolism,Overlap count only,1,LDL clearance,APOB;LDLR;PCSK9,3.0,1.0,0.0,synonym,1
+Cholesterol_metabolism,Overlap count only,2,"Plasma lipoprotein assembly, remodeling, and clearance",APOB;LDLR;PCSK9,3.0,1.0,0.0,synonym,1
+Cholesterol_metabolism,Overlap count only,3,Plasma lipoprotein clearance,APOB;LDLR;PCSK9,3.0,1.0,0.0,synonym,1
+Cholesterol_metabolism,Overlap count only,4,Transport of small molecules,APOB;LDLR;PCSK9,3.0,1.0,0.0,synonym,0
+Cholesterol_metabolism,Overlap count only,5,Cargo recognition for clathrin-mediated endocytosis,APOB;LDLR,2.0,1.0,0.0,synonym,0
+Cholesterol_metabolism,Overlap count only,6,Chylomicron clearance,APOB;LDLR,2.0,1.0,0.0,synonym,0
+Cholesterol_metabolism,Overlap count only,7,Clathrin-mediated endocytosis,APOB;LDLR,2.0,1.0,0.0,synonym,0
+Cholesterol_metabolism,Overlap count only,8,Membrane Trafficking,APOB;LDLR,2.0,1.0,0.0,synonym,0
+Cholesterol_metabolism,Overlap count only,9,Metabolism,APOB;LDLR,2.0,0.85,0.0,synonym,0
+Cholesterol_metabolism,Overlap count only,10,Metabolism of fat-soluble vitamins,APOB;LDLR,2.0,0.85,0.0,synonym,0
+Fatty_acid_metabolism,GraphRAG-Gene full,1,Fatty acid metabolism,ACACA;CPT1A;FASN,31.1,0.85,0.25,synonym,1
+Fatty_acid_metabolism,GraphRAG-Gene full,2,Metabolism,ACACA;CPT1A;FASN,31.1,0.85,0.25,synonym,0
+Fatty_acid_metabolism,GraphRAG-Gene full,3,Metabolism of lipids,ACACA;CPT1A;FASN,31.1,0.85,0.25,synonym,1
+Fatty_acid_metabolism,GraphRAG-Gene full,4,Fatty acyl-CoA biosynthesis,ACACA;FASN,21.25,1.0,0.25,synonym,0
+Fatty_acid_metabolism,GraphRAG-Gene full,5,Regulation of cholesterol biosynthesis by SREBP (SREBF),ACACA;FASN,21.25,1.0,0.25,synonym,0
+Fatty_acid_metabolism,GraphRAG-Gene full,6,Activation of gene expression by SREBF (SREBP),ACACA;FASN,21.1,0.85,0.25,synonym,0
+Fatty_acid_metabolism,GraphRAG-Gene full,7,ChREBP activates metabolic gene expression,ACACA;FASN,21.1,0.85,0.25,synonym,0
+Fatty_acid_metabolism,GraphRAG-Gene full,8,Integration of energy metabolism,ACACA;FASN,21.1,0.85,0.25,synonym,0
+Fatty_acid_metabolism,GraphRAG-Gene full,9,Metabolism of steroids,ACACA;FASN,21.1,0.85,0.25,synonym,0
+Fatty_acid_metabolism,GraphRAG-Gene full,10,Metabolism of vitamins and cofactors,ACACA;FASN,21.1,0.85,0.25,synonym,0
+Fatty_acid_metabolism,No direct-relation bonus,1,Fatty acid metabolism,ACACA;CPT1A;FASN,30.85,0.85,0.0,synonym,1
+Fatty_acid_metabolism,No direct-relation bonus,2,Metabolism,ACACA;CPT1A;FASN,30.85,0.85,0.0,synonym,0
+Fatty_acid_metabolism,No direct-relation bonus,3,Metabolism of lipids,ACACA;CPT1A;FASN,30.85,0.85,0.0,synonym,1
+Fatty_acid_metabolism,No direct-relation bonus,4,Fatty acyl-CoA biosynthesis,ACACA;FASN,21.0,1.0,0.0,synonym,0
+Fatty_acid_metabolism,No direct-relation bonus,5,Regulation of cholesterol biosynthesis by SREBP (SREBF),ACACA;FASN,21.0,1.0,0.0,synonym,0
+Fatty_acid_metabolism,No direct-relation bonus,6,Signaling by Nuclear Receptors,CPT1A;FASN,21.0,1.0,0.0,synonym,0
+Fatty_acid_metabolism,No direct-relation bonus,7,Activation of gene expression by SREBF (SREBP),ACACA;FASN,20.85,0.85,0.0,synonym,0
+Fatty_acid_metabolism,No direct-relation bonus,8,Carnitine metabolism,ACACA;CPT1A,20.85,0.85,0.0,synonym,0
+Fatty_acid_metabolism,No direct-relation bonus,9,ChREBP activates metabolic gene expression,ACACA;FASN,20.85,0.85,0.0,synonym,0
+Fatty_acid_metabolism,No direct-relation bonus,10,Integration of energy metabolism,ACACA;FASN,20.85,0.85,0.0,synonym,0
+Fatty_acid_metabolism,No specificity weighting,1,Fatty acid metabolism,ACACA;CPT1A;FASN,30.25,0.85,0.25,synonym,1
+Fatty_acid_metabolism,No specificity weighting,2,Metabolism,ACACA;CPT1A;FASN,30.25,0.85,0.25,synonym,0
+Fatty_acid_metabolism,No specificity weighting,3,Metabolism of lipids,ACACA;CPT1A;FASN,30.25,0.85,0.25,synonym,1
+Fatty_acid_metabolism,No specificity weighting,4,Activation of gene expression by SREBF (SREBP),ACACA;FASN,20.25,0.85,0.25,synonym,0
+Fatty_acid_metabolism,No specificity weighting,5,ChREBP activates metabolic gene expression,ACACA;FASN,20.25,0.85,0.25,synonym,0
+Fatty_acid_metabolism,No specificity weighting,6,Fatty acyl-CoA biosynthesis,ACACA;FASN,20.25,1.0,0.25,synonym,0
+Fatty_acid_metabolism,No specificity weighting,7,Integration of energy metabolism,ACACA;FASN,20.25,0.85,0.25,synonym,0
+Fatty_acid_metabolism,No specificity weighting,8,Metabolism of steroids,ACACA;FASN,20.25,0.85,0.25,synonym,0
+Fatty_acid_metabolism,No specificity weighting,9,Metabolism of vitamins and cofactors,ACACA;FASN,20.25,0.85,0.25,synonym,0
+Fatty_acid_metabolism,No specificity weighting,10,Metabolism of water-soluble vitamins and cofactors,ACACA;FASN,20.25,0.85,0.25,synonym,0
+Fatty_acid_metabolism,Overlap count only,1,Fatty acid metabolism,ACACA;CPT1A;FASN,3.0,0.85,0.0,synonym,1
+Fatty_acid_metabolism,Overlap count only,2,Metabolism,ACACA;CPT1A;FASN,3.0,0.85,0.0,synonym,0
+Fatty_acid_metabolism,Overlap count only,3,Metabolism of lipids,ACACA;CPT1A;FASN,3.0,0.85,0.0,synonym,1
+Fatty_acid_metabolism,Overlap count only,4,Activation of gene expression by SREBF (SREBP),ACACA;FASN,2.0,0.85,0.0,synonym,0
+Fatty_acid_metabolism,Overlap count only,5,Carnitine metabolism,ACACA;CPT1A,2.0,0.85,0.0,synonym,0
+Fatty_acid_metabolism,Overlap count only,6,ChREBP activates metabolic gene expression,ACACA;FASN,2.0,0.85,0.0,synonym,0
+Fatty_acid_metabolism,Overlap count only,7,Fatty acyl-CoA biosynthesis,ACACA;FASN,2.0,1.0,0.0,synonym,0
+Fatty_acid_metabolism,Overlap count only,8,Integration of energy metabolism,ACACA;FASN,2.0,0.85,0.0,synonym,0
+Fatty_acid_metabolism,Overlap count only,9,Metabolism of steroids,ACACA;FASN,2.0,0.85,0.0,synonym,0
+Fatty_acid_metabolism,Overlap count only,10,Metabolism of vitamins and cofactors,ACACA;FASN,2.0,0.85,0.0,synonym,0
+Glycolysis,GraphRAG-Gene full,1,Glycolysis,HK1;PFKM;PKM,31.75,1.0,0.75,synonym,1
+Glycolysis,GraphRAG-Gene full,2,Glucose metabolism,HK1;PFKM;PKM,31.6,0.85,0.75,synonym,1
+Glycolysis,GraphRAG-Gene full,3,Metabolism,HK1;PFKM;PKM,31.6,0.85,0.75,synonym,0
+Glycolysis,GraphRAG-Gene full,4,Metabolism of carbohydrates,HK1;PFKM;PKM,31.6,0.85,0.75,synonym,1
+Glycolysis,GraphRAG-Gene full,5,Aerobic respiration and respiratory electron transport,PKM,11.0,1.0,0.0,synonym,0
+Glycolysis,GraphRAG-Gene full,6,Defective HK1 causes hexokinase deficiency (HK deficiency),HK1,11.0,1.0,0.0,synonym,0
+Glycolysis,GraphRAG-Gene full,7,Disorders of transmembrane transporters,HK1,11.0,1.0,0.0,synonym,0
+Glycolysis,GraphRAG-Gene full,8,Immune System,PKM,11.0,1.0,0.0,synonym,0
+Glycolysis,GraphRAG-Gene full,9,Innate Immune System,PKM,11.0,1.0,0.0,synonym,0
+Glycolysis,GraphRAG-Gene full,10,Neutrophil degranulation,PKM,11.0,1.0,0.0,synonym,0
+Glycolysis,No direct-relation bonus,1,Glycolysis,HK1;PFKM;PKM,31.0,1.0,0.0,synonym,1
+Glycolysis,No direct-relation bonus,2,Glucose metabolism,HK1;PFKM;PKM,30.85,0.85,0.0,synonym,1
+Glycolysis,No direct-relation bonus,3,Metabolism,HK1;PFKM;PKM,30.85,0.85,0.0,synonym,0
+Glycolysis,No direct-relation bonus,4,Metabolism of carbohydrates,HK1;PFKM;PKM,30.85,0.85,0.0,synonym,1
+Glycolysis,No direct-relation bonus,5,Aerobic respiration and respiratory electron transport,PKM,11.0,1.0,0.0,synonym,0
+Glycolysis,No direct-relation bonus,6,Defective HK1 causes hexokinase deficiency (HK deficiency),HK1,11.0,1.0,0.0,synonym,0
+Glycolysis,No direct-relation bonus,7,Disorders of transmembrane transporters,HK1,11.0,1.0,0.0,synonym,0
+Glycolysis,No direct-relation bonus,8,Immune System,PKM,11.0,1.0,0.0,synonym,0
+Glycolysis,No direct-relation bonus,9,Innate Immune System,PKM,11.0,1.0,0.0,synonym,0
+Glycolysis,No direct-relation bonus,10,Neutrophil degranulation,PKM,11.0,1.0,0.0,synonym,0
+Glycolysis,No specificity weighting,1,Glucose metabolism,HK1;PFKM;PKM,30.75,0.85,0.75,synonym,1
+Glycolysis,No specificity weighting,2,Glycolysis,HK1;PFKM;PKM,30.75,1.0,0.75,synonym,1
+Glycolysis,No specificity weighting,3,Metabolism,HK1;PFKM;PKM,30.75,0.85,0.75,synonym,0
+Glycolysis,No specificity weighting,4,Metabolism of carbohydrates,HK1;PFKM;PKM,30.75,0.85,0.75,synonym,1
+Glycolysis,No specificity weighting,5,Aerobic respiration and respiratory electron transport,PKM,10.0,1.0,0.0,synonym,0
+Glycolysis,No specificity weighting,6,Defective HK1 causes hexokinase deficiency (HK deficiency),HK1,10.0,1.0,0.0,synonym,0
+Glycolysis,No specificity weighting,7,Disease,HK1,10.0,0.85,0.0,synonym,0
+Glycolysis,No specificity weighting,8,Disorders of transmembrane transporters,HK1,10.0,1.0,0.0,synonym,0
+Glycolysis,No specificity weighting,9,Immune System,PKM,10.0,1.0,0.0,synonym,0
+Glycolysis,No specificity weighting,10,Innate Immune System,PKM,10.0,1.0,0.0,synonym,0
+Glycolysis,Overlap count only,1,Glucose metabolism,HK1;PFKM;PKM,3.0,0.85,0.0,synonym,1
+Glycolysis,Overlap count only,2,Glycolysis,HK1;PFKM;PKM,3.0,1.0,0.0,synonym,1
+Glycolysis,Overlap count only,3,Metabolism,HK1;PFKM;PKM,3.0,0.85,0.0,synonym,0
+Glycolysis,Overlap count only,4,Metabolism of carbohydrates,HK1;PFKM;PKM,3.0,0.85,0.0,synonym,1
+Glycolysis,Overlap count only,5,Aerobic respiration and respiratory electron transport,PKM,1.0,1.0,0.0,synonym,0
+Glycolysis,Overlap count only,6,Defective HK1 causes hexokinase deficiency (HK deficiency),HK1,1.0,1.0,0.0,synonym,0
+Glycolysis,Overlap count only,7,Disease,HK1,1.0,0.85,0.0,synonym,0
+Glycolysis,Overlap count only,8,Disorders of transmembrane transporters,HK1,1.0,1.0,0.0,synonym,0
+Glycolysis,Overlap count only,9,Immune System,PKM,1.0,1.0,0.0,synonym,0
+Glycolysis,Overlap count only,10,Innate Immune System,PKM,1.0,1.0,0.0,synonym,0
+Urea_cycle,GraphRAG-Gene full,1,Urea cycle,ASS1;CPS1;OTC,31.25,1.0,0.25,synonym,1
+Urea_cycle,GraphRAG-Gene full,2,Metabolism,ASS1;CPS1;OTC,31.1,0.85,0.25,synonym,0
+Urea_cycle,GraphRAG-Gene full,3,Metabolism of amino acids and derivatives,ASS1;CPS1;OTC,31.1,0.85,0.25,synonym,0
+Urea_cycle,GraphRAG-Gene full,4,Mitochondrial protein import,OTC,11.0,1.0,0.0,synonym,0
+Urea_cycle,GraphRAG-Gene full,5,Protein localization,OTC,11.0,1.0,0.0,synonym,0
+Urea_cycle,No direct-relation bonus,1,Urea cycle,ASS1;CPS1;OTC,31.0,1.0,0.0,synonym,1
+Urea_cycle,No direct-relation bonus,2,Metabolism,ASS1;CPS1;OTC,30.85,0.85,0.0,synonym,0
+Urea_cycle,No direct-relation bonus,3,Metabolism of amino acids and derivatives,ASS1;CPS1;OTC,30.85,0.85,0.0,synonym,0
+Urea_cycle,No direct-relation bonus,4,Mitochondrial protein import,OTC,11.0,1.0,0.0,synonym,0
+Urea_cycle,No direct-relation bonus,5,Protein localization,OTC,11.0,1.0,0.0,synonym,0
+Urea_cycle,No specificity weighting,1,Metabolism,ASS1;CPS1;OTC,30.25,0.85,0.25,synonym,0
+Urea_cycle,No specificity weighting,2,Metabolism of amino acids and derivatives,ASS1;CPS1;OTC,30.25,0.85,0.25,synonym,0
+Urea_cycle,No specificity weighting,3,Urea cycle,ASS1;CPS1;OTC,30.25,1.0,0.25,synonym,1
+Urea_cycle,No specificity weighting,4,Mitochondrial protein import,OTC,10.0,1.0,0.0,synonym,0
+Urea_cycle,No specificity weighting,5,Protein localization,OTC,10.0,1.0,0.0,synonym,0
+Urea_cycle,Overlap count only,1,Metabolism,ASS1;CPS1;OTC,3.0,0.85,0.0,synonym,0
+Urea_cycle,Overlap count only,2,Metabolism of amino acids and derivatives,ASS1;CPS1;OTC,3.0,0.85,0.0,synonym,0
+Urea_cycle,Overlap count only,3,Urea cycle,ASS1;CPS1;OTC,3.0,1.0,0.0,synonym,1
+Urea_cycle,Overlap count only,4,Mitochondrial protein import,OTC,1.0,1.0,0.0,synonym,0
+Urea_cycle,Overlap count only,5,Protein localization,OTC,1.0,1.0,0.0,synonym,0
+Autophagy,GraphRAG-Gene full,1,Autophagy,ATG5;BECN1;MAP1LC3B,31.75,1.0,0.75,synonym,1
+Autophagy,GraphRAG-Gene full,2,Macroautophagy,ATG5;BECN1;MAP1LC3B,31.75,1.0,0.75,synonym,1
+Autophagy,GraphRAG-Gene full,3,Early SARS-CoV-2 Infection Events,BECN1;MAP1LC3B,21.25,1.0,0.25,synonym,0
+Autophagy,GraphRAG-Gene full,4,Immune System,ATG5;BECN1,21.25,1.0,0.25,synonym,0
+Autophagy,GraphRAG-Gene full,5,Mitophagy,ATG5;MAP1LC3B,21.25,1.0,0.25,synonym,0
+Autophagy,GraphRAG-Gene full,6,PINK1-PRKN Mediated Mitophagy,ATG5;MAP1LC3B,21.25,1.0,0.25,synonym,0
+Autophagy,GraphRAG-Gene full,7,Receptor Mediated Mitophagy,ATG5;MAP1LC3B,21.25,1.0,0.25,synonym,0
+Autophagy,GraphRAG-Gene full,8,SARS-CoV Infections,BECN1;MAP1LC3B,21.25,1.0,0.25,synonym,0
+Autophagy,GraphRAG-Gene full,9,SARS-CoV-1 Infection,BECN1;MAP1LC3B,21.25,1.0,0.25,synonym,0
+Autophagy,GraphRAG-Gene full,10,SARS-CoV-2 Infection,BECN1;MAP1LC3B,21.25,1.0,0.25,synonym,0
+Autophagy,No direct-relation bonus,1,Autophagy,ATG5;BECN1;MAP1LC3B,31.0,1.0,0.0,synonym,1
+Autophagy,No direct-relation bonus,2,Macroautophagy,ATG5;BECN1;MAP1LC3B,31.0,1.0,0.0,synonym,1
+Autophagy,No direct-relation bonus,3,Early SARS-CoV-2 Infection Events,BECN1;MAP1LC3B,21.0,1.0,0.0,synonym,0
+Autophagy,No direct-relation bonus,4,Immune System,ATG5;BECN1,21.0,1.0,0.0,synonym,0
+Autophagy,No direct-relation bonus,5,Mitophagy,ATG5;MAP1LC3B,21.0,1.0,0.0,synonym,0
+Autophagy,No direct-relation bonus,6,PINK1-PRKN Mediated Mitophagy,ATG5;MAP1LC3B,21.0,1.0,0.0,synonym,0
+Autophagy,No direct-relation bonus,7,Receptor Mediated Mitophagy,ATG5;MAP1LC3B,21.0,1.0,0.0,synonym,0
+Autophagy,No direct-relation bonus,8,SARS-CoV Infections,BECN1;MAP1LC3B,21.0,1.0,0.0,synonym,0
+Autophagy,No direct-relation bonus,9,SARS-CoV-1 Infection,BECN1;MAP1LC3B,21.0,1.0,0.0,synonym,0
+Autophagy,No direct-relation bonus,10,SARS-CoV-2 Infection,BECN1;MAP1LC3B,21.0,1.0,0.0,synonym,0
+Autophagy,No specificity weighting,1,Autophagy,ATG5;BECN1;MAP1LC3B,30.75,1.0,0.75,synonym,1
+Autophagy,No specificity weighting,2,Macroautophagy,ATG5;BECN1;MAP1LC3B,30.75,1.0,0.75,synonym,1
+Autophagy,No specificity weighting,3,Disease,BECN1;MAP1LC3B,20.25,0.85,0.25,synonym,0
+Autophagy,No specificity weighting,4,Early SARS-CoV-2 Infection Events,BECN1;MAP1LC3B,20.25,1.0,0.25,synonym,0
+Autophagy,No specificity weighting,5,Immune System,ATG5;BECN1,20.25,1.0,0.25,synonym,0
+Autophagy,No specificity weighting,6,Infectious disease,BECN1;MAP1LC3B,20.25,0.85,0.25,synonym,0
+Autophagy,No specificity weighting,7,Mitophagy,ATG5;MAP1LC3B,20.25,1.0,0.25,synonym,0
+Autophagy,No specificity weighting,8,PINK1-PRKN Mediated Mitophagy,ATG5;MAP1LC3B,20.25,1.0,0.25,synonym,0
+Autophagy,No specificity weighting,9,Receptor Mediated Mitophagy,ATG5;MAP1LC3B,20.25,1.0,0.25,synonym,0
+Autophagy,No specificity weighting,10,SARS-CoV Infections,BECN1;MAP1LC3B,20.25,1.0,0.25,synonym,0
+Autophagy,Overlap count only,1,Autophagy,ATG5;BECN1;MAP1LC3B,3.0,1.0,0.0,synonym,1
+Autophagy,Overlap count only,2,Macroautophagy,ATG5;BECN1;MAP1LC3B,3.0,1.0,0.0,synonym,1
+Autophagy,Overlap count only,3,Disease,BECN1;MAP1LC3B,2.0,0.85,0.0,synonym,0
+Autophagy,Overlap count only,4,Early SARS-CoV-2 Infection Events,BECN1;MAP1LC3B,2.0,1.0,0.0,synonym,0
+Autophagy,Overlap count only,5,Immune System,ATG5;BECN1,2.0,1.0,0.0,synonym,0
+Autophagy,Overlap count only,6,Infectious disease,BECN1;MAP1LC3B,2.0,0.85,0.0,synonym,0
+Autophagy,Overlap count only,7,Mitophagy,ATG5;MAP1LC3B,2.0,1.0,0.0,synonym,0
+Autophagy,Overlap count only,8,PINK1-PRKN Mediated Mitophagy,ATG5;MAP1LC3B,2.0,1.0,0.0,synonym,0
+Autophagy,Overlap count only,9,Receptor Mediated Mitophagy,ATG5;MAP1LC3B,2.0,1.0,0.0,synonym,0
+Autophagy,Overlap count only,10,SARS-CoV Infections,BECN1;MAP1LC3B,2.0,1.0,0.0,synonym,0
+ER_stress_UPR,GraphRAG-Gene full,1,Unfolded Protein Response (UPR),ATF6;EIF2AK3;ERN1,31.0,1.0,0.0,synonym,1
+ER_stress_UPR,GraphRAG-Gene full,2,Cellular responses to stimuli,ATF6;EIF2AK3;ERN1,30.7,0.7,0.0,synonym,0
+ER_stress_UPR,GraphRAG-Gene full,3,Cellular responses to stress,ATF6;EIF2AK3;ERN1,30.7,0.7,0.0,synonym,0
+ER_stress_UPR,GraphRAG-Gene full,4,PERK regulates gene expression,ATF6;EIF2AK3,20.85,0.85,0.0,synonym,1
+ER_stress_UPR,GraphRAG-Gene full,5,ALK mutants bind TKIs,EIF2AK3,11.0,1.0,0.0,synonym,0
+ER_stress_UPR,GraphRAG-Gene full,6,ATF4 activates genes in response to endoplasmic reticulum  stress,ATF6,11.0,1.0,0.0,synonym,0
+ER_stress_UPR,GraphRAG-Gene full,7,ATF6 (ATF6-alpha) activates chaperone genes,ATF6,11.0,1.0,0.0,synonym,1
+ER_stress_UPR,GraphRAG-Gene full,8,ATF6 (ATF6-alpha) activates chaperones,ATF6,11.0,1.0,0.0,synonym,1
+ER_stress_UPR,GraphRAG-Gene full,9,IRE1alpha activates chaperones,ERN1,11.0,1.0,0.0,synonym,1
+ER_stress_UPR,GraphRAG-Gene full,10,KEAP1-NFE2L2 pathway,EIF2AK3,11.0,1.0,0.0,synonym,0
+ER_stress_UPR,No direct-relation bonus,1,Unfolded Protein Response (UPR),ATF6;EIF2AK3;ERN1,31.0,1.0,0.0,synonym,1
+ER_stress_UPR,No direct-relation bonus,2,Cellular responses to stimuli,ATF6;EIF2AK3;ERN1,30.7,0.7,0.0,synonym,0
+ER_stress_UPR,No direct-relation bonus,3,Cellular responses to stress,ATF6;EIF2AK3;ERN1,30.7,0.7,0.0,synonym,0
+ER_stress_UPR,No direct-relation bonus,4,PERK regulates gene expression,ATF6;EIF2AK3,20.85,0.85,0.0,synonym,1
+ER_stress_UPR,No direct-relation bonus,5,ALK mutants bind TKIs,EIF2AK3,11.0,1.0,0.0,synonym,0
+ER_stress_UPR,No direct-relation bonus,6,ATF4 activates genes in response to endoplasmic reticulum  stress,ATF6,11.0,1.0,0.0,synonym,0
+ER_stress_UPR,No direct-relation bonus,7,ATF6 (ATF6-alpha) activates chaperone genes,ATF6,11.0,1.0,0.0,synonym,1
+ER_stress_UPR,No direct-relation bonus,8,ATF6 (ATF6-alpha) activates chaperones,ATF6,11.0,1.0,0.0,synonym,1
+ER_stress_UPR,No direct-relation bonus,9,IRE1alpha activates chaperones,ERN1,11.0,1.0,0.0,synonym,1
+ER_stress_UPR,No direct-relation bonus,10,KEAP1-NFE2L2 pathway,EIF2AK3,11.0,1.0,0.0,synonym,0
+ER_stress_UPR,No specificity weighting,1,Cellular responses to stimuli,ATF6;EIF2AK3;ERN1,30.0,0.7,0.0,synonym,0
+ER_stress_UPR,No specificity weighting,2,Cellular responses to stress,ATF6;EIF2AK3;ERN1,30.0,0.7,0.0,synonym,0
+ER_stress_UPR,No specificity weighting,3,Unfolded Protein Response (UPR),ATF6;EIF2AK3;ERN1,30.0,1.0,0.0,synonym,1
+ER_stress_UPR,No specificity weighting,4,PERK regulates gene expression,ATF6;EIF2AK3,20.0,0.85,0.0,synonym,1
+ER_stress_UPR,No specificity weighting,5,ALK mutants bind TKIs,EIF2AK3,10.0,1.0,0.0,synonym,0
+ER_stress_UPR,No specificity weighting,6,ATF4 activates genes in response to endoplasmic reticulum  stress,ATF6,10.0,1.0,0.0,synonym,0
+ER_stress_UPR,No specificity weighting,7,ATF6 (ATF6-alpha) activates chaperone genes,ATF6,10.0,1.0,0.0,synonym,1
+ER_stress_UPR,No specificity weighting,8,ATF6 (ATF6-alpha) activates chaperones,ATF6,10.0,1.0,0.0,synonym,1
+ER_stress_UPR,No specificity weighting,9,Cellular response to chemical stress,EIF2AK3,10.0,0.85,0.0,synonym,0
+ER_stress_UPR,No specificity weighting,10,Disease,EIF2AK3,10.0,0.85,0.0,synonym,0
+ER_stress_UPR,Overlap count only,1,Cellular responses to stimuli,ATF6;EIF2AK3;ERN1,3.0,0.7,0.0,synonym,0
+ER_stress_UPR,Overlap count only,2,Cellular responses to stress,ATF6;EIF2AK3;ERN1,3.0,0.7,0.0,synonym,0
+ER_stress_UPR,Overlap count only,3,Unfolded Protein Response (UPR),ATF6;EIF2AK3;ERN1,3.0,1.0,0.0,synonym,1
+ER_stress_UPR,Overlap count only,4,PERK regulates gene expression,ATF6;EIF2AK3,2.0,0.85,0.0,synonym,1
+ER_stress_UPR,Overlap count only,5,ALK mutants bind TKIs,EIF2AK3,1.0,1.0,0.0,synonym,0
+ER_stress_UPR,Overlap count only,6,ATF4 activates genes in response to endoplasmic reticulum  stress,ATF6,1.0,1.0,0.0,synonym,0
+ER_stress_UPR,Overlap count only,7,ATF6 (ATF6-alpha) activates chaperone genes,ATF6,1.0,1.0,0.0,synonym,1
+ER_stress_UPR,Overlap count only,8,ATF6 (ATF6-alpha) activates chaperones,ATF6,1.0,1.0,0.0,synonym,1
+ER_stress_UPR,Overlap count only,9,Cellular response to chemical stress,EIF2AK3,1.0,0.85,0.0,synonym,0
+ER_stress_UPR,Overlap count only,10,Disease,EIF2AK3,1.0,0.85,0.0,synonym,0
+mTOR_signaling,GraphRAG-Gene full,1,Intracellular signaling by second messengers,MTOR;RICTOR;RPTOR,31.75,1.0,0.75,synonym,0
+mTOR_signaling,GraphRAG-Gene full,2,PIP3 activates AKT signaling,MTOR;RICTOR;RPTOR,31.75,1.0,0.75,synonym,1
+mTOR_signaling,GraphRAG-Gene full,3,Generic Transcription Pathway,MTOR;RICTOR;RPTOR,31.6,0.85,0.75,synonym,0
+mTOR_signaling,GraphRAG-Gene full,4,RNA Polymerase II Transcription,MTOR;RICTOR;RPTOR,31.6,0.85,0.75,synonym,0
+mTOR_signaling,GraphRAG-Gene full,5,Signal Transduction,MTOR;RICTOR;RPTOR,31.6,0.85,0.75,synonym,0
+mTOR_signaling,GraphRAG-Gene full,6,Transcriptional Regulation by TP53,MTOR;RICTOR;RPTOR,31.6,0.85,0.75,synonym,0
+mTOR_signaling,GraphRAG-Gene full,7,Gene expression (Transcription),MTOR;RICTOR;RPTOR,31.45,0.7,0.75,synonym,0
+mTOR_signaling,GraphRAG-Gene full,8,Adaptive Immune System,MTOR;RICTOR,21.25,1.0,0.25,synonym,0
+mTOR_signaling,GraphRAG-Gene full,9,Amino acids regulate mTORC1,MTOR;RPTOR,21.25,1.0,0.25,synonym,1
+mTOR_signaling,GraphRAG-Gene full,10,Autophagy,MTOR;RPTOR,21.25,1.0,0.25,synonym,0
+mTOR_signaling,No direct-relation bonus,1,Intracellular signaling by second messengers,MTOR;RICTOR;RPTOR,31.0,1.0,0.0,synonym,0
+mTOR_signaling,No direct-relation bonus,2,PIP3 activates AKT signaling,MTOR;RICTOR;RPTOR,31.0,1.0,0.0,synonym,1
+mTOR_signaling,No direct-relation bonus,3,Generic Transcription Pathway,MTOR;RICTOR;RPTOR,30.85,0.85,0.0,synonym,0
+mTOR_signaling,No direct-relation bonus,4,RNA Polymerase II Transcription,MTOR;RICTOR;RPTOR,30.85,0.85,0.0,synonym,0
+mTOR_signaling,No direct-relation bonus,5,Signal Transduction,MTOR;RICTOR;RPTOR,30.85,0.85,0.0,synonym,0
+mTOR_signaling,No direct-relation bonus,6,Transcriptional Regulation by TP53,MTOR;RICTOR;RPTOR,30.85,0.85,0.0,synonym,0
+mTOR_signaling,No direct-relation bonus,7,Gene expression (Transcription),MTOR;RICTOR;RPTOR,30.7,0.7,0.0,synonym,0
+mTOR_signaling,No direct-relation bonus,8,Adaptive Immune System,MTOR;RICTOR,21.0,1.0,0.0,synonym,0
+mTOR_signaling,No direct-relation bonus,9,Amino acids regulate mTORC1,MTOR;RPTOR,21.0,1.0,0.0,synonym,1
+mTOR_signaling,No direct-relation bonus,10,Autophagy,MTOR;RPTOR,21.0,1.0,0.0,synonym,0
+mTOR_signaling,No specificity weighting,1,Gene expression (Transcription),MTOR;RICTOR;RPTOR,30.75,0.7,0.75,synonym,0
+mTOR_signaling,No specificity weighting,2,Generic Transcription Pathway,MTOR;RICTOR;RPTOR,30.75,0.85,0.75,synonym,0
+mTOR_signaling,No specificity weighting,3,Intracellular signaling by second messengers,MTOR;RICTOR;RPTOR,30.75,1.0,0.75,synonym,0
+mTOR_signaling,No specificity weighting,4,PIP3 activates AKT signaling,MTOR;RICTOR;RPTOR,30.75,1.0,0.75,synonym,1
+mTOR_signaling,No specificity weighting,5,RNA Polymerase II Transcription,MTOR;RICTOR;RPTOR,30.75,0.85,0.75,synonym,0
+mTOR_signaling,No specificity weighting,6,Signal Transduction,MTOR;RICTOR;RPTOR,30.75,0.85,0.75,synonym,0
+mTOR_signaling,No specificity weighting,7,Transcriptional Regulation by TP53,MTOR;RICTOR;RPTOR,30.75,0.85,0.75,synonym,0
+mTOR_signaling,No specificity weighting,8,Adaptive Immune System,MTOR;RICTOR,20.25,1.0,0.25,synonym,0
+mTOR_signaling,No specificity weighting,9,Amino acids regulate mTORC1,MTOR;RPTOR,20.25,1.0,0.25,synonym,1
+mTOR_signaling,No specificity weighting,10,Autophagy,MTOR;RPTOR,20.25,1.0,0.25,synonym,0
+mTOR_signaling,Overlap count only,1,Gene expression (Transcription),MTOR;RICTOR;RPTOR,3.0,0.7,0.0,synonym,0
+mTOR_signaling,Overlap count only,2,Generic Transcription Pathway,MTOR;RICTOR;RPTOR,3.0,0.85,0.0,synonym,0
+mTOR_signaling,Overlap count only,3,Intracellular signaling by second messengers,MTOR;RICTOR;RPTOR,3.0,1.0,0.0,synonym,0
+mTOR_signaling,Overlap count only,4,PIP3 activates AKT signaling,MTOR;RICTOR;RPTOR,3.0,1.0,0.0,synonym,1
+mTOR_signaling,Overlap count only,5,RNA Polymerase II Transcription,MTOR;RICTOR;RPTOR,3.0,0.85,0.0,synonym,0
+mTOR_signaling,Overlap count only,6,Signal Transduction,MTOR;RICTOR;RPTOR,3.0,0.85,0.0,synonym,0
+mTOR_signaling,Overlap count only,7,Transcriptional Regulation by TP53,MTOR;RICTOR;RPTOR,3.0,0.85,0.0,synonym,0
+mTOR_signaling,Overlap count only,8,Adaptive Immune System,MTOR;RICTOR,2.0,1.0,0.0,synonym,0
+mTOR_signaling,Overlap count only,9,Amino acids regulate mTORC1,MTOR;RPTOR,2.0,1.0,0.0,synonym,1
+mTOR_signaling,Overlap count only,10,Autophagy,MTOR;RPTOR,2.0,1.0,0.0,synonym,0
+VEGF_signaling,GraphRAG-Gene full,1,Signaling by Receptor Tyrosine Kinases,FLT1;KDR;VEGFA,31.75,1.0,0.75,synonym,1
+VEGF_signaling,GraphRAG-Gene full,2,Signaling by VEGF,FLT1;KDR;VEGFA,31.75,1.0,0.75,synonym,1
+VEGF_signaling,GraphRAG-Gene full,3,VEGF binds to VEGFR leading to receptor dimerization,FLT1;KDR;VEGFA,31.75,1.0,0.75,synonym,1
+VEGF_signaling,GraphRAG-Gene full,4,VEGF ligand-receptor interactions,FLT1;KDR;VEGFA,31.75,1.0,0.75,synonym,1
+VEGF_signaling,GraphRAG-Gene full,5,Signal Transduction,FLT1;KDR;VEGFA,31.6,0.85,0.75,synonym,0
+VEGF_signaling,GraphRAG-Gene full,6,Neurophilin interactions with VEGF and VEGFR,FLT1;KDR,21.25,1.0,0.25,synonym,1
+VEGF_signaling,GraphRAG-Gene full,7,VEGFA-VEGFR2 Pathway,KDR;VEGFA,21.25,1.0,0.25,synonym,1
+VEGF_signaling,GraphRAG-Gene full,8,VEGFR2 mediated cell proliferation,KDR;VEGFA,21.25,1.0,0.25,synonym,1
+VEGF_signaling,GraphRAG-Gene full,9,Disease,KDR;VEGFA,21.1,0.85,0.25,synonym,0
+VEGF_signaling,GraphRAG-Gene full,10,Cytokine Signaling in Immune system,VEGFA,11.0,1.0,0.0,synonym,0
+VEGF_signaling,No direct-relation bonus,1,Signaling by Receptor Tyrosine Kinases,FLT1;KDR;VEGFA,31.0,1.0,0.0,synonym,1
+VEGF_signaling,No direct-relation bonus,2,Signaling by VEGF,FLT1;KDR;VEGFA,31.0,1.0,0.0,synonym,1
+VEGF_signaling,No direct-relation bonus,3,VEGF binds to VEGFR leading to receptor dimerization,FLT1;KDR;VEGFA,31.0,1.0,0.0,synonym,1
+VEGF_signaling,No direct-relation bonus,4,VEGF ligand-receptor interactions,FLT1;KDR;VEGFA,31.0,1.0,0.0,synonym,1
+VEGF_signaling,No direct-relation bonus,5,Signal Transduction,FLT1;KDR;VEGFA,30.85,0.85,0.0,synonym,0
+VEGF_signaling,No direct-relation bonus,6,Neurophilin interactions with VEGF and VEGFR,FLT1;KDR,21.0,1.0,0.0,synonym,1
+VEGF_signaling,No direct-relation bonus,7,VEGFA-VEGFR2 Pathway,KDR;VEGFA,21.0,1.0,0.0,synonym,1
+VEGF_signaling,No direct-relation bonus,8,VEGFR2 mediated cell proliferation,KDR;VEGFA,21.0,1.0,0.0,synonym,1
+VEGF_signaling,No direct-relation bonus,9,Disease,KDR;VEGFA,20.85,0.85,0.0,synonym,0
+VEGF_signaling,No direct-relation bonus,10,Cytokine Signaling in Immune system,VEGFA,11.0,1.0,0.0,synonym,0
+VEGF_signaling,No specificity weighting,1,Signal Transduction,FLT1;KDR;VEGFA,30.75,0.85,0.75,synonym,0
+VEGF_signaling,No specificity weighting,2,Signaling by Receptor Tyrosine Kinases,FLT1;KDR;VEGFA,30.75,1.0,0.75,synonym,1
+VEGF_signaling,No specificity weighting,3,Signaling by VEGF,FLT1;KDR;VEGFA,30.75,1.0,0.75,synonym,1
+VEGF_signaling,No specificity weighting,4,VEGF binds to VEGFR leading to receptor dimerization,FLT1;KDR;VEGFA,30.75,1.0,0.75,synonym,1
+VEGF_signaling,No specificity weighting,5,VEGF ligand-receptor interactions,FLT1;KDR;VEGFA,30.75,1.0,0.75,synonym,1
+VEGF_signaling,No specificity weighting,6,Disease,KDR;VEGFA,20.25,0.85,0.25,synonym,0
+VEGF_signaling,No specificity weighting,7,Neurophilin interactions with VEGF and VEGFR,FLT1;KDR,20.25,1.0,0.25,synonym,1
+VEGF_signaling,No specificity weighting,8,VEGFA-VEGFR2 Pathway,KDR;VEGFA,20.25,1.0,0.25,synonym,1
+VEGF_signaling,No specificity weighting,9,VEGFR2 mediated cell proliferation,KDR;VEGFA,20.25,1.0,0.25,synonym,1
+VEGF_signaling,No specificity weighting,10,Cellular response to hypoxia,VEGFA,10.0,0.85,0.0,synonym,0
+VEGF_signaling,Overlap count only,1,Signal Transduction,FLT1;KDR;VEGFA,3.0,0.85,0.0,synonym,0
+VEGF_signaling,Overlap count only,2,Signaling by Receptor Tyrosine Kinases,FLT1;KDR;VEGFA,3.0,1.0,0.0,synonym,1
+VEGF_signaling,Overlap count only,3,Signaling by VEGF,FLT1;KDR;VEGFA,3.0,1.0,0.0,synonym,1
+VEGF_signaling,Overlap count only,4,VEGF binds to VEGFR leading to receptor dimerization,FLT1;KDR;VEGFA,3.0,1.0,0.0,synonym,1
+VEGF_signaling,Overlap count only,5,VEGF ligand-receptor interactions,FLT1;KDR;VEGFA,3.0,1.0,0.0,synonym,1
+VEGF_signaling,Overlap count only,6,Disease,KDR;VEGFA,2.0,0.85,0.0,synonym,0
+VEGF_signaling,Overlap count only,7,Neurophilin interactions with VEGF and VEGFR,FLT1;KDR,2.0,1.0,0.0,synonym,1
+VEGF_signaling,Overlap count only,8,VEGFA-VEGFR2 Pathway,KDR;VEGFA,2.0,1.0,0.0,synonym,1
+VEGF_signaling,Overlap count only,9,VEGFR2 mediated cell proliferation,KDR;VEGFA,2.0,1.0,0.0,synonym,1
+VEGF_signaling,Overlap count only,10,Cellular response to hypoxia,VEGFA,1.0,0.85,0.0,synonym,0
+Integrin_signaling,GraphRAG-Gene full,1,Cell surface interactions at the vascular wall,FN1;ITGA5;ITGB1,31.75,1.0,0.75,synonym,0
+Integrin_signaling,GraphRAG-Gene full,2,Elastic fibre formation,FN1;ITGA5;ITGB1,31.75,1.0,0.75,synonym,0
+Integrin_signaling,GraphRAG-Gene full,3,Extracellular matrix organization,FN1;ITGA5;ITGB1,31.75,1.0,0.75,synonym,1
+Integrin_signaling,GraphRAG-Gene full,4,Fibronectin matrix formation,FN1;ITGA5;ITGB1,31.75,1.0,0.75,synonym,0
+Integrin_signaling,GraphRAG-Gene full,5,G alpha (s) signalling events,FN1;ITGA5;ITGB1,31.75,1.0,0.75,synonym,0
+Integrin_signaling,GraphRAG-Gene full,6,GPCR downstream signalling,FN1;ITGA5;ITGB1,31.75,1.0,0.75,synonym,0
+Integrin_signaling,GraphRAG-Gene full,7,GPER1 signaling,FN1;ITGA5;ITGB1,31.75,1.0,0.75,synonym,0
+Integrin_signaling,GraphRAG-Gene full,8,Hemostasis,FN1;ITGA5;ITGB1,31.75,1.0,0.75,synonym,0
+Integrin_signaling,GraphRAG-Gene full,9,Integrin cell surface interactions,FN1;ITGA5;ITGB1,31.75,1.0,0.75,synonym,1
+Integrin_signaling,GraphRAG-Gene full,10,Signaling by GPCR,FN1;ITGA5;ITGB1,31.75,1.0,0.75,synonym,0
+Integrin_signaling,No direct-relation bonus,1,Cell surface interactions at the vascular wall,FN1;ITGA5;ITGB1,31.0,1.0,0.0,synonym,0
+Integrin_signaling,No direct-relation bonus,2,Elastic fibre formation,FN1;ITGA5;ITGB1,31.0,1.0,0.0,synonym,0
+Integrin_signaling,No direct-relation bonus,3,Extracellular matrix organization,FN1;ITGA5;ITGB1,31.0,1.0,0.0,synonym,1
+Integrin_signaling,No direct-relation bonus,4,Fibronectin matrix formation,FN1;ITGA5;ITGB1,31.0,1.0,0.0,synonym,0
+Integrin_signaling,No direct-relation bonus,5,G alpha (s) signalling events,FN1;ITGA5;ITGB1,31.0,1.0,0.0,synonym,0
+Integrin_signaling,No direct-relation bonus,6,GPCR downstream signalling,FN1;ITGA5;ITGB1,31.0,1.0,0.0,synonym,0
+Integrin_signaling,No direct-relation bonus,7,GPER1 signaling,FN1;ITGA5;ITGB1,31.0,1.0,0.0,synonym,0
+Integrin_signaling,No direct-relation bonus,8,Hemostasis,FN1;ITGA5;ITGB1,31.0,1.0,0.0,synonym,0
+Integrin_signaling,No direct-relation bonus,9,Integrin cell surface interactions,FN1;ITGA5;ITGB1,31.0,1.0,0.0,synonym,1
+Integrin_signaling,No direct-relation bonus,10,Signaling by GPCR,FN1;ITGA5;ITGB1,31.0,1.0,0.0,synonym,0
+Integrin_signaling,No specificity weighting,1,Cell surface interactions at the vascular wall,FN1;ITGA5;ITGB1,30.75,1.0,0.75,synonym,0
+Integrin_signaling,No specificity weighting,2,Elastic fibre formation,FN1;ITGA5;ITGB1,30.75,1.0,0.75,synonym,0
+Integrin_signaling,No specificity weighting,3,Extracellular matrix organization,FN1;ITGA5;ITGB1,30.75,1.0,0.75,synonym,1
+Integrin_signaling,No specificity weighting,4,Fibronectin matrix formation,FN1;ITGA5;ITGB1,30.75,1.0,0.75,synonym,0
+Integrin_signaling,No specificity weighting,5,G alpha (s) signalling events,FN1;ITGA5;ITGB1,30.75,1.0,0.75,synonym,0
+Integrin_signaling,No specificity weighting,6,GPCR downstream signalling,FN1;ITGA5;ITGB1,30.75,1.0,0.75,synonym,0
+Integrin_signaling,No specificity weighting,7,GPER1 signaling,FN1;ITGA5;ITGB1,30.75,1.0,0.75,synonym,0
+Integrin_signaling,No specificity weighting,8,Hemostasis,FN1;ITGA5;ITGB1,30.75,1.0,0.75,synonym,0
+Integrin_signaling,No specificity weighting,9,Integrin cell surface interactions,FN1;ITGA5;ITGB1,30.75,1.0,0.75,synonym,1
+Integrin_signaling,No specificity weighting,10,Signal Transduction,FN1;ITGA5;ITGB1,30.75,0.85,0.75,synonym,0
+Integrin_signaling,Overlap count only,1,Cell surface interactions at the vascular wall,FN1;ITGA5;ITGB1,3.0,1.0,0.0,synonym,0
+Integrin_signaling,Overlap count only,2,Elastic fibre formation,FN1;ITGA5;ITGB1,3.0,1.0,0.0,synonym,0
+Integrin_signaling,Overlap count only,3,Extracellular matrix organization,FN1;ITGA5;ITGB1,3.0,1.0,0.0,synonym,1
+Integrin_signaling,Overlap count only,4,Fibronectin matrix formation,FN1;ITGA5;ITGB1,3.0,1.0,0.0,synonym,0
+Integrin_signaling,Overlap count only,5,G alpha (s) signalling events,FN1;ITGA5;ITGB1,3.0,1.0,0.0,synonym,0
+Integrin_signaling,Overlap count only,6,GPCR downstream signalling,FN1;ITGA5;ITGB1,3.0,1.0,0.0,synonym,0
+Integrin_signaling,Overlap count only,7,GPER1 signaling,FN1;ITGA5;ITGB1,3.0,1.0,0.0,synonym,0
+Integrin_signaling,Overlap count only,8,Hemostasis,FN1;ITGA5;ITGB1,3.0,1.0,0.0,synonym,0
+Integrin_signaling,Overlap count only,9,Integrin cell surface interactions,FN1;ITGA5;ITGB1,3.0,1.0,0.0,synonym,1
+Integrin_signaling,Overlap count only,10,Signal Transduction,FN1;ITGA5;ITGB1,3.0,0.85,0.0,synonym,0
+ECM_organization,GraphRAG-Gene full,1,Collagen degradation,COL1A1;COL1A2;MMP2,31.5,1.0,0.5,synonym,1
+ECM_organization,GraphRAG-Gene full,2,Degradation of the extracellular matrix,COL1A1;COL1A2;MMP2,31.5,1.0,0.5,synonym,1
+ECM_organization,GraphRAG-Gene full,3,Extracellular matrix organization,COL1A1;COL1A2;MMP2,31.5,1.0,0.5,synonym,1
+ECM_organization,GraphRAG-Gene full,4,Immune System,COL1A1;COL1A2;MMP2,31.5,1.0,0.5,synonym,0
+ECM_organization,GraphRAG-Gene full,5,Signal Transduction,COL1A1;COL1A2;MMP2,31.35,0.85,0.5,synonym,0
+ECM_organization,GraphRAG-Gene full,6,Adaptive Immune System,COL1A1;COL1A2,21.25,1.0,0.25,synonym,0
+ECM_organization,GraphRAG-Gene full,7,Anchoring fibril formation,COL1A1;COL1A2,21.25,1.0,0.25,synonym,0
+ECM_organization,GraphRAG-Gene full,8,Assembly of collagen fibrils and other multimeric structures,COL1A1;COL1A2,21.25,1.0,0.25,synonym,1
+ECM_organization,GraphRAG-Gene full,9,Binding and Uptake of Ligands by Scavenger Receptors,COL1A1;COL1A2,21.25,1.0,0.25,synonym,0
+ECM_organization,GraphRAG-Gene full,10,Cell surface interactions at the vascular wall,COL1A1;COL1A2,21.25,1.0,0.25,synonym,0
+ECM_organization,No direct-relation bonus,1,Collagen degradation,COL1A1;COL1A2;MMP2,31.0,1.0,0.0,synonym,1
+ECM_organization,No direct-relation bonus,2,Degradation of the extracellular matrix,COL1A1;COL1A2;MMP2,31.0,1.0,0.0,synonym,1
+ECM_organization,No direct-relation bonus,3,Extracellular matrix organization,COL1A1;COL1A2;MMP2,31.0,1.0,0.0,synonym,1
+ECM_organization,No direct-relation bonus,4,Immune System,COL1A1;COL1A2;MMP2,31.0,1.0,0.0,synonym,0
+ECM_organization,No direct-relation bonus,5,Signal Transduction,COL1A1;COL1A2;MMP2,30.85,0.85,0.0,synonym,0
+ECM_organization,No direct-relation bonus,6,Adaptive Immune System,COL1A1;COL1A2,21.0,1.0,0.0,synonym,0
+ECM_organization,No direct-relation bonus,7,Anchoring fibril formation,COL1A1;COL1A2,21.0,1.0,0.0,synonym,0
+ECM_organization,No direct-relation bonus,8,Assembly of collagen fibrils and other multimeric structures,COL1A1;COL1A2,21.0,1.0,0.0,synonym,1
+ECM_organization,No direct-relation bonus,9,Binding and Uptake of Ligands by Scavenger Receptors,COL1A1;COL1A2,21.0,1.0,0.0,synonym,0
+ECM_organization,No direct-relation bonus,10,Cell surface interactions at the vascular wall,COL1A1;COL1A2,21.0,1.0,0.0,synonym,0
+ECM_organization,No specificity weighting,1,Collagen degradation,COL1A1;COL1A2;MMP2,30.5,1.0,0.5,synonym,1
+ECM_organization,No specificity weighting,2,Degradation of the extracellular matrix,COL1A1;COL1A2;MMP2,30.5,1.0,0.5,synonym,1
+ECM_organization,No specificity weighting,3,Extracellular matrix organization,COL1A1;COL1A2;MMP2,30.5,1.0,0.5,synonym,1
+ECM_organization,No specificity weighting,4,Immune System,COL1A1;COL1A2;MMP2,30.5,1.0,0.5,synonym,0
+ECM_organization,No specificity weighting,5,Signal Transduction,COL1A1;COL1A2;MMP2,30.5,0.85,0.5,synonym,0
+ECM_organization,No specificity weighting,6,Adaptive Immune System,COL1A1;COL1A2,20.25,1.0,0.25,synonym,0
+ECM_organization,No specificity weighting,7,Anchoring fibril formation,COL1A1;COL1A2,20.25,1.0,0.25,synonym,0
+ECM_organization,No specificity weighting,8,Assembly of collagen fibrils and other multimeric structures,COL1A1;COL1A2,20.25,1.0,0.25,synonym,1
+ECM_organization,No specificity weighting,9,Binding and Uptake of Ligands by Scavenger Receptors,COL1A1;COL1A2,20.25,1.0,0.25,synonym,0
+ECM_organization,No specificity weighting,10,Cell surface interactions at the vascular wall,COL1A1;COL1A2,20.25,1.0,0.25,synonym,0
+ECM_organization,Overlap count only,1,Collagen degradation,COL1A1;COL1A2;MMP2,3.0,1.0,0.0,synonym,1
+ECM_organization,Overlap count only,2,Degradation of the extracellular matrix,COL1A1;COL1A2;MMP2,3.0,1.0,0.0,synonym,1
+ECM_organization,Overlap count only,3,Extracellular matrix organization,COL1A1;COL1A2;MMP2,3.0,1.0,0.0,synonym,1
+ECM_organization,Overlap count only,4,Immune System,COL1A1;COL1A2;MMP2,3.0,1.0,0.0,synonym,0
+ECM_organization,Overlap count only,5,Signal Transduction,COL1A1;COL1A2;MMP2,3.0,0.85,0.0,synonym,0
+ECM_organization,Overlap count only,6,Adaptive Immune System,COL1A1;COL1A2,2.0,1.0,0.0,synonym,0
+ECM_organization,Overlap count only,7,Anchoring fibril formation,COL1A1;COL1A2,2.0,1.0,0.0,synonym,0
+ECM_organization,Overlap count only,8,Assembly of collagen fibrils and other multimeric structures,COL1A1;COL1A2,2.0,1.0,0.0,synonym,1
+ECM_organization,Overlap count only,9,Binding and Uptake of Ligands by Scavenger Receptors,COL1A1;COL1A2,2.0,1.0,0.0,synonym,0
+ECM_organization,Overlap count only,10,Cell surface interactions at the vascular wall,COL1A1;COL1A2,2.0,1.0,0.0,synonym,0
+Chromatin_modification,GraphRAG-Gene full,1,Activation of anterior HOX genes in hindbrain development during early embryogenesis,EED;EZH2;SUZ12,31.75,1.0,0.75,synonym,0
+Chromatin_modification,GraphRAG-Gene full,2,Activation of HOX genes during differentiation,EED;EZH2;SUZ12,31.75,1.0,0.75,synonym,0
+Chromatin_modification,GraphRAG-Gene full,3,Cellular Senescence,EED;EZH2;SUZ12,31.75,1.0,0.75,synonym,0
+Chromatin_modification,GraphRAG-Gene full,4,Chromatin modifying enzymes,EED;EZH2;SUZ12,31.75,1.0,0.75,synonym,1
+Chromatin_modification,GraphRAG-Gene full,5,Chromatin organization,EED;EZH2;SUZ12,31.75,1.0,0.75,synonym,1
+Chromatin_modification,GraphRAG-Gene full,6,Defective pyroptosis,EED;EZH2;SUZ12,31.75,1.0,0.75,synonym,0
+Chromatin_modification,GraphRAG-Gene full,7,HCMV Early Events,EED;EZH2;SUZ12,31.75,1.0,0.75,synonym,0
+Chromatin_modification,GraphRAG-Gene full,8,HCMV Infection,EED;EZH2;SUZ12,31.75,1.0,0.75,synonym,0
+Chromatin_modification,GraphRAG-Gene full,9,Intracellular signaling by second messengers,EED;EZH2;SUZ12,31.75,1.0,0.75,synonym,0
+Chromatin_modification,GraphRAG-Gene full,10,Oxidative Stress Induced Senescence,EED;EZH2;SUZ12,31.75,1.0,0.75,synonym,0
+Chromatin_modification,No direct-relation bonus,1,Activation of anterior HOX genes in hindbrain development during early embryogenesis,EED;EZH2;SUZ12,31.0,1.0,0.0,synonym,0
+Chromatin_modification,No direct-relation bonus,2,Activation of HOX genes during differentiation,EED;EZH2;SUZ12,31.0,1.0,0.0,synonym,0
+Chromatin_modification,No direct-relation bonus,3,Cellular Senescence,EED;EZH2;SUZ12,31.0,1.0,0.0,synonym,0
+Chromatin_modification,No direct-relation bonus,4,Chromatin modifying enzymes,EED;EZH2;SUZ12,31.0,1.0,0.0,synonym,1
+Chromatin_modification,No direct-relation bonus,5,Chromatin organization,EED;EZH2;SUZ12,31.0,1.0,0.0,synonym,1
+Chromatin_modification,No direct-relation bonus,6,Defective pyroptosis,EED;EZH2;SUZ12,31.0,1.0,0.0,synonym,0
+Chromatin_modification,No direct-relation bonus,7,HCMV Early Events,EED;EZH2;SUZ12,31.0,1.0,0.0,synonym,0
+Chromatin_modification,No direct-relation bonus,8,HCMV Infection,EED;EZH2;SUZ12,31.0,1.0,0.0,synonym,0
+Chromatin_modification,No direct-relation bonus,9,Intracellular signaling by second messengers,EED;EZH2;SUZ12,31.0,1.0,0.0,synonym,0
+Chromatin_modification,No direct-relation bonus,10,Oxidative Stress Induced Senescence,EED;EZH2;SUZ12,31.0,1.0,0.0,synonym,0
+Chromatin_modification,No specificity weighting,1,Activation of anterior HOX genes in hindbrain development during early embryogenesis,EED;EZH2;SUZ12,30.75,1.0,0.75,synonym,0
+Chromatin_modification,No specificity weighting,2,Activation of HOX genes during differentiation,EED;EZH2;SUZ12,30.75,1.0,0.75,synonym,0
+Chromatin_modification,No specificity weighting,3,Cellular responses to stimuli,EED;EZH2;SUZ12,30.75,0.7,0.75,synonym,0
+Chromatin_modification,No specificity weighting,4,Cellular responses to stress,EED;EZH2;SUZ12,30.75,0.7,0.75,synonym,0
+Chromatin_modification,No specificity weighting,5,Cellular Senescence,EED;EZH2;SUZ12,30.75,1.0,0.75,synonym,0
+Chromatin_modification,No specificity weighting,6,Chromatin modifying enzymes,EED;EZH2;SUZ12,30.75,1.0,0.75,synonym,1
+Chromatin_modification,No specificity weighting,7,Chromatin organization,EED;EZH2;SUZ12,30.75,1.0,0.75,synonym,1
+Chromatin_modification,No specificity weighting,8,Defective pyroptosis,EED;EZH2;SUZ12,30.75,1.0,0.75,synonym,0
+Chromatin_modification,No specificity weighting,9,Developmental Biology,EED;EZH2;SUZ12,30.75,0.85,0.75,synonym,0
+Chromatin_modification,No specificity weighting,10,Disease,EED;EZH2;SUZ12,30.75,0.85,0.75,synonym,0
+Chromatin_modification,Overlap count only,1,Activation of anterior HOX genes in hindbrain development during early embryogenesis,EED;EZH2;SUZ12,3.0,1.0,0.0,synonym,0
+Chromatin_modification,Overlap count only,2,Activation of HOX genes during differentiation,EED;EZH2;SUZ12,3.0,1.0,0.0,synonym,0
+Chromatin_modification,Overlap count only,3,Cellular responses to stimuli,EED;EZH2;SUZ12,3.0,0.7,0.0,synonym,0
+Chromatin_modification,Overlap count only,4,Cellular responses to stress,EED;EZH2;SUZ12,3.0,0.7,0.0,synonym,0
+Chromatin_modification,Overlap count only,5,Cellular Senescence,EED;EZH2;SUZ12,3.0,1.0,0.0,synonym,0
+Chromatin_modification,Overlap count only,6,Chromatin modifying enzymes,EED;EZH2;SUZ12,3.0,1.0,0.0,synonym,1
+Chromatin_modification,Overlap count only,7,Chromatin organization,EED;EZH2;SUZ12,3.0,1.0,0.0,synonym,1
+Chromatin_modification,Overlap count only,8,Defective pyroptosis,EED;EZH2;SUZ12,3.0,1.0,0.0,synonym,0
+Chromatin_modification,Overlap count only,9,Developmental Biology,EED;EZH2;SUZ12,3.0,0.85,0.0,synonym,0
+Chromatin_modification,Overlap count only,10,Disease,EED;EZH2;SUZ12,3.0,0.85,0.0,synonym,0
+RNA_polymerase_II,GraphRAG-Gene full,1,Abortive elongation of HIV-1 transcript in the absence of Tat,POLR2A;POLR2B;POLR2C,31.75,1.0,0.75,synonym,0
+RNA_polymerase_II,GraphRAG-Gene full,2,Activation of anterior HOX genes in hindbrain development during early embryogenesis,POLR2A;POLR2B;POLR2C,31.75,1.0,0.75,synonym,0
+RNA_polymerase_II,GraphRAG-Gene full,3,Activation of HOX genes during differentiation,POLR2A;POLR2B;POLR2C,31.75,1.0,0.75,synonym,0
+RNA_polymerase_II,GraphRAG-Gene full,4,Cell Cycle,POLR2A;POLR2B;POLR2C,31.75,1.0,0.75,synonym,0
+RNA_polymerase_II,GraphRAG-Gene full,5,Chromosome Maintenance,POLR2A;POLR2B;POLR2C,31.75,1.0,0.75,synonym,0
+RNA_polymerase_II,GraphRAG-Gene full,6,DNA Repair,POLR2A;POLR2B;POLR2C,31.75,1.0,0.75,synonym,0
+RNA_polymerase_II,GraphRAG-Gene full,7,Dual incision in TC-NER,POLR2A;POLR2B;POLR2C,31.75,1.0,0.75,synonym,0
+RNA_polymerase_II,GraphRAG-Gene full,8,ESR-mediated signaling,POLR2A;POLR2B;POLR2C,31.75,1.0,0.75,synonym,0
+RNA_polymerase_II,GraphRAG-Gene full,9,FGFR2 alternative splicing,POLR2A;POLR2B;POLR2C,31.75,1.0,0.75,synonym,0
+RNA_polymerase_II,GraphRAG-Gene full,10,FGFR2 mutant receptor activation,POLR2A;POLR2B;POLR2C,31.75,1.0,0.75,synonym,0
+RNA_polymerase_II,No direct-relation bonus,1,Abortive elongation of HIV-1 transcript in the absence of Tat,POLR2A;POLR2B;POLR2C,31.0,1.0,0.0,synonym,0
+RNA_polymerase_II,No direct-relation bonus,2,Activation of anterior HOX genes in hindbrain development during early embryogenesis,POLR2A;POLR2B;POLR2C,31.0,1.0,0.0,synonym,0
+RNA_polymerase_II,No direct-relation bonus,3,Activation of HOX genes during differentiation,POLR2A;POLR2B;POLR2C,31.0,1.0,0.0,synonym,0
+RNA_polymerase_II,No direct-relation bonus,4,Cell Cycle,POLR2A;POLR2B;POLR2C,31.0,1.0,0.0,synonym,0
+RNA_polymerase_II,No direct-relation bonus,5,Chromosome Maintenance,POLR2A;POLR2B;POLR2C,31.0,1.0,0.0,synonym,0
+RNA_polymerase_II,No direct-relation bonus,6,DNA Repair,POLR2A;POLR2B;POLR2C,31.0,1.0,0.0,synonym,0
+RNA_polymerase_II,No direct-relation bonus,7,Dual incision in TC-NER,POLR2A;POLR2B;POLR2C,31.0,1.0,0.0,synonym,0
+RNA_polymerase_II,No direct-relation bonus,8,ESR-mediated signaling,POLR2A;POLR2B;POLR2C,31.0,1.0,0.0,synonym,0
+RNA_polymerase_II,No direct-relation bonus,9,FGFR2 alternative splicing,POLR2A;POLR2B;POLR2C,31.0,1.0,0.0,synonym,0
+RNA_polymerase_II,No direct-relation bonus,10,FGFR2 mutant receptor activation,POLR2A;POLR2B;POLR2C,31.0,1.0,0.0,synonym,0
+RNA_polymerase_II,No specificity weighting,1,Abortive elongation of HIV-1 transcript in the absence of Tat,POLR2A;POLR2B;POLR2C,30.75,1.0,0.75,synonym,0
+RNA_polymerase_II,No specificity weighting,2,Activation of anterior HOX genes in hindbrain development during early embryogenesis,POLR2A;POLR2B;POLR2C,30.75,1.0,0.75,synonym,0
+RNA_polymerase_II,No specificity weighting,3,Activation of HOX genes during differentiation,POLR2A;POLR2B;POLR2C,30.75,1.0,0.75,synonym,0
+RNA_polymerase_II,No specificity weighting,4,Cell Cycle,POLR2A;POLR2B;POLR2C,30.75,1.0,0.75,synonym,0
+RNA_polymerase_II,No specificity weighting,5,Chromosome Maintenance,POLR2A;POLR2B;POLR2C,30.75,1.0,0.75,synonym,0
+RNA_polymerase_II,No specificity weighting,6,Developmental Biology,POLR2A;POLR2B;POLR2C,30.75,0.85,0.75,synonym,0
+RNA_polymerase_II,No specificity weighting,7,Disease,POLR2A;POLR2B;POLR2C,30.75,0.85,0.75,synonym,0
+RNA_polymerase_II,No specificity weighting,8,Diseases of signal transduction by growth factor receptors and second messengers,POLR2A;POLR2B;POLR2C,30.75,0.55,0.75,synonym,0
+RNA_polymerase_II,No specificity weighting,9,DNA Repair,POLR2A;POLR2B;POLR2C,30.75,1.0,0.75,synonym,0
+RNA_polymerase_II,No specificity weighting,10,Dual incision in TC-NER,POLR2A;POLR2B;POLR2C,30.75,1.0,0.75,synonym,0
+RNA_polymerase_II,Overlap count only,1,Abortive elongation of HIV-1 transcript in the absence of Tat,POLR2A;POLR2B;POLR2C,3.0,1.0,0.0,synonym,0
+RNA_polymerase_II,Overlap count only,2,Activation of anterior HOX genes in hindbrain development during early embryogenesis,POLR2A;POLR2B;POLR2C,3.0,1.0,0.0,synonym,0
+RNA_polymerase_II,Overlap count only,3,Activation of HOX genes during differentiation,POLR2A;POLR2B;POLR2C,3.0,1.0,0.0,synonym,0
+RNA_polymerase_II,Overlap count only,4,Cell Cycle,POLR2A;POLR2B;POLR2C,3.0,1.0,0.0,synonym,0
+RNA_polymerase_II,Overlap count only,5,Chromosome Maintenance,POLR2A;POLR2B;POLR2C,3.0,1.0,0.0,synonym,0
+RNA_polymerase_II,Overlap count only,6,Developmental Biology,POLR2A;POLR2B;POLR2C,3.0,0.85,0.0,synonym,0
+RNA_polymerase_II,Overlap count only,7,Disease,POLR2A;POLR2B;POLR2C,3.0,0.85,0.0,synonym,0
+RNA_polymerase_II,Overlap count only,8,Diseases of signal transduction by growth factor receptors and second messengers,POLR2A;POLR2B;POLR2C,3.0,0.55,0.0,synonym,0
+RNA_polymerase_II,Overlap count only,9,DNA Repair,POLR2A;POLR2B;POLR2C,3.0,1.0,0.0,synonym,0
+RNA_polymerase_II,Overlap count only,10,Dual incision in TC-NER,POLR2A;POLR2B;POLR2C,3.0,1.0,0.0,synonym,0
+Translation_initiation,GraphRAG-Gene full,1,"Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S",EIF2S1;EIF4E;EIF4G1,31.75,1.0,0.75,synonym,0
+Translation_initiation,GraphRAG-Gene full,2,Antiviral mechanism by IFN-stimulated genes,EIF2S1;EIF4E;EIF4G1,31.75,1.0,0.75,synonym,0
+Translation_initiation,GraphRAG-Gene full,3,Cap-dependent Translation Initiation,EIF2S1;EIF4E;EIF4G1,31.75,1.0,0.75,synonym,1
+Translation_initiation,GraphRAG-Gene full,4,Cytokine Signaling in Immune system,EIF2S1;EIF4E;EIF4G1,31.75,1.0,0.75,synonym,0
+Translation_initiation,GraphRAG-Gene full,5,Eukaryotic Translation Initiation,EIF2S1;EIF4E;EIF4G1,31.75,1.0,0.75,synonym,1
+Translation_initiation,GraphRAG-Gene full,6,GTP hydrolysis and joining of the 60S ribosomal subunit,EIF2S1;EIF4E;EIF4G1,31.75,1.0,0.75,synonym,0
+Translation_initiation,GraphRAG-Gene full,7,Immune System,EIF2S1;EIF4E;EIF4G1,31.75,1.0,0.75,synonym,0
+Translation_initiation,GraphRAG-Gene full,8,Interferon Signaling,EIF2S1;EIF4E;EIF4G1,31.75,1.0,0.75,synonym,0
+Translation_initiation,GraphRAG-Gene full,9,L13a-mediated translational silencing of Ceruloplasmin expression,EIF2S1;EIF4E;EIF4G1,31.75,1.0,0.75,synonym,1
+Translation_initiation,GraphRAG-Gene full,10,Ribosomal scanning and start codon recognition,EIF2S1;EIF4E;EIF4G1,31.75,1.0,0.75,synonym,0
+Translation_initiation,No direct-relation bonus,1,"Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S",EIF2S1;EIF4E;EIF4G1,31.0,1.0,0.0,synonym,0
+Translation_initiation,No direct-relation bonus,2,Antiviral mechanism by IFN-stimulated genes,EIF2S1;EIF4E;EIF4G1,31.0,1.0,0.0,synonym,0
+Translation_initiation,No direct-relation bonus,3,Cap-dependent Translation Initiation,EIF2S1;EIF4E;EIF4G1,31.0,1.0,0.0,synonym,1
+Translation_initiation,No direct-relation bonus,4,Cytokine Signaling in Immune system,EIF2S1;EIF4E;EIF4G1,31.0,1.0,0.0,synonym,0
+Translation_initiation,No direct-relation bonus,5,Eukaryotic Translation Initiation,EIF2S1;EIF4E;EIF4G1,31.0,1.0,0.0,synonym,1
+Translation_initiation,No direct-relation bonus,6,GTP hydrolysis and joining of the 60S ribosomal subunit,EIF2S1;EIF4E;EIF4G1,31.0,1.0,0.0,synonym,0
+Translation_initiation,No direct-relation bonus,7,Immune System,EIF2S1;EIF4E;EIF4G1,31.0,1.0,0.0,synonym,0
+Translation_initiation,No direct-relation bonus,8,Interferon Signaling,EIF2S1;EIF4E;EIF4G1,31.0,1.0,0.0,synonym,0
+Translation_initiation,No direct-relation bonus,9,L13a-mediated translational silencing of Ceruloplasmin expression,EIF2S1;EIF4E;EIF4G1,31.0,1.0,0.0,synonym,1
+Translation_initiation,No direct-relation bonus,10,Ribosomal scanning and start codon recognition,EIF2S1;EIF4E;EIF4G1,31.0,1.0,0.0,synonym,0
+Translation_initiation,No specificity weighting,1,"Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S",EIF2S1;EIF4E;EIF4G1,30.75,1.0,0.75,synonym,0
+Translation_initiation,No specificity weighting,2,Antiviral mechanism by IFN-stimulated genes,EIF2S1;EIF4E;EIF4G1,30.75,1.0,0.75,synonym,0
+Translation_initiation,No specificity weighting,3,Cap-dependent Translation Initiation,EIF2S1;EIF4E;EIF4G1,30.75,1.0,0.75,synonym,1
+Translation_initiation,No specificity weighting,4,Cytokine Signaling in Immune system,EIF2S1;EIF4E;EIF4G1,30.75,1.0,0.75,synonym,0
+Translation_initiation,No specificity weighting,5,Eukaryotic Translation Initiation,EIF2S1;EIF4E;EIF4G1,30.75,1.0,0.75,synonym,1
+Translation_initiation,No specificity weighting,6,GTP hydrolysis and joining of the 60S ribosomal subunit,EIF2S1;EIF4E;EIF4G1,30.75,1.0,0.75,synonym,0
+Translation_initiation,No specificity weighting,7,Immune System,EIF2S1;EIF4E;EIF4G1,30.75,1.0,0.75,synonym,0
+Translation_initiation,No specificity weighting,8,Interferon Signaling,EIF2S1;EIF4E;EIF4G1,30.75,1.0,0.75,synonym,0
+Translation_initiation,No specificity weighting,9,L13a-mediated translational silencing of Ceruloplasmin expression,EIF2S1;EIF4E;EIF4G1,30.75,1.0,0.75,synonym,1
+Translation_initiation,No specificity weighting,10,Metabolism of proteins,EIF2S1;EIF4E;EIF4G1,30.75,0.85,0.75,synonym,0
+Translation_initiation,Overlap count only,1,"Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S",EIF2S1;EIF4E;EIF4G1,3.0,1.0,0.0,synonym,0
+Translation_initiation,Overlap count only,2,Antiviral mechanism by IFN-stimulated genes,EIF2S1;EIF4E;EIF4G1,3.0,1.0,0.0,synonym,0
+Translation_initiation,Overlap count only,3,Cap-dependent Translation Initiation,EIF2S1;EIF4E;EIF4G1,3.0,1.0,0.0,synonym,1
+Translation_initiation,Overlap count only,4,Cytokine Signaling in Immune system,EIF2S1;EIF4E;EIF4G1,3.0,1.0,0.0,synonym,0
+Translation_initiation,Overlap count only,5,Eukaryotic Translation Initiation,EIF2S1;EIF4E;EIF4G1,3.0,1.0,0.0,synonym,1
+Translation_initiation,Overlap count only,6,GTP hydrolysis and joining of the 60S ribosomal subunit,EIF2S1;EIF4E;EIF4G1,3.0,1.0,0.0,synonym,0
+Translation_initiation,Overlap count only,7,Immune System,EIF2S1;EIF4E;EIF4G1,3.0,1.0,0.0,synonym,0
+Translation_initiation,Overlap count only,8,Interferon Signaling,EIF2S1;EIF4E;EIF4G1,3.0,1.0,0.0,synonym,0
+Translation_initiation,Overlap count only,9,L13a-mediated translational silencing of Ceruloplasmin expression,EIF2S1;EIF4E;EIF4G1,3.0,1.0,0.0,synonym,1
+Translation_initiation,Overlap count only,10,Metabolism of proteins,EIF2S1;EIF4E;EIF4G1,3.0,0.85,0.0,synonym,0
+Proteasome_degradation,GraphRAG-Gene full,1,ABC transporter disorders,PSMA1;PSMB5;PSMC1,31.75,1.0,0.75,synonym,0
+Proteasome_degradation,GraphRAG-Gene full,2,ABC-family proteins mediated transport,PSMA1;PSMB5;PSMC1,31.75,1.0,0.75,synonym,0
+Proteasome_degradation,GraphRAG-Gene full,3,Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,PSMA1;PSMB5;PSMC1,31.75,1.0,0.75,synonym,1
+Proteasome_degradation,GraphRAG-Gene full,4,Activation of NF-kappaB in B cells,PSMA1;PSMB5;PSMC1,31.75,1.0,0.75,synonym,0
+Proteasome_degradation,GraphRAG-Gene full,5,Adaptive Immune System,PSMA1;PSMB5;PSMC1,31.75,1.0,0.75,synonym,0
+Proteasome_degradation,GraphRAG-Gene full,6,Antigen processing-Cross presentation,PSMA1;PSMB5;PSMC1,31.75,1.0,0.75,synonym,0
+Proteasome_degradation,GraphRAG-Gene full,7,Antigen processing: Ubiquitination & Proteasome degradation,PSMA1;PSMB5;PSMC1,31.75,1.0,0.75,synonym,1
+Proteasome_degradation,GraphRAG-Gene full,8,APC/C-mediated degradation of cell cycle proteins,PSMA1;PSMB5;PSMC1,31.75,1.0,0.75,synonym,1
+Proteasome_degradation,GraphRAG-Gene full,9,APC/C:Cdc20 mediated degradation of mitotic proteins,PSMA1;PSMB5;PSMC1,31.75,1.0,0.75,synonym,1
+Proteasome_degradation,GraphRAG-Gene full,10,APC/C:Cdc20 mediated degradation of Securin,PSMA1;PSMB5;PSMC1,31.75,1.0,0.75,synonym,1
+Proteasome_degradation,No direct-relation bonus,1,ABC transporter disorders,PSMA1;PSMB5;PSMC1,31.0,1.0,0.0,synonym,0
+Proteasome_degradation,No direct-relation bonus,2,ABC-family proteins mediated transport,PSMA1;PSMB5;PSMC1,31.0,1.0,0.0,synonym,0
+Proteasome_degradation,No direct-relation bonus,3,Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,PSMA1;PSMB5;PSMC1,31.0,1.0,0.0,synonym,1
+Proteasome_degradation,No direct-relation bonus,4,Activation of NF-kappaB in B cells,PSMA1;PSMB5;PSMC1,31.0,1.0,0.0,synonym,0
+Proteasome_degradation,No direct-relation bonus,5,Adaptive Immune System,PSMA1;PSMB5;PSMC1,31.0,1.0,0.0,synonym,0
+Proteasome_degradation,No direct-relation bonus,6,Antigen processing-Cross presentation,PSMA1;PSMB5;PSMC1,31.0,1.0,0.0,synonym,0
+Proteasome_degradation,No direct-relation bonus,7,Antigen processing: Ubiquitination & Proteasome degradation,PSMA1;PSMB5;PSMC1,31.0,1.0,0.0,synonym,1
+Proteasome_degradation,No direct-relation bonus,8,APC/C-mediated degradation of cell cycle proteins,PSMA1;PSMB5;PSMC1,31.0,1.0,0.0,synonym,1
+Proteasome_degradation,No direct-relation bonus,9,APC/C:Cdc20 mediated degradation of mitotic proteins,PSMA1;PSMB5;PSMC1,31.0,1.0,0.0,synonym,1
+Proteasome_degradation,No direct-relation bonus,10,APC/C:Cdc20 mediated degradation of Securin,PSMA1;PSMB5;PSMC1,31.0,1.0,0.0,synonym,1
+Proteasome_degradation,No specificity weighting,1,ABC transporter disorders,PSMA1;PSMB5;PSMC1,30.75,1.0,0.75,synonym,0
+Proteasome_degradation,No specificity weighting,2,ABC-family proteins mediated transport,PSMA1;PSMB5;PSMC1,30.75,1.0,0.75,synonym,0
+Proteasome_degradation,No specificity weighting,3,Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,PSMA1;PSMB5;PSMC1,30.75,1.0,0.75,synonym,1
+Proteasome_degradation,No specificity weighting,4,Activation of NF-kappaB in B cells,PSMA1;PSMB5;PSMC1,30.75,1.0,0.75,synonym,0
+Proteasome_degradation,No specificity weighting,5,Adaptive Immune System,PSMA1;PSMB5;PSMC1,30.75,1.0,0.75,synonym,0
+Proteasome_degradation,No specificity weighting,6,Antigen processing-Cross presentation,PSMA1;PSMB5;PSMC1,30.75,1.0,0.75,synonym,0
+Proteasome_degradation,No specificity weighting,7,Antigen processing: Ubiquitination & Proteasome degradation,PSMA1;PSMB5;PSMC1,30.75,1.0,0.75,synonym,1
+Proteasome_degradation,No specificity weighting,8,APC/C-mediated degradation of cell cycle proteins,PSMA1;PSMB5;PSMC1,30.75,1.0,0.75,synonym,1
+Proteasome_degradation,No specificity weighting,9,APC/C:Cdc20 mediated degradation of mitotic proteins,PSMA1;PSMB5;PSMC1,30.75,1.0,0.75,synonym,1
+Proteasome_degradation,No specificity weighting,10,APC/C:Cdc20 mediated degradation of Securin,PSMA1;PSMB5;PSMC1,30.75,1.0,0.75,synonym,1
+Proteasome_degradation,Overlap count only,1,ABC transporter disorders,PSMA1;PSMB5;PSMC1,3.0,1.0,0.0,synonym,0
+Proteasome_degradation,Overlap count only,2,ABC-family proteins mediated transport,PSMA1;PSMB5;PSMC1,3.0,1.0,0.0,synonym,0
+Proteasome_degradation,Overlap count only,3,Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,PSMA1;PSMB5;PSMC1,3.0,1.0,0.0,synonym,1
+Proteasome_degradation,Overlap count only,4,Activation of NF-kappaB in B cells,PSMA1;PSMB5;PSMC1,3.0,1.0,0.0,synonym,0
+Proteasome_degradation,Overlap count only,5,Adaptive Immune System,PSMA1;PSMB5;PSMC1,3.0,1.0,0.0,synonym,0
+Proteasome_degradation,Overlap count only,6,Antigen processing-Cross presentation,PSMA1;PSMB5;PSMC1,3.0,1.0,0.0,synonym,0
+Proteasome_degradation,Overlap count only,7,Antigen processing: Ubiquitination & Proteasome degradation,PSMA1;PSMB5;PSMC1,3.0,1.0,0.0,synonym,1
+Proteasome_degradation,Overlap count only,8,APC/C-mediated degradation of cell cycle proteins,PSMA1;PSMB5;PSMC1,3.0,1.0,0.0,synonym,1
+Proteasome_degradation,Overlap count only,9,APC/C:Cdc20 mediated degradation of mitotic proteins,PSMA1;PSMB5;PSMC1,3.0,1.0,0.0,synonym,1
+Proteasome_degradation,Overlap count only,10,APC/C:Cdc20 mediated degradation of Securin,PSMA1;PSMB5;PSMC1,3.0,1.0,0.0,synonym,1
+DNA_replication,GraphRAG-Gene full,1,Cell Cycle,MCM2;MCM4;PCNA,31.5,1.0,0.5,synonym,1
+DNA_replication,GraphRAG-Gene full,2,"Cell Cycle, Mitotic",MCM2;MCM4;PCNA,31.5,1.0,0.5,synonym,1
+DNA_replication,GraphRAG-Gene full,3,DNA Replication,MCM2;MCM4;PCNA,31.5,1.0,0.5,synonym,1
+DNA_replication,GraphRAG-Gene full,4,DNA strand elongation,MCM2;MCM4;PCNA,31.5,1.0,0.5,synonym,0
+DNA_replication,GraphRAG-Gene full,5,G1/S Transition,MCM2;MCM4;PCNA,31.5,1.0,0.5,synonym,0
+DNA_replication,GraphRAG-Gene full,6,Mitotic G1 phase and G1/S transition,MCM2;MCM4;PCNA,31.5,1.0,0.5,synonym,0
+DNA_replication,GraphRAG-Gene full,7,S Phase,MCM2;MCM4;PCNA,31.5,1.0,0.5,synonym,0
+DNA_replication,GraphRAG-Gene full,8,Synthesis of DNA,MCM2;MCM4;PCNA,31.5,1.0,0.5,synonym,1
+DNA_replication,GraphRAG-Gene full,9,Activation of ATR in response to replication stress,MCM2;MCM4,21.25,1.0,0.25,synonym,0
+DNA_replication,GraphRAG-Gene full,10,Activation of the pre-replicative complex,MCM2;MCM4,21.25,1.0,0.25,synonym,0
+DNA_replication,No direct-relation bonus,1,Cell Cycle,MCM2;MCM4;PCNA,31.0,1.0,0.0,synonym,1
+DNA_replication,No direct-relation bonus,2,"Cell Cycle, Mitotic",MCM2;MCM4;PCNA,31.0,1.0,0.0,synonym,1
+DNA_replication,No direct-relation bonus,3,DNA Replication,MCM2;MCM4;PCNA,31.0,1.0,0.0,synonym,1
+DNA_replication,No direct-relation bonus,4,DNA strand elongation,MCM2;MCM4;PCNA,31.0,1.0,0.0,synonym,0
+DNA_replication,No direct-relation bonus,5,G1/S Transition,MCM2;MCM4;PCNA,31.0,1.0,0.0,synonym,0
+DNA_replication,No direct-relation bonus,6,Mitotic G1 phase and G1/S transition,MCM2;MCM4;PCNA,31.0,1.0,0.0,synonym,0
+DNA_replication,No direct-relation bonus,7,S Phase,MCM2;MCM4;PCNA,31.0,1.0,0.0,synonym,0
+DNA_replication,No direct-relation bonus,8,Synthesis of DNA,MCM2;MCM4;PCNA,31.0,1.0,0.0,synonym,1
+DNA_replication,No direct-relation bonus,9,Activation of ATR in response to replication stress,MCM2;MCM4,21.0,1.0,0.0,synonym,0
+DNA_replication,No direct-relation bonus,10,Activation of the pre-replicative complex,MCM2;MCM4,21.0,1.0,0.0,synonym,0
+DNA_replication,No specificity weighting,1,Cell Cycle,MCM2;MCM4;PCNA,30.5,1.0,0.5,synonym,1
+DNA_replication,No specificity weighting,2,"Cell Cycle, Mitotic",MCM2;MCM4;PCNA,30.5,1.0,0.5,synonym,1
+DNA_replication,No specificity weighting,3,DNA Replication,MCM2;MCM4;PCNA,30.5,1.0,0.5,synonym,1
+DNA_replication,No specificity weighting,4,DNA strand elongation,MCM2;MCM4;PCNA,30.5,1.0,0.5,synonym,0
+DNA_replication,No specificity weighting,5,G1/S Transition,MCM2;MCM4;PCNA,30.5,1.0,0.5,synonym,0
+DNA_replication,No specificity weighting,6,Mitotic G1 phase and G1/S transition,MCM2;MCM4;PCNA,30.5,1.0,0.5,synonym,0
+DNA_replication,No specificity weighting,7,S Phase,MCM2;MCM4;PCNA,30.5,1.0,0.5,synonym,0
+DNA_replication,No specificity weighting,8,Synthesis of DNA,MCM2;MCM4;PCNA,30.5,1.0,0.5,synonym,1
+DNA_replication,No specificity weighting,9,Activation of ATR in response to replication stress,MCM2;MCM4,20.25,1.0,0.25,synonym,0
+DNA_replication,No specificity weighting,10,Activation of the pre-replicative complex,MCM2;MCM4,20.25,1.0,0.25,synonym,0
+DNA_replication,Overlap count only,1,Cell Cycle,MCM2;MCM4;PCNA,3.0,1.0,0.0,synonym,1
+DNA_replication,Overlap count only,2,"Cell Cycle, Mitotic",MCM2;MCM4;PCNA,3.0,1.0,0.0,synonym,1
+DNA_replication,Overlap count only,3,DNA Replication,MCM2;MCM4;PCNA,3.0,1.0,0.0,synonym,1
+DNA_replication,Overlap count only,4,DNA strand elongation,MCM2;MCM4;PCNA,3.0,1.0,0.0,synonym,0
+DNA_replication,Overlap count only,5,G1/S Transition,MCM2;MCM4;PCNA,3.0,1.0,0.0,synonym,0
+DNA_replication,Overlap count only,6,Mitotic G1 phase and G1/S transition,MCM2;MCM4;PCNA,3.0,1.0,0.0,synonym,0
+DNA_replication,Overlap count only,7,S Phase,MCM2;MCM4;PCNA,3.0,1.0,0.0,synonym,0
+DNA_replication,Overlap count only,8,Synthesis of DNA,MCM2;MCM4;PCNA,3.0,1.0,0.0,synonym,1
+DNA_replication,Overlap count only,9,Activation of ATR in response to replication stress,MCM2;MCM4,2.0,1.0,0.0,synonym,0
+DNA_replication,Overlap count only,10,Activation of the pre-replicative complex,MCM2;MCM4,2.0,1.0,0.0,synonym,0
+Mismatch_repair,GraphRAG-Gene full,1,DNA Repair,MLH1;MSH2;MSH6,31.75,1.0,0.75,synonym,1
+Mismatch_repair,GraphRAG-Gene full,2,Mismatch Repair,MLH1;MSH2;MSH6,31.75,1.0,0.75,synonym,1
+Mismatch_repair,GraphRAG-Gene full,3,Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha),MLH1;MSH2;MSH6,31.75,1.0,0.75,synonym,1
+Mismatch_repair,GraphRAG-Gene full,4,Disease,MLH1;MSH2;MSH6,31.6,0.85,0.75,synonym,0
+Mismatch_repair,GraphRAG-Gene full,5,Diseases of DNA repair,MLH1;MSH2;MSH6,31.45,0.7,0.75,synonym,1
+Mismatch_repair,GraphRAG-Gene full,6,Diseases of Mismatch Repair (MMR),MLH1;MSH2;MSH6,31.45,0.7,0.75,synonym,1
+Mismatch_repair,GraphRAG-Gene full,7,Defective Mismatch Repair Associated With MSH2,MSH2;MSH6,21.25,1.0,0.25,synonym,1
+Mismatch_repair,GraphRAG-Gene full,8,Defective Mismatch Repair Associated With MSH6,MSH2;MSH6,21.25,1.0,0.25,synonym,1
+Mismatch_repair,GraphRAG-Gene full,9,Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta),MLH1;MSH2,21.25,1.0,0.25,synonym,1
+Mismatch_repair,GraphRAG-Gene full,10,Generic Transcription Pathway,MLH1;MSH2,21.1,0.85,0.25,synonym,0
+Mismatch_repair,No direct-relation bonus,1,DNA Repair,MLH1;MSH2;MSH6,31.0,1.0,0.0,synonym,1
+Mismatch_repair,No direct-relation bonus,2,Mismatch Repair,MLH1;MSH2;MSH6,31.0,1.0,0.0,synonym,1
+Mismatch_repair,No direct-relation bonus,3,Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha),MLH1;MSH2;MSH6,31.0,1.0,0.0,synonym,1
+Mismatch_repair,No direct-relation bonus,4,Disease,MLH1;MSH2;MSH6,30.85,0.85,0.0,synonym,0
+Mismatch_repair,No direct-relation bonus,5,Diseases of DNA repair,MLH1;MSH2;MSH6,30.7,0.7,0.0,synonym,1
+Mismatch_repair,No direct-relation bonus,6,Diseases of Mismatch Repair (MMR),MLH1;MSH2;MSH6,30.7,0.7,0.0,synonym,1
+Mismatch_repair,No direct-relation bonus,7,Defective Mismatch Repair Associated With MSH2,MSH2;MSH6,21.0,1.0,0.0,synonym,1
+Mismatch_repair,No direct-relation bonus,8,Defective Mismatch Repair Associated With MSH6,MSH2;MSH6,21.0,1.0,0.0,synonym,1
+Mismatch_repair,No direct-relation bonus,9,Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta),MLH1;MSH2,21.0,1.0,0.0,synonym,1
+Mismatch_repair,No direct-relation bonus,10,Generic Transcription Pathway,MLH1;MSH2,20.85,0.85,0.0,synonym,0
+Mismatch_repair,No specificity weighting,1,Disease,MLH1;MSH2;MSH6,30.75,0.85,0.75,synonym,0
+Mismatch_repair,No specificity weighting,2,Diseases of DNA repair,MLH1;MSH2;MSH6,30.75,0.7,0.75,synonym,1
+Mismatch_repair,No specificity weighting,3,Diseases of Mismatch Repair (MMR),MLH1;MSH2;MSH6,30.75,0.7,0.75,synonym,1
+Mismatch_repair,No specificity weighting,4,DNA Repair,MLH1;MSH2;MSH6,30.75,1.0,0.75,synonym,1
+Mismatch_repair,No specificity weighting,5,Mismatch Repair,MLH1;MSH2;MSH6,30.75,1.0,0.75,synonym,1
+Mismatch_repair,No specificity weighting,6,Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha),MLH1;MSH2;MSH6,30.75,1.0,0.75,synonym,1
+Mismatch_repair,No specificity weighting,7,Defective Mismatch Repair Associated With MSH2,MSH2;MSH6,20.25,1.0,0.25,synonym,1
+Mismatch_repair,No specificity weighting,8,Defective Mismatch Repair Associated With MSH6,MSH2;MSH6,20.25,1.0,0.25,synonym,1
+Mismatch_repair,No specificity weighting,9,Gene expression (Transcription),MLH1;MSH2,20.25,0.7,0.25,synonym,0
+Mismatch_repair,No specificity weighting,10,Generic Transcription Pathway,MLH1;MSH2,20.25,0.85,0.25,synonym,0
+Mismatch_repair,Overlap count only,1,Disease,MLH1;MSH2;MSH6,3.0,0.85,0.0,synonym,0
+Mismatch_repair,Overlap count only,2,Diseases of DNA repair,MLH1;MSH2;MSH6,3.0,0.7,0.0,synonym,1
+Mismatch_repair,Overlap count only,3,Diseases of Mismatch Repair (MMR),MLH1;MSH2;MSH6,3.0,0.7,0.0,synonym,1
+Mismatch_repair,Overlap count only,4,DNA Repair,MLH1;MSH2;MSH6,3.0,1.0,0.0,synonym,1
+Mismatch_repair,Overlap count only,5,Mismatch Repair,MLH1;MSH2;MSH6,3.0,1.0,0.0,synonym,1
+Mismatch_repair,Overlap count only,6,Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha),MLH1;MSH2;MSH6,3.0,1.0,0.0,synonym,1
+Mismatch_repair,Overlap count only,7,Defective Mismatch Repair Associated With MSH2,MSH2;MSH6,2.0,1.0,0.0,synonym,1
+Mismatch_repair,Overlap count only,8,Defective Mismatch Repair Associated With MSH6,MSH2;MSH6,2.0,1.0,0.0,synonym,1
+Mismatch_repair,Overlap count only,9,Gene expression (Transcription),MLH1;MSH2,2.0,0.7,0.0,synonym,0
+Mismatch_repair,Overlap count only,10,Generic Transcription Pathway,MLH1;MSH2,2.0,0.85,0.0,synonym,0
+Base_excision_repair,GraphRAG-Gene full,1,APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway,OGG1;XRCC1,21.25,1.0,0.25,synonym,0
+Base_excision_repair,GraphRAG-Gene full,2,Base Excision Repair,OGG1;XRCC1,21.25,1.0,0.25,synonym,1
+Base_excision_repair,GraphRAG-Gene full,3,DNA Repair,OGG1;XRCC1,21.25,1.0,0.25,synonym,1
+Base_excision_repair,GraphRAG-Gene full,4,Resolution of Abasic Sites (AP sites),OGG1;XRCC1,21.25,1.0,0.25,synonym,0
+Base_excision_repair,GraphRAG-Gene full,5,"Base-Excision Repair, AP Site Formation",OGG1,11.0,1.0,0.0,synonym,1
+Base_excision_repair,GraphRAG-Gene full,6,Cleavage of the damaged purine,OGG1,11.0,1.0,0.0,synonym,0
+Base_excision_repair,GraphRAG-Gene full,7,Cleavage of the damaged pyrimidine,OGG1,11.0,1.0,0.0,synonym,0
+Base_excision_repair,GraphRAG-Gene full,8,Defective Base Excision Repair Associated with OGG1,OGG1,11.0,1.0,0.0,synonym,1
+Base_excision_repair,GraphRAG-Gene full,9,Defective OGG1 Localization,OGG1,11.0,1.0,0.0,synonym,0
+Base_excision_repair,GraphRAG-Gene full,10,Defective OGG1 Substrate Binding,OGG1,11.0,1.0,0.0,synonym,0
+Base_excision_repair,No direct-relation bonus,1,APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway,OGG1;XRCC1,21.0,1.0,0.0,synonym,0
+Base_excision_repair,No direct-relation bonus,2,Base Excision Repair,OGG1;XRCC1,21.0,1.0,0.0,synonym,1
+Base_excision_repair,No direct-relation bonus,3,DNA Repair,OGG1;XRCC1,21.0,1.0,0.0,synonym,1
+Base_excision_repair,No direct-relation bonus,4,Resolution of Abasic Sites (AP sites),OGG1;XRCC1,21.0,1.0,0.0,synonym,0
+Base_excision_repair,No direct-relation bonus,5,"Base-Excision Repair, AP Site Formation",OGG1,11.0,1.0,0.0,synonym,1
+Base_excision_repair,No direct-relation bonus,6,Cleavage of the damaged purine,OGG1,11.0,1.0,0.0,synonym,0
+Base_excision_repair,No direct-relation bonus,7,Cleavage of the damaged pyrimidine,OGG1,11.0,1.0,0.0,synonym,0
+Base_excision_repair,No direct-relation bonus,8,Defective Base Excision Repair Associated with OGG1,OGG1,11.0,1.0,0.0,synonym,1
+Base_excision_repair,No direct-relation bonus,9,Defective OGG1 Localization,OGG1,11.0,1.0,0.0,synonym,0
+Base_excision_repair,No direct-relation bonus,10,Defective OGG1 Substrate Binding,OGG1,11.0,1.0,0.0,synonym,0
+Base_excision_repair,No specificity weighting,1,APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway,OGG1;XRCC1,20.25,1.0,0.25,synonym,0
+Base_excision_repair,No specificity weighting,2,Base Excision Repair,OGG1;XRCC1,20.25,1.0,0.25,synonym,1
+Base_excision_repair,No specificity weighting,3,DNA Repair,OGG1;XRCC1,20.25,1.0,0.25,synonym,1
+Base_excision_repair,No specificity weighting,4,Resolution of Abasic Sites (AP sites),OGG1;XRCC1,20.25,1.0,0.25,synonym,0
+Base_excision_repair,No specificity weighting,5,"Base-Excision Repair, AP Site Formation",OGG1,10.0,1.0,0.0,synonym,1
+Base_excision_repair,No specificity weighting,6,Cleavage of the damaged purine,OGG1,10.0,1.0,0.0,synonym,0
+Base_excision_repair,No specificity weighting,7,Cleavage of the damaged pyrimidine,OGG1,10.0,1.0,0.0,synonym,0
+Base_excision_repair,No specificity weighting,8,Defective Base Excision Repair Associated with OGG1,OGG1,10.0,1.0,0.0,synonym,1
+Base_excision_repair,No specificity weighting,9,Defective OGG1 Localization,OGG1,10.0,1.0,0.0,synonym,0
+Base_excision_repair,No specificity weighting,10,Defective OGG1 Substrate Binding,OGG1,10.0,1.0,0.0,synonym,0
+Base_excision_repair,Overlap count only,1,APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway,OGG1;XRCC1,2.0,1.0,0.0,synonym,0
+Base_excision_repair,Overlap count only,2,Base Excision Repair,OGG1;XRCC1,2.0,1.0,0.0,synonym,1
+Base_excision_repair,Overlap count only,3,DNA Repair,OGG1;XRCC1,2.0,1.0,0.0,synonym,1
+Base_excision_repair,Overlap count only,4,Resolution of Abasic Sites (AP sites),OGG1;XRCC1,2.0,1.0,0.0,synonym,0
+Base_excision_repair,Overlap count only,5,"Base-Excision Repair, AP Site Formation",OGG1,1.0,1.0,0.0,synonym,1
+Base_excision_repair,Overlap count only,6,Cleavage of the damaged purine,OGG1,1.0,1.0,0.0,synonym,0
+Base_excision_repair,Overlap count only,7,Cleavage of the damaged pyrimidine,OGG1,1.0,1.0,0.0,synonym,0
+Base_excision_repair,Overlap count only,8,Defective Base Excision Repair Associated with OGG1,OGG1,1.0,1.0,0.0,synonym,1
+Base_excision_repair,Overlap count only,9,Defective OGG1 Localization,OGG1,1.0,1.0,0.0,synonym,0
+Base_excision_repair,Overlap count only,10,Defective OGG1 Substrate Binding,OGG1,1.0,1.0,0.0,synonym,0
+Nucleotide_excision_repair,GraphRAG-Gene full,1,DNA Repair,ERCC2;ERCC3;XPA,31.75,1.0,0.75,synonym,1
+Nucleotide_excision_repair,GraphRAG-Gene full,2,Dual Incision in GG-NER,ERCC2;ERCC3;XPA,31.75,1.0,0.75,synonym,1
+Nucleotide_excision_repair,GraphRAG-Gene full,3,Dual incision in TC-NER,ERCC2;ERCC3;XPA,31.75,1.0,0.75,synonym,1
+Nucleotide_excision_repair,GraphRAG-Gene full,4,Formation of Incision Complex in GG-NER,ERCC2;ERCC3;XPA,31.75,1.0,0.75,synonym,1
+Nucleotide_excision_repair,GraphRAG-Gene full,5,Formation of TC-NER Pre-Incision Complex,ERCC2;ERCC3;XPA,31.75,1.0,0.75,synonym,1
+Nucleotide_excision_repair,GraphRAG-Gene full,6,Global Genome Nucleotide Excision Repair (GG-NER),ERCC2;ERCC3;XPA,31.75,1.0,0.75,synonym,1
+Nucleotide_excision_repair,GraphRAG-Gene full,7,Nucleotide Excision Repair,ERCC2;ERCC3;XPA,31.75,1.0,0.75,synonym,1
+Nucleotide_excision_repair,GraphRAG-Gene full,8,Transcription-Coupled Nucleotide Excision Repair (TC-NER),ERCC2;ERCC3;XPA,31.6,0.85,0.75,synonym,1
+Nucleotide_excision_repair,GraphRAG-Gene full,9,Formation of HIV elongation complex in the absence of HIV Tat,ERCC2;ERCC3,21.25,1.0,0.25,synonym,0
+Nucleotide_excision_repair,GraphRAG-Gene full,10,Formation of HIV-1 elongation complex containing HIV-1 Tat,ERCC2;ERCC3,21.25,1.0,0.25,synonym,0
+Nucleotide_excision_repair,No direct-relation bonus,1,DNA Repair,ERCC2;ERCC3;XPA,31.0,1.0,0.0,synonym,1
+Nucleotide_excision_repair,No direct-relation bonus,2,Dual Incision in GG-NER,ERCC2;ERCC3;XPA,31.0,1.0,0.0,synonym,1
+Nucleotide_excision_repair,No direct-relation bonus,3,Dual incision in TC-NER,ERCC2;ERCC3;XPA,31.0,1.0,0.0,synonym,1
+Nucleotide_excision_repair,No direct-relation bonus,4,Formation of Incision Complex in GG-NER,ERCC2;ERCC3;XPA,31.0,1.0,0.0,synonym,1
+Nucleotide_excision_repair,No direct-relation bonus,5,Formation of TC-NER Pre-Incision Complex,ERCC2;ERCC3;XPA,31.0,1.0,0.0,synonym,1
+Nucleotide_excision_repair,No direct-relation bonus,6,Global Genome Nucleotide Excision Repair (GG-NER),ERCC2;ERCC3;XPA,31.0,1.0,0.0,synonym,1
+Nucleotide_excision_repair,No direct-relation bonus,7,Nucleotide Excision Repair,ERCC2;ERCC3;XPA,31.0,1.0,0.0,synonym,1
+Nucleotide_excision_repair,No direct-relation bonus,8,Transcription-Coupled Nucleotide Excision Repair (TC-NER),ERCC2;ERCC3;XPA,30.85,0.85,0.0,synonym,1
+Nucleotide_excision_repair,No direct-relation bonus,9,Formation of HIV elongation complex in the absence of HIV Tat,ERCC2;ERCC3,21.0,1.0,0.0,synonym,0
+Nucleotide_excision_repair,No direct-relation bonus,10,Formation of HIV-1 elongation complex containing HIV-1 Tat,ERCC2;ERCC3,21.0,1.0,0.0,synonym,0
+Nucleotide_excision_repair,No specificity weighting,1,DNA Repair,ERCC2;ERCC3;XPA,30.75,1.0,0.75,synonym,1
+Nucleotide_excision_repair,No specificity weighting,2,Dual Incision in GG-NER,ERCC2;ERCC3;XPA,30.75,1.0,0.75,synonym,1
+Nucleotide_excision_repair,No specificity weighting,3,Dual incision in TC-NER,ERCC2;ERCC3;XPA,30.75,1.0,0.75,synonym,1
+Nucleotide_excision_repair,No specificity weighting,4,Formation of Incision Complex in GG-NER,ERCC2;ERCC3;XPA,30.75,1.0,0.75,synonym,1
+Nucleotide_excision_repair,No specificity weighting,5,Formation of TC-NER Pre-Incision Complex,ERCC2;ERCC3;XPA,30.75,1.0,0.75,synonym,1
+Nucleotide_excision_repair,No specificity weighting,6,Global Genome Nucleotide Excision Repair (GG-NER),ERCC2;ERCC3;XPA,30.75,1.0,0.75,synonym,1
+Nucleotide_excision_repair,No specificity weighting,7,Nucleotide Excision Repair,ERCC2;ERCC3;XPA,30.75,1.0,0.75,synonym,1
+Nucleotide_excision_repair,No specificity weighting,8,Transcription-Coupled Nucleotide Excision Repair (TC-NER),ERCC2;ERCC3;XPA,30.75,0.85,0.75,synonym,1
+Nucleotide_excision_repair,No specificity weighting,9,Disease,ERCC2;ERCC3,20.25,0.85,0.25,synonym,0
+Nucleotide_excision_repair,No specificity weighting,10,Epigenetic regulation of gene expression,ERCC2;ERCC3,20.25,0.85,0.25,synonym,0
+Nucleotide_excision_repair,Overlap count only,1,DNA Repair,ERCC2;ERCC3;XPA,3.0,1.0,0.0,synonym,1
+Nucleotide_excision_repair,Overlap count only,2,Dual Incision in GG-NER,ERCC2;ERCC3;XPA,3.0,1.0,0.0,synonym,1
+Nucleotide_excision_repair,Overlap count only,3,Dual incision in TC-NER,ERCC2;ERCC3;XPA,3.0,1.0,0.0,synonym,1
+Nucleotide_excision_repair,Overlap count only,4,Formation of Incision Complex in GG-NER,ERCC2;ERCC3;XPA,3.0,1.0,0.0,synonym,1
+Nucleotide_excision_repair,Overlap count only,5,Formation of TC-NER Pre-Incision Complex,ERCC2;ERCC3;XPA,3.0,1.0,0.0,synonym,1
+Nucleotide_excision_repair,Overlap count only,6,Global Genome Nucleotide Excision Repair (GG-NER),ERCC2;ERCC3;XPA,3.0,1.0,0.0,synonym,1
+Nucleotide_excision_repair,Overlap count only,7,Nucleotide Excision Repair,ERCC2;ERCC3;XPA,3.0,1.0,0.0,synonym,1
+Nucleotide_excision_repair,Overlap count only,8,Transcription-Coupled Nucleotide Excision Repair (TC-NER),ERCC2;ERCC3;XPA,3.0,0.85,0.0,synonym,1
+Nucleotide_excision_repair,Overlap count only,9,Disease,ERCC2;ERCC3,2.0,0.85,0.0,synonym,0
+Nucleotide_excision_repair,Overlap count only,10,Epigenetic regulation of gene expression,ERCC2;ERCC3,2.0,0.85,0.0,synonym,0
+Telomere_maintenance,GraphRAG-Gene full,1,Cell Cycle,TERF1;TERF2;TERT,31.75,1.0,0.75,synonym,0
+Telomere_maintenance,GraphRAG-Gene full,2,Chromosome Maintenance,TERF1;TERF2;TERT,31.75,1.0,0.75,synonym,0
+Telomere_maintenance,GraphRAG-Gene full,3,Extension of Telomeres,TERF1;TERF2;TERT,31.75,1.0,0.75,synonym,1
+Telomere_maintenance,GraphRAG-Gene full,4,Telomere Extension By Telomerase,TERF1;TERF2;TERT,31.75,1.0,0.75,synonym,1
+Telomere_maintenance,GraphRAG-Gene full,5,Telomere Maintenance,TERF1;TERF2;TERT,31.75,1.0,0.75,synonym,1
+Telomere_maintenance,GraphRAG-Gene full,6,Base Excision Repair,TERF1;TERF2,21.25,1.0,0.25,synonym,0
+Telomere_maintenance,GraphRAG-Gene full,7,"Base-Excision Repair, AP Site Formation",TERF1;TERF2,21.25,1.0,0.25,synonym,0
+Telomere_maintenance,GraphRAG-Gene full,8,Cellular Senescence,TERF1;TERF2,21.25,1.0,0.25,synonym,0
+Telomere_maintenance,GraphRAG-Gene full,9,Cleavage of the damaged purine,TERF1;TERF2,21.25,1.0,0.25,synonym,0
+Telomere_maintenance,GraphRAG-Gene full,10,Cleavage of the damaged pyrimidine,TERF1;TERF2,21.25,1.0,0.25,synonym,0
+Telomere_maintenance,No direct-relation bonus,1,Cell Cycle,TERF1;TERF2;TERT,31.0,1.0,0.0,synonym,0
+Telomere_maintenance,No direct-relation bonus,2,Chromosome Maintenance,TERF1;TERF2;TERT,31.0,1.0,0.0,synonym,0
+Telomere_maintenance,No direct-relation bonus,3,Extension of Telomeres,TERF1;TERF2;TERT,31.0,1.0,0.0,synonym,1
+Telomere_maintenance,No direct-relation bonus,4,Telomere Extension By Telomerase,TERF1;TERF2;TERT,31.0,1.0,0.0,synonym,1
+Telomere_maintenance,No direct-relation bonus,5,Telomere Maintenance,TERF1;TERF2;TERT,31.0,1.0,0.0,synonym,1
+Telomere_maintenance,No direct-relation bonus,6,Base Excision Repair,TERF1;TERF2,21.0,1.0,0.0,synonym,0
+Telomere_maintenance,No direct-relation bonus,7,"Base-Excision Repair, AP Site Formation",TERF1;TERF2,21.0,1.0,0.0,synonym,0
+Telomere_maintenance,No direct-relation bonus,8,Cellular Senescence,TERF1;TERF2,21.0,1.0,0.0,synonym,0
+Telomere_maintenance,No direct-relation bonus,9,Cleavage of the damaged purine,TERF1;TERF2,21.0,1.0,0.0,synonym,0
+Telomere_maintenance,No direct-relation bonus,10,Cleavage of the damaged pyrimidine,TERF1;TERF2,21.0,1.0,0.0,synonym,0
+Telomere_maintenance,No specificity weighting,1,Cell Cycle,TERF1;TERF2;TERT,30.75,1.0,0.75,synonym,0
+Telomere_maintenance,No specificity weighting,2,Chromosome Maintenance,TERF1;TERF2;TERT,30.75,1.0,0.75,synonym,0
+Telomere_maintenance,No specificity weighting,3,Extension of Telomeres,TERF1;TERF2;TERT,30.75,1.0,0.75,synonym,1
+Telomere_maintenance,No specificity weighting,4,Telomere Extension By Telomerase,TERF1;TERF2;TERT,30.75,1.0,0.75,synonym,1
+Telomere_maintenance,No specificity weighting,5,Telomere Maintenance,TERF1;TERF2;TERT,30.75,1.0,0.75,synonym,1
+Telomere_maintenance,No specificity weighting,6,Base Excision Repair,TERF1;TERF2,20.25,1.0,0.25,synonym,0
+Telomere_maintenance,No specificity weighting,7,"Base-Excision Repair, AP Site Formation",TERF1;TERF2,20.25,1.0,0.25,synonym,0
+Telomere_maintenance,No specificity weighting,8,Cellular responses to stimuli,TERF1;TERF2,20.25,0.7,0.25,synonym,0
+Telomere_maintenance,No specificity weighting,9,Cellular responses to stress,TERF1;TERF2,20.25,0.7,0.25,synonym,0
+Telomere_maintenance,No specificity weighting,10,Cellular Senescence,TERF1;TERF2,20.25,1.0,0.25,synonym,0
+Telomere_maintenance,Overlap count only,1,Cell Cycle,TERF1;TERF2;TERT,3.0,1.0,0.0,synonym,0
+Telomere_maintenance,Overlap count only,2,Chromosome Maintenance,TERF1;TERF2;TERT,3.0,1.0,0.0,synonym,0
+Telomere_maintenance,Overlap count only,3,Extension of Telomeres,TERF1;TERF2;TERT,3.0,1.0,0.0,synonym,1
+Telomere_maintenance,Overlap count only,4,Telomere Extension By Telomerase,TERF1;TERF2;TERT,3.0,1.0,0.0,synonym,1
+Telomere_maintenance,Overlap count only,5,Telomere Maintenance,TERF1;TERF2;TERT,3.0,1.0,0.0,synonym,1
+Telomere_maintenance,Overlap count only,6,Base Excision Repair,TERF1;TERF2,2.0,1.0,0.0,synonym,0
+Telomere_maintenance,Overlap count only,7,"Base-Excision Repair, AP Site Formation",TERF1;TERF2,2.0,1.0,0.0,synonym,0
+Telomere_maintenance,Overlap count only,8,Cellular responses to stimuli,TERF1;TERF2,2.0,0.7,0.0,synonym,0
+Telomere_maintenance,Overlap count only,9,Cellular responses to stress,TERF1;TERF2,2.0,0.7,0.0,synonym,0
+Telomere_maintenance,Overlap count only,10,Cellular Senescence,TERF1;TERF2,2.0,1.0,0.0,synonym,0

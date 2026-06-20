@@ -1,0 +1,13 @@
+case_id,genes,expected_keywords
+HRR_repair,BRCA2;PALB2;CHEK2,DNA Repair;DNA Double-Strand Break Repair;Homologous Recombination;HRR;Homology Directed Repair
+Mitochondrial_respiration,NDUFS4;SDHA;SURF1,Respiratory electron transport;Aerobic respiration;ATP synthesis;Complex I;Citric acid cycle
+DNA_damage_checkpoint,ATM;ATR;CHEK1,DNA damage checkpoint;Cell Cycle Checkpoints;G1/S DNA Damage Checkpoints;G2/M DNA damage checkpoint
+Apoptosis,CASP3;CASP8;BAX,Apoptosis;Programmed Cell Death;Caspase
+WNT_signaling,APC;CTNNB1;AXIN1,WNT;Beta-catenin;TCF
+MAPK_signaling,KRAS;BRAF;MAPK1,MAPK;RAF;ERK;RAS
+PI3K_AKT,PIK3CA;AKT1;PTEN,PI3K;AKT;PTEN;Phosphatidylinositol
+TGF_beta,SMAD2;SMAD3;TGFB1,TGF;SMAD;Transforming growth factor
+NOTCH_signaling,NOTCH1;DLL4;JAG1,NOTCH;Delta;Jagged
+TP53_pathway,TP53;MDM2;CDKN1A,TP53;p53;Cell Cycle Checkpoints;DNA Damage
+EGFR_signaling,EGFR;ERBB2;GRB2,EGFR;ERBB;Signaling by Receptor Tyrosine Kinases;GRB2
+Interferon_signaling,IFNA1;IFNB1;STAT1,Interferon;JAK-STAT;STAT1;Cytokine Signaling

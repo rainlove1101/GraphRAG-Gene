@@ -1,0 +1,1066 @@
+﻿case_id,method,rank,pathway,matched_genes,score,specificity,match_mode,is_expected_hit
+HRR_repair,Gene-only retrieval,1,DNA Double-Strand Break Repair,BRCA2;CHEK2;PALB2,3.0,1.0,strict,1
+HRR_repair,Gene-only retrieval,2,DNA Repair,BRCA2;CHEK2;PALB2,3.0,1.0,strict,1
+HRR_repair,Gene-only retrieval,3,Cell Cycle,BRCA2;CHEK2,2.0,1.0,strict,0
+HRR_repair,Gene-only retrieval,4,Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA1 binding function,BRCA2;PALB2,2.0,1.0,strict,1
+HRR_repair,Gene-only retrieval,5,Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function,BRCA2;PALB2,2.0,1.0,strict,1
+HRR_repair,Gene-only retrieval,6,Defective homologous recombination repair (HRR) due to BRCA1 loss of function,BRCA2;PALB2,2.0,1.0,strict,1
+HRR_repair,Gene-only retrieval,7,Defective homologous recombination repair (HRR) due to BRCA2 loss of function,BRCA2;PALB2,2.0,1.0,strict,1
+HRR_repair,Gene-only retrieval,8,Defective homologous recombination repair (HRR) due to PALB2 loss of function,BRCA2;PALB2,2.0,1.0,strict,1
+HRR_repair,Gene-only retrieval,9,Cell Cycle Checkpoints,CHEK2,1.0,1.0,strict,0
+HRR_repair,Gene-only retrieval,10,Cellular response to chemical stress,PALB2,1.0,0.85,strict,0
+HRR_repair,Pathway-only retrieval,1,DNA Double-Strand Break Repair,BRCA2;CHEK2;PALB2,3.0,1.0,strict,1
+HRR_repair,Pathway-only retrieval,2,DNA Repair,BRCA2;CHEK2;PALB2,3.0,1.0,strict,1
+HRR_repair,Pathway-only retrieval,3,Cell Cycle,BRCA2;CHEK2,2.0,1.0,strict,0
+HRR_repair,Pathway-only retrieval,4,Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA1 binding function,BRCA2;PALB2,2.0,1.0,strict,1
+HRR_repair,Pathway-only retrieval,5,Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function,BRCA2;PALB2,2.0,1.0,strict,1
+HRR_repair,Pathway-only retrieval,6,Defective homologous recombination repair (HRR) due to BRCA1 loss of function,BRCA2;PALB2,2.0,1.0,strict,1
+HRR_repair,Pathway-only retrieval,7,Defective homologous recombination repair (HRR) due to BRCA2 loss of function,BRCA2;PALB2,2.0,1.0,strict,1
+HRR_repair,Pathway-only retrieval,8,Defective homologous recombination repair (HRR) due to PALB2 loss of function,BRCA2;PALB2,2.0,1.0,strict,1
+HRR_repair,Pathway-only retrieval,9,Disease,BRCA2;PALB2,2.0,0.85,strict,0
+HRR_repair,Pathway-only retrieval,10,Diseases of DNA Double-Strand Break Repair,BRCA2;PALB2,2.0,0.7,strict,1
+HRR_repair,GraphRAG-Gene,1,DNA Double-Strand Break Repair,BRCA2;CHEK2;PALB2,31.25,1.0,strict,1
+HRR_repair,GraphRAG-Gene,2,DNA Repair,BRCA2;CHEK2;PALB2,31.25,1.0,strict,1
+HRR_repair,GraphRAG-Gene,3,Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA1 binding function,BRCA2;PALB2,21.25,1.0,strict,1
+HRR_repair,GraphRAG-Gene,4,Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function,BRCA2;PALB2,21.25,1.0,strict,1
+HRR_repair,GraphRAG-Gene,5,Defective homologous recombination repair (HRR) due to BRCA1 loss of function,BRCA2;PALB2,21.25,1.0,strict,1
+HRR_repair,GraphRAG-Gene,6,Defective homologous recombination repair (HRR) due to BRCA2 loss of function,BRCA2;PALB2,21.25,1.0,strict,1
+HRR_repair,GraphRAG-Gene,7,Defective homologous recombination repair (HRR) due to PALB2 loss of function,BRCA2;PALB2,21.25,1.0,strict,1
+HRR_repair,GraphRAG-Gene,8,HDR through Homologous Recombination (HRR),BRCA2;PALB2,21.25,1.0,strict,1
+HRR_repair,GraphRAG-Gene,9,HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),BRCA2;PALB2,21.25,1.0,strict,1
+HRR_repair,GraphRAG-Gene,10,Homologous DNA Pairing and Strand Exchange,BRCA2;PALB2,21.25,1.0,strict,0
+Mitochondrial_respiration,Gene-only retrieval,1,Aerobic respiration and respiratory electron transport,NDUFS4;SDHA;SURF1,3.0,1.0,strict,1
+Mitochondrial_respiration,Gene-only retrieval,2,Metabolism,NDUFS4;SDHA;SURF1,3.0,0.85,strict,0
+Mitochondrial_respiration,Gene-only retrieval,3,Respiratory electron transport,NDUFS4;SDHA;SURF1,3.0,1.0,strict,1
+Mitochondrial_respiration,Gene-only retrieval,4,"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",NDUFS4;SDHA,2.0,1.0,strict,1
+Mitochondrial_respiration,Gene-only retrieval,5,Cellular response to chemical stress,SURF1,1.0,0.85,strict,0
+Mitochondrial_respiration,Gene-only retrieval,6,Cellular responses to stimuli,SURF1,1.0,0.7,strict,0
+Mitochondrial_respiration,Gene-only retrieval,7,Cellular responses to stress,SURF1,1.0,0.7,strict,0
+Mitochondrial_respiration,Gene-only retrieval,8,Citric acid cycle (TCA cycle),SDHA,1.0,1.0,strict,1
+Mitochondrial_respiration,Gene-only retrieval,9,Complex I biogenesis,NDUFS4,1.0,1.0,strict,1
+Mitochondrial_respiration,Gene-only retrieval,10,Cytoprotection by HMOX1,SURF1,1.0,1.0,strict,0
+Mitochondrial_respiration,Pathway-only retrieval,1,Aerobic respiration and respiratory electron transport,NDUFS4;SDHA;SURF1,3.0,1.0,strict,1
+Mitochondrial_respiration,Pathway-only retrieval,2,Metabolism,NDUFS4;SDHA;SURF1,3.0,0.85,strict,0
+Mitochondrial_respiration,Pathway-only retrieval,3,Respiratory electron transport,NDUFS4;SDHA;SURF1,3.0,1.0,strict,1
+Mitochondrial_respiration,Pathway-only retrieval,4,"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",NDUFS4;SDHA;SURF1,3.0,1.0,strict,1
+Mitochondrial_respiration,Pathway-only retrieval,5,Cellular response to chemical stress,SURF1,1.0,0.85,strict,0
+Mitochondrial_respiration,Pathway-only retrieval,6,Cellular responses to stimuli,SURF1,1.0,0.7,strict,0
+Mitochondrial_respiration,Pathway-only retrieval,7,Cellular responses to stress,SURF1,1.0,0.7,strict,0
+Mitochondrial_respiration,Pathway-only retrieval,8,Citric acid cycle (TCA cycle),SDHA,1.0,1.0,strict,1
+Mitochondrial_respiration,Pathway-only retrieval,9,Complex I biogenesis,NDUFS4,1.0,1.0,strict,1
+Mitochondrial_respiration,Pathway-only retrieval,10,Cytoprotection by HMOX1,SURF1,1.0,1.0,strict,0
+Mitochondrial_respiration,GraphRAG-Gene,1,Aerobic respiration and respiratory electron transport,NDUFS4;SDHA;SURF1,31.25,1.0,strict,1
+Mitochondrial_respiration,GraphRAG-Gene,2,Respiratory electron transport,NDUFS4;SDHA;SURF1,31.25,1.0,strict,1
+Mitochondrial_respiration,GraphRAG-Gene,3,"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",NDUFS4;SDHA;SURF1,31.25,1.0,strict,1
+Mitochondrial_respiration,GraphRAG-Gene,4,Metabolism,NDUFS4;SDHA;SURF1,31.1,0.85,strict,0
+Mitochondrial_respiration,GraphRAG-Gene,5,Citric acid cycle (TCA cycle),SDHA,11.0,1.0,strict,1
+Mitochondrial_respiration,GraphRAG-Gene,6,Complex I biogenesis,NDUFS4,11.0,1.0,strict,1
+Mitochondrial_respiration,GraphRAG-Gene,7,Cytoprotection by HMOX1,SURF1,11.0,1.0,strict,0
+Mitochondrial_respiration,GraphRAG-Gene,8,Maturation of TCA enzymes and regulation of TCA cycle,SDHA,11.0,1.0,strict,0
+Mitochondrial_respiration,GraphRAG-Gene,9,TP53 Regulates Metabolic Genes,SURF1,11.0,1.0,strict,0
+Mitochondrial_respiration,GraphRAG-Gene,10,Cellular response to chemical stress,SURF1,10.85,0.85,strict,0
+DNA_damage_checkpoint,Gene-only retrieval,1,Cell Cycle,ATM;ATR;CHEK1,3.0,1.0,strict,0
+DNA_damage_checkpoint,Gene-only retrieval,2,Cell Cycle Checkpoints,ATM;ATR;CHEK1,3.0,1.0,strict,1
+DNA_damage_checkpoint,Gene-only retrieval,3,Activation of ATR in response to replication stress,ATR;CHEK1,2.0,1.0,strict,0
+DNA_damage_checkpoint,Gene-only retrieval,4,Cellular response to heat stress,ATM;ATR,2.0,0.85,strict,0
+DNA_damage_checkpoint,Gene-only retrieval,5,Cellular responses to stimuli,ATM;ATR,2.0,0.7,strict,0
+DNA_damage_checkpoint,Gene-only retrieval,6,Cellular responses to stress,ATM;ATR,2.0,0.7,strict,0
+DNA_damage_checkpoint,Gene-only retrieval,7,DNA Double-Strand Break Repair,ATR;CHEK1,2.0,1.0,strict,0
+DNA_damage_checkpoint,Gene-only retrieval,8,DNA Repair,ATR;CHEK1,2.0,1.0,strict,0
+DNA_damage_checkpoint,Gene-only retrieval,9,Autodegradation of the E3 ubiquitin ligase COP1,ATM,1.0,1.0,strict,0
+DNA_damage_checkpoint,Gene-only retrieval,10,Autophagy,ATM,1.0,1.0,strict,0
+DNA_damage_checkpoint,Pathway-only retrieval,1,Cell Cycle,ATM;ATR;CHEK1,3.0,1.0,strict,0
+DNA_damage_checkpoint,Pathway-only retrieval,2,Cell Cycle Checkpoints,ATM;ATR;CHEK1,3.0,1.0,strict,1
+DNA_damage_checkpoint,Pathway-only retrieval,3,DNA Double-Strand Break Repair,ATM;ATR;CHEK1,3.0,1.0,strict,0
+DNA_damage_checkpoint,Pathway-only retrieval,4,DNA Repair,ATM;ATR;CHEK1,3.0,1.0,strict,0
+DNA_damage_checkpoint,Pathway-only retrieval,5,G2/M Checkpoints,ATM;ATR;CHEK1,3.0,1.0,strict,0
+DNA_damage_checkpoint,Pathway-only retrieval,6,G2/M DNA damage checkpoint,ATM;ATR;CHEK1,3.0,1.0,strict,1
+DNA_damage_checkpoint,Pathway-only retrieval,7,Gene expression (Transcription),ATM;ATR;CHEK1,3.0,0.7,strict,0
+DNA_damage_checkpoint,Pathway-only retrieval,8,Generic Transcription Pathway,ATM;ATR;CHEK1,3.0,0.85,strict,0
+DNA_damage_checkpoint,Pathway-only retrieval,9,HDR through Homologous Recombination (HRR),ATM;ATR;CHEK1,3.0,1.0,strict,0
+DNA_damage_checkpoint,Pathway-only retrieval,10,HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),ATM;ATR;CHEK1,3.0,1.0,strict,0
+DNA_damage_checkpoint,GraphRAG-Gene,1,Cell Cycle,ATM;ATR;CHEK1,31.75,1.0,strict,0
+DNA_damage_checkpoint,GraphRAG-Gene,2,Cell Cycle Checkpoints,ATM;ATR;CHEK1,31.75,1.0,strict,1
+DNA_damage_checkpoint,GraphRAG-Gene,3,DNA Double-Strand Break Repair,ATM;ATR;CHEK1,31.75,1.0,strict,0
+DNA_damage_checkpoint,GraphRAG-Gene,4,DNA Repair,ATM;ATR;CHEK1,31.75,1.0,strict,0
+DNA_damage_checkpoint,GraphRAG-Gene,5,G2/M Checkpoints,ATM;ATR;CHEK1,31.75,1.0,strict,0
+DNA_damage_checkpoint,GraphRAG-Gene,6,G2/M DNA damage checkpoint,ATM;ATR;CHEK1,31.75,1.0,strict,1
+DNA_damage_checkpoint,GraphRAG-Gene,7,HDR through Homologous Recombination (HRR),ATM;ATR;CHEK1,31.75,1.0,strict,0
+DNA_damage_checkpoint,GraphRAG-Gene,8,HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),ATM;ATR;CHEK1,31.75,1.0,strict,0
+DNA_damage_checkpoint,GraphRAG-Gene,9,Homologous DNA Pairing and Strand Exchange,ATM;ATR;CHEK1,31.75,1.0,strict,0
+DNA_damage_checkpoint,GraphRAG-Gene,10,Homology Directed Repair,ATM;ATR;CHEK1,31.75,1.0,strict,0
+Apoptosis,Gene-only retrieval,1,Apoptosis,BAX;CASP3;CASP8,3.0,1.0,strict,1
+Apoptosis,Gene-only retrieval,2,Apoptotic cleavage of cellular proteins,CASP3;CASP8,2.0,1.0,strict,0
+Apoptosis,Gene-only retrieval,3,Apoptotic execution phase,CASP3;CASP8,2.0,1.0,strict,0
+Apoptosis,Gene-only retrieval,4,Apoptotic factor-mediated response,BAX;CASP3,2.0,1.0,strict,0
+Apoptosis,Gene-only retrieval,5,Caspase activation via extrinsic apoptotic signalling pathway,CASP3;CASP8,2.0,1.0,strict,1
+Apoptosis,Gene-only retrieval,6,Activation of caspases through apoptosome-mediated cleavage,CASP3,1.0,1.0,strict,1
+Apoptosis,Gene-only retrieval,7,"Activation, myristolyation of BID and translocation to mitochondria",CASP8,1.0,1.0,strict,0
+Apoptosis,Gene-only retrieval,8,"Activation, translocation and oligomerization of BAX",BAX,1.0,1.0,strict,0
+Apoptosis,Gene-only retrieval,9,Apoptosis induced DNA fragmentation,CASP3,1.0,1.0,strict,1
+Apoptosis,Gene-only retrieval,10,Apoptotic cleavage of cell adhesion  proteins,CASP3,1.0,1.0,strict,0
+Apoptosis,Pathway-only retrieval,1,Apoptosis,BAX;CASP3;CASP8,3.0,1.0,strict,1
+Apoptosis,Pathway-only retrieval,2,Intrinsic Pathway for Apoptosis,BAX;CASP3;CASP8,3.0,1.0,strict,1
+Apoptosis,Pathway-only retrieval,3,Programmed Cell Death,BAX;CASP3;CASP8,3.0,1.0,strict,1
+Apoptosis,Pathway-only retrieval,4,Regulated Necrosis,BAX;CASP3;CASP8,3.0,1.0,strict,0
+Apoptosis,Pathway-only retrieval,5,Signal Transduction,BAX;CASP3;CASP8,3.0,0.85,strict,0
+Apoptosis,Pathway-only retrieval,6,Apoptotic cleavage of cellular proteins,CASP3;CASP8,2.0,1.0,strict,0
+Apoptosis,Pathway-only retrieval,7,Apoptotic execution phase,CASP3;CASP8,2.0,1.0,strict,0
+Apoptosis,Pathway-only retrieval,8,Apoptotic factor-mediated response,BAX;CASP3,2.0,1.0,strict,0
+Apoptosis,Pathway-only retrieval,9,Caspase activation via extrinsic apoptotic signalling pathway,CASP3;CASP8,2.0,1.0,strict,1
+Apoptosis,Pathway-only retrieval,10,Caspase-mediated cleavage of cytoskeletal proteins,CASP3;CASP8,2.0,1.0,strict,1
+Apoptosis,GraphRAG-Gene,1,Apoptosis,BAX;CASP3;CASP8,31.75,1.0,strict,1
+Apoptosis,GraphRAG-Gene,2,Intrinsic Pathway for Apoptosis,BAX;CASP3;CASP8,31.75,1.0,strict,1
+Apoptosis,GraphRAG-Gene,3,Programmed Cell Death,BAX;CASP3;CASP8,31.75,1.0,strict,1
+Apoptosis,GraphRAG-Gene,4,Regulated Necrosis,BAX;CASP3;CASP8,31.75,1.0,strict,0
+Apoptosis,GraphRAG-Gene,5,Signal Transduction,BAX;CASP3;CASP8,31.6,0.85,strict,0
+Apoptosis,GraphRAG-Gene,6,Apoptotic cleavage of cellular proteins,CASP3;CASP8,21.25,1.0,strict,0
+Apoptosis,GraphRAG-Gene,7,Apoptotic execution phase,CASP3;CASP8,21.25,1.0,strict,0
+Apoptosis,GraphRAG-Gene,8,Apoptotic factor-mediated response,BAX;CASP3,21.25,1.0,strict,0
+Apoptosis,GraphRAG-Gene,9,Caspase activation via extrinsic apoptotic signalling pathway,CASP3;CASP8,21.25,1.0,strict,1
+Apoptosis,GraphRAG-Gene,10,Caspase-mediated cleavage of cytoskeletal proteins,CASP3;CASP8,21.25,1.0,strict,1
+WNT_signaling,Gene-only retrieval,1,Beta-catenin phosphorylation cascade,APC;AXIN1;CTNNB1,3.0,1.0,strict,1
+WNT_signaling,Gene-only retrieval,2,APC truncation mutants have impaired AXIN binding,APC;AXIN1,2.0,1.0,strict,0
+WNT_signaling,Gene-only retrieval,3,Apoptosis,APC;CTNNB1,2.0,1.0,strict,0
+WNT_signaling,Gene-only retrieval,4,Apoptotic cleavage of cellular proteins,APC;CTNNB1,2.0,1.0,strict,0
+WNT_signaling,Gene-only retrieval,5,Apoptotic execution phase,APC;CTNNB1,2.0,1.0,strict,0
+WNT_signaling,Gene-only retrieval,6,AXIN missense mutants destabilize the destruction complex,APC;AXIN1,2.0,1.0,strict,0
+WNT_signaling,Gene-only retrieval,7,CTNNB1 S33 mutants aren't phosphorylated,APC;AXIN1,2.0,1.0,strict,0
+WNT_signaling,Gene-only retrieval,8,CTNNB1 S37 mutants aren't phosphorylated,APC;AXIN1,2.0,1.0,strict,0
+WNT_signaling,Gene-only retrieval,9,CTNNB1 S45 mutants aren't phosphorylated,APC;AXIN1,2.0,1.0,strict,0
+WNT_signaling,Gene-only retrieval,10,Adherens junctions interactions,CTNNB1,1.0,1.0,strict,0
+WNT_signaling,Pathway-only retrieval,1,Beta-catenin phosphorylation cascade,APC;AXIN1;CTNNB1,3.0,1.0,strict,1
+WNT_signaling,Pathway-only retrieval,2,CTNNB1 S33 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,3.0,1.0,strict,0
+WNT_signaling,Pathway-only retrieval,3,CTNNB1 S37 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,3.0,1.0,strict,0
+WNT_signaling,Pathway-only retrieval,4,CTNNB1 S45 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,3.0,1.0,strict,0
+WNT_signaling,Pathway-only retrieval,5,CTNNB1 T41 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,3.0,1.0,strict,0
+WNT_signaling,Pathway-only retrieval,6,Degradation of beta-catenin by the destruction complex,APC;AXIN1;CTNNB1,3.0,1.0,strict,1
+WNT_signaling,Pathway-only retrieval,7,Disassembly of the destruction complex and recruitment of AXIN to the membrane,APC;AXIN1;CTNNB1,3.0,1.0,strict,0
+WNT_signaling,Pathway-only retrieval,8,Disease,APC;AXIN1;CTNNB1,3.0,0.85,strict,0
+WNT_signaling,Pathway-only retrieval,9,Diseases of signal transduction by growth factor receptors and second messengers,APC;AXIN1;CTNNB1,3.0,0.55,strict,0
+WNT_signaling,Pathway-only retrieval,10,Metabolism of proteins,APC;AXIN1;CTNNB1,3.0,0.85,strict,0
+WNT_signaling,GraphRAG-Gene,1,Beta-catenin phosphorylation cascade,APC;AXIN1;CTNNB1,31.75,1.0,strict,1
+WNT_signaling,GraphRAG-Gene,2,CTNNB1 S33 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,31.75,1.0,strict,0
+WNT_signaling,GraphRAG-Gene,3,CTNNB1 S37 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,31.75,1.0,strict,0
+WNT_signaling,GraphRAG-Gene,4,CTNNB1 S45 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,31.75,1.0,strict,0
+WNT_signaling,GraphRAG-Gene,5,CTNNB1 T41 mutants aren't phosphorylated,APC;AXIN1;CTNNB1,31.75,1.0,strict,0
+WNT_signaling,GraphRAG-Gene,6,Degradation of beta-catenin by the destruction complex,APC;AXIN1;CTNNB1,31.75,1.0,strict,1
+WNT_signaling,GraphRAG-Gene,7,Disassembly of the destruction complex and recruitment of AXIN to the membrane,APC;AXIN1;CTNNB1,31.75,1.0,strict,0
+WNT_signaling,GraphRAG-Gene,8,Signaling by CTNNB1 phospho-site mutants,APC;AXIN1;CTNNB1,31.75,1.0,strict,0
+WNT_signaling,GraphRAG-Gene,9,Signaling by GSK3beta mutants,APC;AXIN1;CTNNB1,31.75,1.0,strict,0
+WNT_signaling,GraphRAG-Gene,10,Signaling by WNT,APC;AXIN1;CTNNB1,31.75,1.0,strict,1
+MAPK_signaling,Gene-only retrieval,1,Activation of NMDA receptors and postsynaptic events,KRAS;MAPK1,2.0,1.0,strict,0
+MAPK_signaling,Gene-only retrieval,2,Axon guidance,KRAS;MAPK1,2.0,1.0,strict,0
+MAPK_signaling,Gene-only retrieval,3,Activated NTRK2 signals through FRS2 and FRS3,KRAS,1.0,1.0,strict,0
+MAPK_signaling,Gene-only retrieval,4,Activated NTRK2 signals through RAS,KRAS,1.0,1.0,strict,1
+MAPK_signaling,Gene-only retrieval,5,Activated NTRK3 signals through RAS,KRAS,1.0,1.0,strict,1
+MAPK_signaling,Gene-only retrieval,6,Activation of RAS in B cells,KRAS,1.0,1.0,strict,1
+MAPK_signaling,Gene-only retrieval,7,Activation of the AP-1 family of transcription factors,MAPK1,1.0,0.85,strict,0
+MAPK_signaling,Gene-only retrieval,8,Adaptive Immune System,KRAS,1.0,1.0,strict,0
+MAPK_signaling,Gene-only retrieval,9,Advanced glycosylation endproduct receptor signaling,MAPK1,1.0,1.0,strict,0
+MAPK_signaling,Gene-only retrieval,10,Apoptosis,MAPK1,1.0,1.0,strict,0
+MAPK_signaling,Pathway-only retrieval,1,Disease,BRAF;KRAS;MAPK1,3.0,0.85,strict,0
+MAPK_signaling,Pathway-only retrieval,2,Diseases of signal transduction by growth factor receptors and second messengers,BRAF;KRAS;MAPK1,3.0,0.55,strict,0
+MAPK_signaling,Pathway-only retrieval,3,MAP2K and MAPK activation,BRAF;KRAS;MAPK1,3.0,1.0,strict,1
+MAPK_signaling,Pathway-only retrieval,4,MAPK family signaling cascades,BRAF;KRAS;MAPK1,3.0,1.0,strict,1
+MAPK_signaling,Pathway-only retrieval,5,MAPK1/MAPK3 signaling,BRAF;KRAS;MAPK1,3.0,1.0,strict,1
+MAPK_signaling,Pathway-only retrieval,6,Negative regulation of MAPK pathway,BRAF;KRAS;MAPK1,3.0,1.0,strict,1
+MAPK_signaling,Pathway-only retrieval,7,Oncogenic MAPK signaling,BRAF;KRAS;MAPK1,3.0,1.0,strict,1
+MAPK_signaling,Pathway-only retrieval,8,Paradoxical activation of RAF signaling by kinase inactive BRAF,BRAF;KRAS;MAPK1,3.0,1.0,strict,1
+MAPK_signaling,Pathway-only retrieval,9,RAF/MAP kinase cascade,BRAF;KRAS;MAPK1,3.0,1.0,strict,1
+MAPK_signaling,Pathway-only retrieval,10,Signal Transduction,BRAF;KRAS;MAPK1,3.0,0.85,strict,0
+MAPK_signaling,GraphRAG-Gene,1,MAP2K and MAPK activation,BRAF;KRAS;MAPK1,31.75,1.0,strict,1
+MAPK_signaling,GraphRAG-Gene,2,MAPK family signaling cascades,BRAF;KRAS;MAPK1,31.75,1.0,strict,1
+MAPK_signaling,GraphRAG-Gene,3,MAPK1/MAPK3 signaling,BRAF;KRAS;MAPK1,31.75,1.0,strict,1
+MAPK_signaling,GraphRAG-Gene,4,Negative regulation of MAPK pathway,BRAF;KRAS;MAPK1,31.75,1.0,strict,1
+MAPK_signaling,GraphRAG-Gene,5,Oncogenic MAPK signaling,BRAF;KRAS;MAPK1,31.75,1.0,strict,1
+MAPK_signaling,GraphRAG-Gene,6,Paradoxical activation of RAF signaling by kinase inactive BRAF,BRAF;KRAS;MAPK1,31.75,1.0,strict,1
+MAPK_signaling,GraphRAG-Gene,7,RAF/MAP kinase cascade,BRAF;KRAS;MAPK1,31.75,1.0,strict,1
+MAPK_signaling,GraphRAG-Gene,8,Signaling by BRAF and RAF1 fusions,BRAF;KRAS;MAPK1,31.75,1.0,strict,1
+MAPK_signaling,GraphRAG-Gene,9,Signaling by FGFR,BRAF;KRAS;MAPK1,31.75,1.0,strict,0
+MAPK_signaling,GraphRAG-Gene,10,Signaling by FGFR1,BRAF;KRAS;MAPK1,31.75,1.0,strict,0
+PI3K_AKT,Gene-only retrieval,1,Adaptive Immune System,AKT1;PIK3CA;PTEN,3.0,1.0,strict,0
+PI3K_AKT,Gene-only retrieval,2,Immune System,AKT1;PIK3CA;PTEN,3.0,1.0,strict,0
+PI3K_AKT,Gene-only retrieval,3,CD28 co-stimulation,AKT1;PIK3CA,2.0,1.0,strict,0
+PI3K_AKT,Gene-only retrieval,4,CD28 dependent PI3K/Akt signaling,AKT1;PIK3CA,2.0,1.0,strict,1
+PI3K_AKT,Gene-only retrieval,5,Activated NTRK2 signals through PI3K,PIK3CA,1.0,1.0,strict,1
+PI3K_AKT,Gene-only retrieval,6,Activated NTRK3 signals through PI3K,PIK3CA,1.0,1.0,strict,1
+PI3K_AKT,Gene-only retrieval,7,Activation of BAD and translocation to mitochondria,AKT1,1.0,1.0,strict,0
+PI3K_AKT,Gene-only retrieval,8,Activation of BH3-only proteins,AKT1,1.0,1.0,strict,0
+PI3K_AKT,Gene-only retrieval,9,AKT phosphorylates targets in the cytosol,AKT1,1.0,1.0,strict,1
+PI3K_AKT,Gene-only retrieval,10,AKT phosphorylates targets in the nucleus,AKT1,1.0,1.0,strict,1
+PI3K_AKT,Pathway-only retrieval,1,Adaptive Immune System,AKT1;PIK3CA;PTEN,3.0,1.0,strict,0
+PI3K_AKT,Pathway-only retrieval,2,Disease,AKT1;PIK3CA;PTEN,3.0,0.85,strict,0
+PI3K_AKT,Pathway-only retrieval,3,Diseases of signal transduction by growth factor receptors and second messengers,AKT1;PIK3CA;PTEN,3.0,0.55,strict,0
+PI3K_AKT,Pathway-only retrieval,4,Immune System,AKT1;PIK3CA;PTEN,3.0,1.0,strict,0
+PI3K_AKT,Pathway-only retrieval,5,Intracellular signaling by second messengers,AKT1;PIK3CA;PTEN,3.0,1.0,strict,0
+PI3K_AKT,Pathway-only retrieval,6,Metabolism,AKT1;PIK3CA;PTEN,3.0,0.85,strict,0
+PI3K_AKT,Pathway-only retrieval,7,Negative regulation of the PI3K/AKT network,AKT1;PIK3CA;PTEN,3.0,1.0,strict,1
+PI3K_AKT,Pathway-only retrieval,8,PI3K/AKT Signaling in Cancer,AKT1;PIK3CA;PTEN,3.0,1.0,strict,1
+PI3K_AKT,Pathway-only retrieval,9,PIP3 activates AKT signaling,AKT1;PIK3CA;PTEN,3.0,1.0,strict,1
+PI3K_AKT,Pathway-only retrieval,10,Signal Transduction,AKT1;PIK3CA;PTEN,3.0,0.85,strict,0
+PI3K_AKT,GraphRAG-Gene,1,Adaptive Immune System,AKT1;PIK3CA;PTEN,31.75,1.0,strict,0
+PI3K_AKT,GraphRAG-Gene,2,Immune System,AKT1;PIK3CA;PTEN,31.75,1.0,strict,0
+PI3K_AKT,GraphRAG-Gene,3,Intracellular signaling by second messengers,AKT1;PIK3CA;PTEN,31.75,1.0,strict,0
+PI3K_AKT,GraphRAG-Gene,4,Negative regulation of the PI3K/AKT network,AKT1;PIK3CA;PTEN,31.75,1.0,strict,1
+PI3K_AKT,GraphRAG-Gene,5,PI3K/AKT Signaling in Cancer,AKT1;PIK3CA;PTEN,31.75,1.0,strict,1
+PI3K_AKT,GraphRAG-Gene,6,PIP3 activates AKT signaling,AKT1;PIK3CA;PTEN,31.75,1.0,strict,1
+PI3K_AKT,GraphRAG-Gene,7,Disease,AKT1;PIK3CA;PTEN,31.6,0.85,strict,0
+PI3K_AKT,GraphRAG-Gene,8,Metabolism,AKT1;PIK3CA;PTEN,31.6,0.85,strict,0
+PI3K_AKT,GraphRAG-Gene,9,Signal Transduction,AKT1;PIK3CA;PTEN,31.6,0.85,strict,0
+PI3K_AKT,GraphRAG-Gene,10,Diseases of signal transduction by growth factor receptors and second messengers,AKT1;PIK3CA;PTEN,31.3,0.55,strict,0
+TGF_beta,Gene-only retrieval,1,Deubiquitination,SMAD2;SMAD3;TGFB1,3.0,1.0,strict,0
+TGF_beta,Gene-only retrieval,2,Developmental Biology,SMAD2;SMAD3;TGFB1,3.0,0.85,strict,0
+TGF_beta,Gene-only retrieval,3,Disease,SMAD2;SMAD3;TGFB1,3.0,0.85,strict,0
+TGF_beta,Gene-only retrieval,4,Diseases of signal transduction by growth factor receptors and second messengers,SMAD2;SMAD3;TGFB1,3.0,0.55,strict,0
+TGF_beta,Gene-only retrieval,5,Downregulation of TGF-beta receptor signaling,SMAD2;SMAD3;TGFB1,3.0,1.0,strict,1
+TGF_beta,Gene-only retrieval,6,Signal Transduction,SMAD2;SMAD3;TGFB1,3.0,0.85,strict,0
+TGF_beta,Gene-only retrieval,7,Cell Cycle,SMAD2;SMAD3,2.0,1.0,strict,0
+TGF_beta,Gene-only retrieval,8,Cytokine Signaling in Immune system,SMAD3;TGFB1,2.0,1.0,strict,0
+TGF_beta,Gene-only retrieval,9,Downregulation of SMAD2/3:SMAD4 transcriptional activity,SMAD2;SMAD3,2.0,0.85,strict,1
+TGF_beta,Gene-only retrieval,10,FOXO-mediated transcription,SMAD2;SMAD3,2.0,0.85,strict,0
+TGF_beta,Pathway-only retrieval,1,Deubiquitination,SMAD2;SMAD3;TGFB1,3.0,1.0,strict,0
+TGF_beta,Pathway-only retrieval,2,Developmental Biology,SMAD2;SMAD3;TGFB1,3.0,0.85,strict,0
+TGF_beta,Pathway-only retrieval,3,Disease,SMAD2;SMAD3;TGFB1,3.0,0.85,strict,0
+TGF_beta,Pathway-only retrieval,4,Diseases of signal transduction by growth factor receptors and second messengers,SMAD2;SMAD3;TGFB1,3.0,0.55,strict,0
+TGF_beta,Pathway-only retrieval,5,Downregulation of TGF-beta receptor signaling,SMAD2;SMAD3;TGFB1,3.0,1.0,strict,1
+TGF_beta,Pathway-only retrieval,6,Gene expression (Transcription),SMAD2;SMAD3;TGFB1,3.0,0.7,strict,0
+TGF_beta,Pathway-only retrieval,7,Generic Transcription Pathway,SMAD2;SMAD3;TGFB1,3.0,0.85,strict,0
+TGF_beta,Pathway-only retrieval,8,Loss of Function of SMAD2/3 in Cancer,SMAD2;SMAD3;TGFB1,3.0,1.0,strict,1
+TGF_beta,Pathway-only retrieval,9,Loss of Function of TGFBR1 in Cancer,SMAD2;SMAD3;TGFB1,3.0,1.0,strict,1
+TGF_beta,Pathway-only retrieval,10,Metabolism of proteins,SMAD2;SMAD3;TGFB1,3.0,0.85,strict,0
+TGF_beta,GraphRAG-Gene,1,Deubiquitination,SMAD2;SMAD3;TGFB1,31.75,1.0,strict,0
+TGF_beta,GraphRAG-Gene,2,Downregulation of TGF-beta receptor signaling,SMAD2;SMAD3;TGFB1,31.75,1.0,strict,1
+TGF_beta,GraphRAG-Gene,3,Loss of Function of SMAD2/3 in Cancer,SMAD2;SMAD3;TGFB1,31.75,1.0,strict,1
+TGF_beta,GraphRAG-Gene,4,Loss of Function of TGFBR1 in Cancer,SMAD2;SMAD3;TGFB1,31.75,1.0,strict,1
+TGF_beta,GraphRAG-Gene,5,Post-translational protein modification,SMAD2;SMAD3;TGFB1,31.75,1.0,strict,0
+TGF_beta,GraphRAG-Gene,6,Signaling by TGF-beta Receptor Complex,SMAD2;SMAD3;TGFB1,31.75,1.0,strict,1
+TGF_beta,GraphRAG-Gene,7,Signaling by TGF-beta Receptor Complex in Cancer,SMAD2;SMAD3;TGFB1,31.75,1.0,strict,1
+TGF_beta,GraphRAG-Gene,8,Signaling by TGFB family members,SMAD2;SMAD3;TGFB1,31.75,1.0,strict,1
+TGF_beta,GraphRAG-Gene,9,SMAD2/3 Phosphorylation Motif Mutants in Cancer,SMAD2;SMAD3;TGFB1,31.75,1.0,strict,1
+TGF_beta,GraphRAG-Gene,10,TGF-beta receptor signaling activates SMADs,SMAD2;SMAD3;TGFB1,31.75,1.0,strict,1
+NOTCH_signaling,Gene-only retrieval,1,Activated NOTCH1 Transmits Signal to the Nucleus,DLL4;JAG1;NOTCH1,3.0,1.0,strict,1
+NOTCH_signaling,Gene-only retrieval,2,Constitutive Signaling by NOTCH1 HD Domain Mutants,DLL4;JAG1;NOTCH1,3.0,1.0,strict,1
+NOTCH_signaling,Gene-only retrieval,3,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants,DLL4;JAG1;NOTCH1,3.0,1.0,strict,1
+NOTCH_signaling,Gene-only retrieval,4,Constitutive Signaling by NOTCH1 PEST Domain Mutants,DLL4;JAG1;NOTCH1,3.0,1.0,strict,1
+NOTCH_signaling,Gene-only retrieval,5,Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant,DLL4;JAG1;NOTCH1,3.0,1.0,strict,1
+NOTCH_signaling,Gene-only retrieval,6,Signaling by NOTCH,DLL4;JAG1;NOTCH1,3.0,1.0,strict,1
+NOTCH_signaling,Gene-only retrieval,7,Signaling by NOTCH1,DLL4;JAG1;NOTCH1,3.0,1.0,strict,1
+NOTCH_signaling,Gene-only retrieval,8,Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant,DLL4;JAG1;NOTCH1,3.0,1.0,strict,1
+NOTCH_signaling,Gene-only retrieval,9,Developmental Biology,JAG1;NOTCH1,2.0,0.85,strict,0
+NOTCH_signaling,Gene-only retrieval,10,Disease,DLL4;JAG1,2.0,0.85,strict,0
+NOTCH_signaling,Pathway-only retrieval,1,Activated NOTCH1 Transmits Signal to the Nucleus,DLL4;JAG1;NOTCH1,3.0,1.0,strict,1
+NOTCH_signaling,Pathway-only retrieval,2,Constitutive Signaling by NOTCH1 HD Domain Mutants,DLL4;JAG1;NOTCH1,3.0,1.0,strict,1
+NOTCH_signaling,Pathway-only retrieval,3,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants,DLL4;JAG1;NOTCH1,3.0,1.0,strict,1
+NOTCH_signaling,Pathway-only retrieval,4,Constitutive Signaling by NOTCH1 PEST Domain Mutants,DLL4;JAG1;NOTCH1,3.0,1.0,strict,1
+NOTCH_signaling,Pathway-only retrieval,5,Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant,DLL4;JAG1;NOTCH1,3.0,1.0,strict,1
+NOTCH_signaling,Pathway-only retrieval,6,Disease,DLL4;JAG1;NOTCH1,3.0,0.85,strict,0
+NOTCH_signaling,Pathway-only retrieval,7,Diseases of signal transduction by growth factor receptors and second messengers,DLL4;JAG1;NOTCH1,3.0,0.55,strict,0
+NOTCH_signaling,Pathway-only retrieval,8,Signal Transduction,DLL4;JAG1;NOTCH1,3.0,0.85,strict,0
+NOTCH_signaling,Pathway-only retrieval,9,Signaling by NOTCH,DLL4;JAG1;NOTCH1,3.0,1.0,strict,1
+NOTCH_signaling,Pathway-only retrieval,10,Signaling by NOTCH1,DLL4;JAG1;NOTCH1,3.0,1.0,strict,1
+NOTCH_signaling,GraphRAG-Gene,1,Activated NOTCH1 Transmits Signal to the Nucleus,DLL4;JAG1;NOTCH1,31.5,1.0,strict,1
+NOTCH_signaling,GraphRAG-Gene,2,Constitutive Signaling by NOTCH1 HD Domain Mutants,DLL4;JAG1;NOTCH1,31.5,1.0,strict,1
+NOTCH_signaling,GraphRAG-Gene,3,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants,DLL4;JAG1;NOTCH1,31.5,1.0,strict,1
+NOTCH_signaling,GraphRAG-Gene,4,Constitutive Signaling by NOTCH1 PEST Domain Mutants,DLL4;JAG1;NOTCH1,31.5,1.0,strict,1
+NOTCH_signaling,GraphRAG-Gene,5,Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant,DLL4;JAG1;NOTCH1,31.5,1.0,strict,1
+NOTCH_signaling,GraphRAG-Gene,6,Signaling by NOTCH,DLL4;JAG1;NOTCH1,31.5,1.0,strict,1
+NOTCH_signaling,GraphRAG-Gene,7,Signaling by NOTCH1,DLL4;JAG1;NOTCH1,31.5,1.0,strict,1
+NOTCH_signaling,GraphRAG-Gene,8,Signaling by NOTCH1 HD Domain Mutants in Cancer,DLL4;JAG1;NOTCH1,31.5,1.0,strict,1
+NOTCH_signaling,GraphRAG-Gene,9,Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer,DLL4;JAG1;NOTCH1,31.5,1.0,strict,1
+NOTCH_signaling,GraphRAG-Gene,10,Signaling by NOTCH1 in Cancer,DLL4;JAG1;NOTCH1,31.5,1.0,strict,1
+TP53_pathway,Gene-only retrieval,1,Cell Cycle,CDKN1A;MDM2;TP53,3.0,1.0,strict,0
+TP53_pathway,Gene-only retrieval,2,Cell Cycle Checkpoints,CDKN1A;MDM2;TP53,3.0,1.0,strict,1
+TP53_pathway,Gene-only retrieval,3,AKT phosphorylates targets in the cytosol,CDKN1A;MDM2,2.0,1.0,strict,0
+TP53_pathway,Gene-only retrieval,4,"Cell Cycle, Mitotic",CDKN1A;TP53,2.0,1.0,strict,0
+TP53_pathway,Gene-only retrieval,5,Cellular responses to stimuli,CDKN1A;MDM2,2.0,0.7,strict,0
+TP53_pathway,Gene-only retrieval,6,Cellular responses to stress,CDKN1A;MDM2,2.0,0.7,strict,0
+TP53_pathway,Gene-only retrieval,7,Cellular Senescence,CDKN1A;MDM2,2.0,1.0,strict,0
+TP53_pathway,Gene-only retrieval,8,Aberrant regulation of mitotic cell cycle due to RB1 defects,CDKN1A,1.0,1.0,strict,0
+TP53_pathway,Gene-only retrieval,9,Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects,CDKN1A,1.0,1.0,strict,0
+TP53_pathway,Gene-only retrieval,10,Activation of BH3-only proteins,TP53,1.0,1.0,strict,0
+TP53_pathway,Pathway-only retrieval,1,Cell Cycle,CDKN1A;MDM2;TP53,3.0,1.0,strict,0
+TP53_pathway,Pathway-only retrieval,2,Cell Cycle Checkpoints,CDKN1A;MDM2;TP53,3.0,1.0,strict,1
+TP53_pathway,Pathway-only retrieval,3,Cellular responses to stimuli,CDKN1A;MDM2;TP53,3.0,0.7,strict,0
+TP53_pathway,Pathway-only retrieval,4,Cellular responses to stress,CDKN1A;MDM2;TP53,3.0,0.7,strict,0
+TP53_pathway,Pathway-only retrieval,5,Cellular Senescence,CDKN1A;MDM2;TP53,3.0,1.0,strict,0
+TP53_pathway,Pathway-only retrieval,6,Disease,CDKN1A;MDM2;TP53,3.0,0.85,strict,0
+TP53_pathway,Pathway-only retrieval,7,Diseases of signal transduction by growth factor receptors and second messengers,CDKN1A;MDM2;TP53,3.0,0.55,strict,0
+TP53_pathway,Pathway-only retrieval,8,G1/S DNA Damage Checkpoints,CDKN1A;MDM2;TP53,3.0,1.0,strict,1
+TP53_pathway,Pathway-only retrieval,9,Gene expression (Transcription),CDKN1A;MDM2;TP53,3.0,0.7,strict,0
+TP53_pathway,Pathway-only retrieval,10,Generic Transcription Pathway,CDKN1A;MDM2;TP53,3.0,0.85,strict,0
+TP53_pathway,GraphRAG-Gene,1,Cell Cycle,CDKN1A;MDM2;TP53,31.75,1.0,strict,0
+TP53_pathway,GraphRAG-Gene,2,Cell Cycle Checkpoints,CDKN1A;MDM2;TP53,31.75,1.0,strict,1
+TP53_pathway,GraphRAG-Gene,3,Cellular Senescence,CDKN1A;MDM2;TP53,31.75,1.0,strict,0
+TP53_pathway,GraphRAG-Gene,4,G1/S DNA Damage Checkpoints,CDKN1A;MDM2;TP53,31.75,1.0,strict,1
+TP53_pathway,GraphRAG-Gene,5,Intracellular signaling by second messengers,CDKN1A;MDM2;TP53,31.75,1.0,strict,0
+TP53_pathway,GraphRAG-Gene,6,p53-Dependent G1 DNA Damage Response,CDKN1A;MDM2;TP53,31.75,1.0,strict,1
+TP53_pathway,GraphRAG-Gene,7,p53-Dependent G1/S DNA damage checkpoint,CDKN1A;MDM2;TP53,31.75,1.0,strict,1
+TP53_pathway,GraphRAG-Gene,8,PIP3 activates AKT signaling,CDKN1A;MDM2;TP53,31.75,1.0,strict,0
+TP53_pathway,GraphRAG-Gene,9,Post-translational protein modification,CDKN1A;MDM2;TP53,31.75,1.0,strict,0
+TP53_pathway,GraphRAG-Gene,10,Signaling by ALK fusions and activated point mutants,CDKN1A;MDM2;TP53,31.75,1.0,strict,0
+EGFR_signaling,Gene-only retrieval,1,Axon guidance,EGFR;ERBB2;GRB2,3.0,1.0,strict,0
+EGFR_signaling,Gene-only retrieval,2,Constitutive Signaling by Aberrant PI3K in Cancer,EGFR;ERBB2,2.0,1.0,strict,0
+EGFR_signaling,Gene-only retrieval,3,Developmental Biology,EGFR;ERBB2,2.0,0.85,strict,0
+EGFR_signaling,Gene-only retrieval,4,Disease,EGFR;ERBB2,2.0,0.85,strict,0
+EGFR_signaling,Gene-only retrieval,5,Diseases of signal transduction by growth factor receptors and second messengers,EGFR;ERBB2,2.0,0.55,strict,0
+EGFR_signaling,Gene-only retrieval,6,Downregulation of ERBB2 signaling,EGFR;ERBB2,2.0,1.0,strict,1
+EGFR_signaling,Gene-only retrieval,7,Signal Transduction,EGFR;ERBB2,2.0,0.85,strict,0
+EGFR_signaling,Gene-only retrieval,8,Activated NTRK2 signals through FRS2 and FRS3,GRB2,1.0,1.0,strict,0
+EGFR_signaling,Gene-only retrieval,9,Activated NTRK2 signals through PI3K,GRB2,1.0,1.0,strict,0
+EGFR_signaling,Gene-only retrieval,10,Activated NTRK2 signals through RAS,GRB2,1.0,1.0,strict,0
+EGFR_signaling,Pathway-only retrieval,1,Axon guidance,EGFR;ERBB2;GRB2,3.0,1.0,strict,0
+EGFR_signaling,Pathway-only retrieval,2,Constitutive Signaling by Aberrant PI3K in Cancer,EGFR;ERBB2;GRB2,3.0,1.0,strict,0
+EGFR_signaling,Pathway-only retrieval,3,Developmental Biology,EGFR;ERBB2;GRB2,3.0,0.85,strict,0
+EGFR_signaling,Pathway-only retrieval,4,Disease,EGFR;ERBB2;GRB2,3.0,0.85,strict,0
+EGFR_signaling,Pathway-only retrieval,5,Diseases of signal transduction by growth factor receptors and second messengers,EGFR;ERBB2;GRB2,3.0,0.55,strict,0
+EGFR_signaling,Pathway-only retrieval,6,GRB2 events in ERBB2 signaling,EGFR;ERBB2;GRB2,3.0,1.0,strict,1
+EGFR_signaling,Pathway-only retrieval,7,Intracellular signaling by second messengers,EGFR;ERBB2;GRB2,3.0,1.0,strict,0
+EGFR_signaling,Pathway-only retrieval,8,MAPK family signaling cascades,EGFR;ERBB2;GRB2,3.0,1.0,strict,0
+EGFR_signaling,Pathway-only retrieval,9,MAPK1/MAPK3 signaling,EGFR;ERBB2;GRB2,3.0,1.0,strict,0
+EGFR_signaling,Pathway-only retrieval,10,Negative regulation of the PI3K/AKT network,EGFR;ERBB2;GRB2,3.0,1.0,strict,0
+EGFR_signaling,GraphRAG-Gene,1,Axon guidance,EGFR;ERBB2;GRB2,31.75,1.0,strict,0
+EGFR_signaling,GraphRAG-Gene,2,Constitutive Signaling by Aberrant PI3K in Cancer,EGFR;ERBB2;GRB2,31.75,1.0,strict,0
+EGFR_signaling,GraphRAG-Gene,3,GRB2 events in ERBB2 signaling,EGFR;ERBB2;GRB2,31.75,1.0,strict,1
+EGFR_signaling,GraphRAG-Gene,4,Intracellular signaling by second messengers,EGFR;ERBB2;GRB2,31.75,1.0,strict,0
+EGFR_signaling,GraphRAG-Gene,5,MAPK family signaling cascades,EGFR;ERBB2;GRB2,31.75,1.0,strict,0
+EGFR_signaling,GraphRAG-Gene,6,MAPK1/MAPK3 signaling,EGFR;ERBB2;GRB2,31.75,1.0,strict,0
+EGFR_signaling,GraphRAG-Gene,7,Negative regulation of the PI3K/AKT network,EGFR;ERBB2;GRB2,31.75,1.0,strict,0
+EGFR_signaling,GraphRAG-Gene,8,Nervous system development,EGFR;ERBB2;GRB2,31.75,1.0,strict,0
+EGFR_signaling,GraphRAG-Gene,9,PI3K events in ERBB2 signaling,EGFR;ERBB2;GRB2,31.75,1.0,strict,1
+EGFR_signaling,GraphRAG-Gene,10,PI3K/AKT Signaling in Cancer,EGFR;ERBB2;GRB2,31.75,1.0,strict,0
+Interferon_signaling,Gene-only retrieval,1,Cytokine Signaling in Immune system,IFNA1;IFNB1;STAT1,3.0,1.0,strict,1
+Interferon_signaling,Gene-only retrieval,2,Disease,IFNA1;IFNB1;STAT1,3.0,0.85,strict,0
+Interferon_signaling,Gene-only retrieval,3,Immune System,IFNA1;IFNB1;STAT1,3.0,1.0,strict,0
+Interferon_signaling,Gene-only retrieval,4,DDX58/IFIH1-mediated induction of interferon-alpha/beta,IFNA1;IFNB1,2.0,1.0,strict,1
+Interferon_signaling,Gene-only retrieval,5,Evasion by RSV of host interferon responses,IFNA1;IFNB1,2.0,1.0,strict,1
+Interferon_signaling,Gene-only retrieval,6,Factors involved in megakaryocyte development and platelet production,IFNA1;IFNB1,2.0,1.0,strict,0
+Interferon_signaling,Gene-only retrieval,7,Hemostasis,IFNA1;IFNB1,2.0,1.0,strict,0
+Interferon_signaling,Gene-only retrieval,8,Antiviral mechanism by IFN-stimulated genes,STAT1,1.0,1.0,strict,0
+Interferon_signaling,Gene-only retrieval,9,Cellular responses to stimuli,IFNB1,1.0,0.7,strict,0
+Interferon_signaling,Gene-only retrieval,10,Cellular responses to stress,IFNB1,1.0,0.7,strict,0
+Interferon_signaling,Pathway-only retrieval,1,Cytokine Signaling in Immune system,IFNA1;IFNB1;STAT1,3.0,1.0,strict,1
+Interferon_signaling,Pathway-only retrieval,2,Disease,IFNA1;IFNB1;STAT1,3.0,0.85,strict,0
+Interferon_signaling,Pathway-only retrieval,3,Immune System,IFNA1;IFNB1;STAT1,3.0,1.0,strict,0
+Interferon_signaling,Pathway-only retrieval,4,Infectious disease,IFNA1;IFNB1;STAT1,3.0,0.85,strict,0
+Interferon_signaling,Pathway-only retrieval,5,Interferon alpha/beta signaling,IFNA1;IFNB1;STAT1,3.0,1.0,strict,1
+Interferon_signaling,Pathway-only retrieval,6,Interferon Signaling,IFNA1;IFNB1;STAT1,3.0,1.0,strict,1
+Interferon_signaling,Pathway-only retrieval,7,Regulation of IFNA/IFNB signaling,IFNA1;IFNB1;STAT1,3.0,1.0,strict,0
+Interferon_signaling,Pathway-only retrieval,8,SARS-CoV Infections,IFNA1;IFNB1;STAT1,3.0,1.0,strict,0
+Interferon_signaling,Pathway-only retrieval,9,SARS-CoV-2 activates/modulates innate and adaptive immune responses,IFNA1;IFNB1;STAT1,3.0,1.0,strict,0
+Interferon_signaling,Pathway-only retrieval,10,SARS-CoV-2 Infection,IFNA1;IFNB1;STAT1,3.0,1.0,strict,0
+Interferon_signaling,GraphRAG-Gene,1,Cytokine Signaling in Immune system,IFNA1;IFNB1;STAT1,31.75,1.0,strict,1
+Interferon_signaling,GraphRAG-Gene,2,Immune System,IFNA1;IFNB1;STAT1,31.75,1.0,strict,0
+Interferon_signaling,GraphRAG-Gene,3,Interferon alpha/beta signaling,IFNA1;IFNB1;STAT1,31.75,1.0,strict,1
+Interferon_signaling,GraphRAG-Gene,4,Interferon Signaling,IFNA1;IFNB1;STAT1,31.75,1.0,strict,1
+Interferon_signaling,GraphRAG-Gene,5,Regulation of IFNA/IFNB signaling,IFNA1;IFNB1;STAT1,31.75,1.0,strict,0
+Interferon_signaling,GraphRAG-Gene,6,SARS-CoV Infections,IFNA1;IFNB1;STAT1,31.75,1.0,strict,0
+Interferon_signaling,GraphRAG-Gene,7,SARS-CoV-2 activates/modulates innate and adaptive immune responses,IFNA1;IFNB1;STAT1,31.75,1.0,strict,0
+Interferon_signaling,GraphRAG-Gene,8,SARS-CoV-2 Infection,IFNA1;IFNB1;STAT1,31.75,1.0,strict,0
+Interferon_signaling,GraphRAG-Gene,9,SARS-CoV-2-host interactions,IFNA1;IFNB1;STAT1,31.75,1.0,strict,0
+Interferon_signaling,GraphRAG-Gene,10,Viral Infection Pathways,IFNA1;IFNB1;STAT1,31.75,1.0,strict,0
+JAK_STAT_signaling,Gene-only retrieval,1,Cytokine Signaling in Immune system,JAK1;JAK2;STAT3,3.0,1.0,strict,1
+JAK_STAT_signaling,Gene-only retrieval,2,Immune System,JAK1;JAK2;STAT3,3.0,1.0,strict,0
+JAK_STAT_signaling,Gene-only retrieval,3,Antiviral mechanism by IFN-stimulated genes,JAK1;STAT3,2.0,1.0,strict,0
+JAK_STAT_signaling,Gene-only retrieval,4,Disease,JAK1;JAK2,2.0,0.85,strict,0
+JAK_STAT_signaling,Gene-only retrieval,5,Apoptosis,STAT3,1.0,1.0,strict,0
+JAK_STAT_signaling,Gene-only retrieval,6,Association of TriC/CCT with target proteins during biosynthesis,STAT3,1.0,1.0,strict,0
+JAK_STAT_signaling,Gene-only retrieval,7,BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members,STAT3,1.0,1.0,strict,0
+JAK_STAT_signaling,Gene-only retrieval,8,Cell Cycle,JAK2,1.0,1.0,strict,0
+JAK_STAT_signaling,Gene-only retrieval,9,"Cell Cycle, Mitotic",JAK2,1.0,1.0,strict,0
+JAK_STAT_signaling,Gene-only retrieval,10,Cellular response to chemical stress,STAT3,1.0,0.85,strict,0
+JAK_STAT_signaling,Pathway-only retrieval,1,Cytokine Signaling in Immune system,JAK1;JAK2;STAT3,3.0,1.0,strict,1
+JAK_STAT_signaling,Pathway-only retrieval,2,Disease,JAK1;JAK2;STAT3,3.0,0.85,strict,0
+JAK_STAT_signaling,Pathway-only retrieval,3,Immune System,JAK1;JAK2;STAT3,3.0,1.0,strict,0
+JAK_STAT_signaling,Pathway-only retrieval,4,Inactivation of CSF3 (G-CSF) signaling,JAK1;JAK2;STAT3,3.0,1.0,strict,0
+JAK_STAT_signaling,Pathway-only retrieval,5,Interferon Signaling,JAK1;JAK2;STAT3,3.0,1.0,strict,0
+JAK_STAT_signaling,Pathway-only retrieval,6,Interleukin-12 family signaling,JAK1;JAK2;STAT3,3.0,1.0,strict,1
+JAK_STAT_signaling,Pathway-only retrieval,7,Interleukin-2 family signaling,JAK1;JAK2;STAT3,3.0,1.0,strict,1
+JAK_STAT_signaling,Pathway-only retrieval,8,Interleukin-20 family signaling,JAK1;JAK2;STAT3,3.0,1.0,strict,1
+JAK_STAT_signaling,Pathway-only retrieval,9,Interleukin-27 signaling,JAK1;JAK2;STAT3,3.0,1.0,strict,1
+JAK_STAT_signaling,Pathway-only retrieval,10,Interleukin-35 Signalling,JAK1;JAK2;STAT3,3.0,1.0,strict,1
+JAK_STAT_signaling,GraphRAG-Gene,1,Cytokine Signaling in Immune system,JAK1;JAK2;STAT3,31.75,1.0,strict,1
+JAK_STAT_signaling,GraphRAG-Gene,2,Immune System,JAK1;JAK2;STAT3,31.75,1.0,strict,0
+JAK_STAT_signaling,GraphRAG-Gene,3,Inactivation of CSF3 (G-CSF) signaling,JAK1;JAK2;STAT3,31.75,1.0,strict,0
+JAK_STAT_signaling,GraphRAG-Gene,4,Interferon Signaling,JAK1;JAK2;STAT3,31.75,1.0,strict,0
+JAK_STAT_signaling,GraphRAG-Gene,5,Interleukin-12 family signaling,JAK1;JAK2;STAT3,31.75,1.0,strict,1
+JAK_STAT_signaling,GraphRAG-Gene,6,Interleukin-2 family signaling,JAK1;JAK2;STAT3,31.75,1.0,strict,1
+JAK_STAT_signaling,GraphRAG-Gene,7,Interleukin-20 family signaling,JAK1;JAK2;STAT3,31.75,1.0,strict,1
+JAK_STAT_signaling,GraphRAG-Gene,8,Interleukin-27 signaling,JAK1;JAK2;STAT3,31.75,1.0,strict,1
+JAK_STAT_signaling,GraphRAG-Gene,9,Interleukin-35 Signalling,JAK1;JAK2;STAT3,31.75,1.0,strict,1
+JAK_STAT_signaling,GraphRAG-Gene,10,Interleukin-4 and Interleukin-13 signaling,JAK1;JAK2;STAT3,31.75,1.0,strict,1
+NFkB_signaling,Gene-only retrieval,1,Activation of NF-kappaB in B cells,IKBKB;NFKB1;RELA,3.0,1.0,strict,0
+NFkB_signaling,Gene-only retrieval,2,Adaptive Immune System,IKBKB;NFKB1;RELA,3.0,1.0,strict,0
+NFkB_signaling,Gene-only retrieval,3,C-type lectin receptors (CLRs),IKBKB;NFKB1;RELA,3.0,1.0,strict,0
+NFkB_signaling,Gene-only retrieval,4,CLEC7A (Dectin-1) signaling,IKBKB;NFKB1;RELA,3.0,1.0,strict,0
+NFkB_signaling,Gene-only retrieval,5,Immune System,IKBKB;NFKB1;RELA,3.0,1.0,strict,0
+NFkB_signaling,Gene-only retrieval,6,Adipogenesis,NFKB1;RELA,2.0,1.0,strict,0
+NFkB_signaling,Gene-only retrieval,7,CD209 (DC-SIGN) signaling,NFKB1;RELA,2.0,0.9,strict,0
+NFkB_signaling,Gene-only retrieval,8,Cell recruitment (pro-inflammatory response),NFKB1;RELA,2.0,1.0,strict,0
+NFkB_signaling,Gene-only retrieval,9,Cellular response to chemical stress,NFKB1;RELA,2.0,0.85,strict,0
+NFkB_signaling,Gene-only retrieval,10,Cellular Senescence,NFKB1;RELA,2.0,1.0,strict,0
+NFkB_signaling,Pathway-only retrieval,1,Activation of NF-kappaB in B cells,IKBKB;NFKB1;RELA,3.0,1.0,strict,0
+NFkB_signaling,Pathway-only retrieval,2,Adaptive Immune System,IKBKB;NFKB1;RELA,3.0,1.0,strict,0
+NFkB_signaling,Pathway-only retrieval,3,C-type lectin receptors (CLRs),IKBKB;NFKB1;RELA,3.0,1.0,strict,0
+NFkB_signaling,Pathway-only retrieval,4,CLEC7A (Dectin-1) signaling,IKBKB;NFKB1;RELA,3.0,1.0,strict,0
+NFkB_signaling,Pathway-only retrieval,5,Cytokine Signaling in Immune system,IKBKB;NFKB1;RELA,3.0,1.0,strict,0
+NFkB_signaling,Pathway-only retrieval,6,Cytosolic sensors of pathogen-associated DNA,IKBKB;NFKB1;RELA,3.0,1.0,strict,0
+NFkB_signaling,Pathway-only retrieval,7,DDX58/IFIH1-mediated induction of interferon-alpha/beta,IKBKB;NFKB1;RELA,3.0,1.0,strict,0
+NFkB_signaling,Pathway-only retrieval,8,Death Receptor Signaling,IKBKB;NFKB1;RELA,3.0,1.0,strict,0
+NFkB_signaling,Pathway-only retrieval,9,Disease,IKBKB;NFKB1;RELA,3.0,0.85,strict,0
+NFkB_signaling,Pathway-only retrieval,10,Diseases associated with the TLR signaling cascade,IKBKB;NFKB1;RELA,3.0,0.7,strict,0
+NFkB_signaling,GraphRAG-Gene,1,Activation of NF-kappaB in B cells,IKBKB;NFKB1;RELA,31.75,1.0,strict,0
+NFkB_signaling,GraphRAG-Gene,2,Adaptive Immune System,IKBKB;NFKB1;RELA,31.75,1.0,strict,0
+NFkB_signaling,GraphRAG-Gene,3,C-type lectin receptors (CLRs),IKBKB;NFKB1;RELA,31.75,1.0,strict,0
+NFkB_signaling,GraphRAG-Gene,4,CLEC7A (Dectin-1) signaling,IKBKB;NFKB1;RELA,31.75,1.0,strict,0
+NFkB_signaling,GraphRAG-Gene,5,Cytokine Signaling in Immune system,IKBKB;NFKB1;RELA,31.75,1.0,strict,0
+NFkB_signaling,GraphRAG-Gene,6,Cytosolic sensors of pathogen-associated DNA,IKBKB;NFKB1;RELA,31.75,1.0,strict,0
+NFkB_signaling,GraphRAG-Gene,7,DDX58/IFIH1-mediated induction of interferon-alpha/beta,IKBKB;NFKB1;RELA,31.75,1.0,strict,0
+NFkB_signaling,GraphRAG-Gene,8,Death Receptor Signaling,IKBKB;NFKB1;RELA,31.75,1.0,strict,0
+NFkB_signaling,GraphRAG-Gene,9,Downstream signaling events of B Cell Receptor (BCR),IKBKB;NFKB1;RELA,31.75,1.0,strict,0
+NFkB_signaling,GraphRAG-Gene,10,Downstream TCR signaling,IKBKB;NFKB1;RELA,31.75,1.0,strict,0
+Toll_like_receptor_signaling,Gene-only retrieval,1,Disease,IRAK4;MYD88;TLR4,3.0,0.85,strict,0
+Toll_like_receptor_signaling,Gene-only retrieval,2,Immune System,IRAK4;MYD88;TLR4,3.0,1.0,strict,0
+Toll_like_receptor_signaling,Gene-only retrieval,3,Adaptive Immune System,MYD88;TLR4,2.0,1.0,strict,0
+Toll_like_receptor_signaling,Gene-only retrieval,4,Antigen processing-Cross presentation,MYD88;TLR4,2.0,1.0,strict,0
+Toll_like_receptor_signaling,Gene-only retrieval,5,Class I MHC mediated antigen processing & presentation,MYD88;TLR4,2.0,1.0,strict,0
+Toll_like_receptor_signaling,Gene-only retrieval,6,Cytokine Signaling in Immune system,IRAK4;MYD88,2.0,1.0,strict,0
+Toll_like_receptor_signaling,Gene-only retrieval,7,Diseases associated with the TLR signaling cascade,IRAK4;MYD88,2.0,0.7,strict,1
+Toll_like_receptor_signaling,Gene-only retrieval,8,Diseases of Immune System,IRAK4;MYD88,2.0,0.7,strict,0
+Toll_like_receptor_signaling,Gene-only retrieval,9,"Activation of IRF3, IRF7 mediated by TBK1, IKK蔚 (IKBKE)",TLR4,1.0,1.0,strict,0
+Toll_like_receptor_signaling,Gene-only retrieval,10,Apoptosis,TLR4,1.0,1.0,strict,0
+Toll_like_receptor_signaling,Pathway-only retrieval,1,Disease,IRAK4;MYD88;TLR4,3.0,0.85,strict,0
+Toll_like_receptor_signaling,Pathway-only retrieval,2,Diseases associated with the TLR signaling cascade,IRAK4;MYD88;TLR4,3.0,0.7,strict,1
+Toll_like_receptor_signaling,Pathway-only retrieval,3,Diseases of Immune System,IRAK4;MYD88;TLR4,3.0,0.7,strict,0
+Toll_like_receptor_signaling,Pathway-only retrieval,4,Immune System,IRAK4;MYD88;TLR4,3.0,1.0,strict,0
+Toll_like_receptor_signaling,Pathway-only retrieval,5,Innate Immune System,IRAK4;MYD88;TLR4,3.0,1.0,strict,1
+Toll_like_receptor_signaling,Pathway-only retrieval,6,IRAK4 deficiency (TLR2/4),IRAK4;MYD88;TLR4,3.0,1.0,strict,1
+Toll_like_receptor_signaling,Pathway-only retrieval,7,MyD88 dependent cascade initiated on endosome,IRAK4;MYD88;TLR4,3.0,1.0,strict,1
+Toll_like_receptor_signaling,Pathway-only retrieval,8,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,IRAK4;MYD88;TLR4,3.0,1.0,strict,1
+Toll_like_receptor_signaling,Pathway-only retrieval,9,Toll Like Receptor 2 (TLR2) Cascade,IRAK4;MYD88;TLR4,3.0,1.0,strict,1
+Toll_like_receptor_signaling,Pathway-only retrieval,10,Toll Like Receptor 4 (TLR4) Cascade,IRAK4;MYD88;TLR4,3.0,1.0,strict,1
+Toll_like_receptor_signaling,GraphRAG-Gene,1,Immune System,IRAK4;MYD88;TLR4,31.75,1.0,strict,0
+Toll_like_receptor_signaling,GraphRAG-Gene,2,Innate Immune System,IRAK4;MYD88;TLR4,31.75,1.0,strict,1
+Toll_like_receptor_signaling,GraphRAG-Gene,3,IRAK4 deficiency (TLR2/4),IRAK4;MYD88;TLR4,31.75,1.0,strict,1
+Toll_like_receptor_signaling,GraphRAG-Gene,4,MyD88 dependent cascade initiated on endosome,IRAK4;MYD88;TLR4,31.75,1.0,strict,1
+Toll_like_receptor_signaling,GraphRAG-Gene,5,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,IRAK4;MYD88;TLR4,31.75,1.0,strict,1
+Toll_like_receptor_signaling,GraphRAG-Gene,6,Toll Like Receptor 2 (TLR2) Cascade,IRAK4;MYD88;TLR4,31.75,1.0,strict,1
+Toll_like_receptor_signaling,GraphRAG-Gene,7,Toll Like Receptor 4 (TLR4) Cascade,IRAK4;MYD88;TLR4,31.75,1.0,strict,1
+Toll_like_receptor_signaling,GraphRAG-Gene,8,Toll Like Receptor 7/8 (TLR7/8) Cascade,IRAK4;MYD88;TLR4,31.75,1.0,strict,1
+Toll_like_receptor_signaling,GraphRAG-Gene,9,Toll Like Receptor 9 (TLR9) Cascade,IRAK4;MYD88;TLR4,31.75,1.0,strict,1
+Toll_like_receptor_signaling,GraphRAG-Gene,10,Toll Like Receptor TLR1:TLR2 Cascade,IRAK4;MYD88;TLR4,31.75,1.0,strict,1
+Complement_cascade,Gene-only retrieval,1,Activation of C3 and C5,C3;C5;CFB,3.0,1.0,strict,0
+Complement_cascade,Gene-only retrieval,2,Complement cascade,C3;C5;CFB,3.0,1.0,strict,1
+Complement_cascade,Gene-only retrieval,3,Immune System,C3;C5;CFB,3.0,1.0,strict,1
+Complement_cascade,Gene-only retrieval,4,Alternative complement activation,C3;CFB,2.0,1.0,strict,1
+Complement_cascade,Gene-only retrieval,5,Class A/1 (Rhodopsin-like receptors),C3;C5,2.0,1.0,strict,0
+Complement_cascade,Gene-only retrieval,6,G alpha (i) signalling events,C3;C5,2.0,1.0,strict,0
+Complement_cascade,Gene-only retrieval,7,GPCR downstream signalling,C3;C5,2.0,1.0,strict,0
+Complement_cascade,Gene-only retrieval,8,GPCR ligand binding,C3;C5,2.0,1.0,strict,0
+Complement_cascade,Gene-only retrieval,9,Innate Immune System,C5;CFB,2.0,1.0,strict,1
+Complement_cascade,Gene-only retrieval,10,Regulation of Complement cascade,C5;CFB,2.0,1.0,strict,1
+Complement_cascade,Pathway-only retrieval,1,Activation of C3 and C5,C3;C5;CFB,3.0,1.0,strict,0
+Complement_cascade,Pathway-only retrieval,2,Complement cascade,C3;C5;CFB,3.0,1.0,strict,1
+Complement_cascade,Pathway-only retrieval,3,Immune System,C3;C5;CFB,3.0,1.0,strict,1
+Complement_cascade,Pathway-only retrieval,4,Innate Immune System,C3;C5;CFB,3.0,1.0,strict,1
+Complement_cascade,Pathway-only retrieval,5,Regulation of Complement cascade,C3;C5;CFB,3.0,1.0,strict,1
+Complement_cascade,Pathway-only retrieval,6,Alternative complement activation,C3;CFB,2.0,1.0,strict,1
+Complement_cascade,Pathway-only retrieval,7,Class A/1 (Rhodopsin-like receptors),C3;C5,2.0,1.0,strict,0
+Complement_cascade,Pathway-only retrieval,8,G alpha (i) signalling events,C3;C5,2.0,1.0,strict,0
+Complement_cascade,Pathway-only retrieval,9,GPCR downstream signalling,C3;C5,2.0,1.0,strict,0
+Complement_cascade,Pathway-only retrieval,10,GPCR ligand binding,C3;C5,2.0,1.0,strict,0
+Complement_cascade,GraphRAG-Gene,1,Activation of C3 and C5,C3;C5;CFB,31.75,1.0,strict,0
+Complement_cascade,GraphRAG-Gene,2,Complement cascade,C3;C5;CFB,31.75,1.0,strict,1
+Complement_cascade,GraphRAG-Gene,3,Immune System,C3;C5;CFB,31.75,1.0,strict,1
+Complement_cascade,GraphRAG-Gene,4,Innate Immune System,C3;C5;CFB,31.75,1.0,strict,1
+Complement_cascade,GraphRAG-Gene,5,Regulation of Complement cascade,C3;C5;CFB,31.75,1.0,strict,1
+Complement_cascade,GraphRAG-Gene,6,Alternative complement activation,C3;CFB,21.25,1.0,strict,1
+Complement_cascade,GraphRAG-Gene,7,Class A/1 (Rhodopsin-like receptors),C3;C5,21.25,1.0,strict,0
+Complement_cascade,GraphRAG-Gene,8,G alpha (i) signalling events,C3;C5,21.25,1.0,strict,0
+Complement_cascade,GraphRAG-Gene,9,GPCR downstream signalling,C3;C5,21.25,1.0,strict,0
+Complement_cascade,GraphRAG-Gene,10,GPCR ligand binding,C3;C5,21.25,1.0,strict,0
+Coagulation_cascade,Gene-only retrieval,1,Common Pathway of Fibrin Clot Formation,F10;F2;F5,3.0,0.9,strict,0
+Coagulation_cascade,Gene-only retrieval,2,Hemostasis,F10;F2;F5,3.0,1.0,strict,1
+Coagulation_cascade,Gene-only retrieval,3,Defective factor VIII causes hemophilia A,F10;F2,2.0,1.0,strict,0
+Coagulation_cascade,Gene-only retrieval,4,Defects of contact activation system (CAS) and kallikrein/kinin system (KKS),F10;F2,2.0,1.0,strict,0
+Coagulation_cascade,Gene-only retrieval,5,Disease,F10;F2,2.0,0.85,strict,0
+Coagulation_cascade,Gene-only retrieval,6,Diseases of hemostasis,F10;F2,2.0,0.7,strict,1
+Coagulation_cascade,Gene-only retrieval,7,Asparagine N-linked glycosylation,F5,1.0,1.0,strict,0
+Coagulation_cascade,Gene-only retrieval,8,Cargo concentration in the ER,F5,1.0,1.0,strict,0
+Coagulation_cascade,Gene-only retrieval,9,Cell surface interactions at the vascular wall,F2,1.0,1.0,strict,0
+Coagulation_cascade,Gene-only retrieval,10,Class A/1 (Rhodopsin-like receptors),F2,1.0,1.0,strict,0
+Coagulation_cascade,Pathway-only retrieval,1,Common Pathway of Fibrin Clot Formation,F10;F2;F5,3.0,0.9,strict,0
+Coagulation_cascade,Pathway-only retrieval,2,Formation of Fibrin Clot (Clotting Cascade),F10;F2;F5,3.0,1.0,strict,0
+Coagulation_cascade,Pathway-only retrieval,3,Hemostasis,F10;F2;F5,3.0,1.0,strict,1
+Coagulation_cascade,Pathway-only retrieval,4,Metabolism of proteins,F10;F2;F5,3.0,0.85,strict,0
+Coagulation_cascade,Pathway-only retrieval,5,Post-translational protein modification,F10;F2;F5,3.0,1.0,strict,0
+Coagulation_cascade,Pathway-only retrieval,6,Defective factor VIII causes hemophilia A,F10;F2,2.0,1.0,strict,0
+Coagulation_cascade,Pathway-only retrieval,7,Defects of contact activation system (CAS) and kallikrein/kinin system (KKS),F10;F2,2.0,1.0,strict,0
+Coagulation_cascade,Pathway-only retrieval,8,Disease,F10;F2,2.0,0.85,strict,0
+Coagulation_cascade,Pathway-only retrieval,9,Diseases of hemostasis,F10;F2,2.0,0.7,strict,1
+Coagulation_cascade,Pathway-only retrieval,10,"Gamma carboxylation, hypusinylation, hydroxylation, and arylsulfatase activation",F10;F2,2.0,1.0,strict,0
+Coagulation_cascade,GraphRAG-Gene,1,Formation of Fibrin Clot (Clotting Cascade),F10;F2;F5,31.75,1.0,strict,0
+Coagulation_cascade,GraphRAG-Gene,2,Hemostasis,F10;F2;F5,31.75,1.0,strict,1
+Coagulation_cascade,GraphRAG-Gene,3,Post-translational protein modification,F10;F2;F5,31.75,1.0,strict,0
+Coagulation_cascade,GraphRAG-Gene,4,Common Pathway of Fibrin Clot Formation,F10;F2;F5,31.65,0.9,strict,0
+Coagulation_cascade,GraphRAG-Gene,5,Metabolism of proteins,F10;F2;F5,31.6,0.85,strict,0
+Coagulation_cascade,GraphRAG-Gene,6,Defective factor VIII causes hemophilia A,F10;F2,21.25,1.0,strict,0
+Coagulation_cascade,GraphRAG-Gene,7,Defects of contact activation system (CAS) and kallikrein/kinin system (KKS),F10;F2,21.25,1.0,strict,0
+Coagulation_cascade,GraphRAG-Gene,8,"Gamma carboxylation, hypusinylation, hydroxylation, and arylsulfatase activation",F10;F2,21.25,1.0,strict,0
+Coagulation_cascade,GraphRAG-Gene,9,Gamma-carboxylation of protein precursors,F10;F2,21.25,1.0,strict,0
+Coagulation_cascade,GraphRAG-Gene,10,"Gamma-carboxylation, transport, and amino-terminal cleavage of proteins",F10;F2,21.25,1.0,strict,0
+Cholesterol_metabolism,Gene-only retrieval,1,Cargo recognition for clathrin-mediated endocytosis,APOB;LDLR,2.0,1.0,strict,0
+Cholesterol_metabolism,Gene-only retrieval,2,Chylomicron clearance,APOB;LDLR,2.0,1.0,strict,0
+Cholesterol_metabolism,Gene-only retrieval,3,Clathrin-mediated endocytosis,APOB;LDLR,2.0,1.0,strict,0
+Cholesterol_metabolism,Gene-only retrieval,4,LDL clearance,LDLR;PCSK9,2.0,1.0,strict,1
+Cholesterol_metabolism,Gene-only retrieval,5,Metabolism,LDLR;PCSK9,2.0,0.85,strict,0
+Cholesterol_metabolism,Gene-only retrieval,6,Plasma lipoprotein assembly,LDLR;PCSK9,2.0,1.0,strict,1
+Cholesterol_metabolism,Gene-only retrieval,7,"Plasma lipoprotein assembly, remodeling, and clearance",LDLR;PCSK9,2.0,1.0,strict,1
+Cholesterol_metabolism,Gene-only retrieval,8,Plasma lipoprotein clearance,LDLR;PCSK9,2.0,1.0,strict,1
+Cholesterol_metabolism,Gene-only retrieval,9,Binding and Uptake of Ligands by Scavenger Receptors,APOB,1.0,1.0,strict,0
+Cholesterol_metabolism,Gene-only retrieval,10,Cell surface interactions at the vascular wall,APOB,1.0,1.0,strict,0
+Cholesterol_metabolism,Pathway-only retrieval,1,LDL clearance,APOB;LDLR;PCSK9,3.0,1.0,strict,1
+Cholesterol_metabolism,Pathway-only retrieval,2,"Plasma lipoprotein assembly, remodeling, and clearance",APOB;LDLR;PCSK9,3.0,1.0,strict,1
+Cholesterol_metabolism,Pathway-only retrieval,3,Plasma lipoprotein clearance,APOB;LDLR;PCSK9,3.0,1.0,strict,1
+Cholesterol_metabolism,Pathway-only retrieval,4,Transport of small molecules,APOB;LDLR;PCSK9,3.0,1.0,strict,0
+Cholesterol_metabolism,Pathway-only retrieval,5,Cargo recognition for clathrin-mediated endocytosis,APOB;LDLR,2.0,1.0,strict,0
+Cholesterol_metabolism,Pathway-only retrieval,6,Chylomicron clearance,APOB;LDLR,2.0,1.0,strict,0
+Cholesterol_metabolism,Pathway-only retrieval,7,Clathrin-mediated endocytosis,APOB;LDLR,2.0,1.0,strict,0
+Cholesterol_metabolism,Pathway-only retrieval,8,Membrane Trafficking,APOB;LDLR,2.0,1.0,strict,0
+Cholesterol_metabolism,Pathway-only retrieval,9,Metabolism,APOB;LDLR,2.0,0.85,strict,0
+Cholesterol_metabolism,Pathway-only retrieval,10,Metabolism of fat-soluble vitamins,APOB;LDLR,2.0,0.85,strict,0
+Cholesterol_metabolism,GraphRAG-Gene,1,LDL clearance,APOB;LDLR;PCSK9,31.5,1.0,strict,1
+Cholesterol_metabolism,GraphRAG-Gene,2,"Plasma lipoprotein assembly, remodeling, and clearance",APOB;LDLR;PCSK9,31.5,1.0,strict,1
+Cholesterol_metabolism,GraphRAG-Gene,3,Plasma lipoprotein clearance,APOB;LDLR;PCSK9,31.5,1.0,strict,1
+Cholesterol_metabolism,GraphRAG-Gene,4,Transport of small molecules,APOB;LDLR;PCSK9,31.5,1.0,strict,0
+Cholesterol_metabolism,GraphRAG-Gene,5,Cargo recognition for clathrin-mediated endocytosis,APOB;LDLR,21.25,1.0,strict,0
+Cholesterol_metabolism,GraphRAG-Gene,6,Chylomicron clearance,APOB;LDLR,21.25,1.0,strict,0
+Cholesterol_metabolism,GraphRAG-Gene,7,Clathrin-mediated endocytosis,APOB;LDLR,21.25,1.0,strict,0
+Cholesterol_metabolism,GraphRAG-Gene,8,Membrane Trafficking,APOB;LDLR,21.25,1.0,strict,0
+Cholesterol_metabolism,GraphRAG-Gene,9,Sensory Perception,APOB;LDLR,21.25,1.0,strict,0
+Cholesterol_metabolism,GraphRAG-Gene,10,Vesicle-mediated transport,APOB;LDLR,21.25,1.0,strict,0
+Fatty_acid_metabolism,Gene-only retrieval,1,Fatty acid metabolism,ACACA;CPT1A;FASN,3.0,0.85,strict,1
+Fatty_acid_metabolism,Gene-only retrieval,2,Metabolism,ACACA;CPT1A;FASN,3.0,0.85,strict,0
+Fatty_acid_metabolism,Gene-only retrieval,3,Activation of gene expression by SREBF (SREBP),ACACA;FASN,2.0,0.85,strict,0
+Fatty_acid_metabolism,Gene-only retrieval,4,Carnitine metabolism,ACACA;CPT1A,2.0,0.85,strict,0
+Fatty_acid_metabolism,Gene-only retrieval,5,ChREBP activates metabolic gene expression,ACACA;FASN,2.0,0.85,strict,0
+Fatty_acid_metabolism,Gene-only retrieval,6,Metabolism of lipids,CPT1A;FASN,2.0,0.85,strict,1
+Fatty_acid_metabolism,Gene-only retrieval,7,Biotin transport and metabolism,ACACA,1.0,0.85,strict,0
+Fatty_acid_metabolism,Gene-only retrieval,8,Circadian Clock,CPT1A,1.0,1.0,strict,0
+Fatty_acid_metabolism,Gene-only retrieval,9,Defective HLCS causes multiple carboxylase deficiency,ACACA,1.0,1.0,strict,0
+Fatty_acid_metabolism,Gene-only retrieval,10,Defects in biotin (Btn) metabolism,ACACA,1.0,0.85,strict,0
+Fatty_acid_metabolism,Pathway-only retrieval,1,Fatty acid metabolism,ACACA;CPT1A;FASN,3.0,0.85,strict,1
+Fatty_acid_metabolism,Pathway-only retrieval,2,Metabolism,ACACA;CPT1A;FASN,3.0,0.85,strict,0
+Fatty_acid_metabolism,Pathway-only retrieval,3,Metabolism of lipids,ACACA;CPT1A;FASN,3.0,0.85,strict,1
+Fatty_acid_metabolism,Pathway-only retrieval,4,Activation of gene expression by SREBF (SREBP),ACACA;FASN,2.0,0.85,strict,0
+Fatty_acid_metabolism,Pathway-only retrieval,5,Carnitine metabolism,ACACA;CPT1A,2.0,0.85,strict,0
+Fatty_acid_metabolism,Pathway-only retrieval,6,ChREBP activates metabolic gene expression,ACACA;FASN,2.0,0.85,strict,0
+Fatty_acid_metabolism,Pathway-only retrieval,7,Fatty acyl-CoA biosynthesis,ACACA;FASN,2.0,1.0,strict,0
+Fatty_acid_metabolism,Pathway-only retrieval,8,Integration of energy metabolism,ACACA;FASN,2.0,0.85,strict,0
+Fatty_acid_metabolism,Pathway-only retrieval,9,Metabolism of steroids,ACACA;FASN,2.0,0.85,strict,0
+Fatty_acid_metabolism,Pathway-only retrieval,10,Metabolism of vitamins and cofactors,ACACA;FASN,2.0,0.85,strict,0
+Fatty_acid_metabolism,GraphRAG-Gene,1,Fatty acid metabolism,ACACA;CPT1A;FASN,31.1,0.85,strict,1
+Fatty_acid_metabolism,GraphRAG-Gene,2,Metabolism,ACACA;CPT1A;FASN,31.1,0.85,strict,0
+Fatty_acid_metabolism,GraphRAG-Gene,3,Metabolism of lipids,ACACA;CPT1A;FASN,31.1,0.85,strict,1
+Fatty_acid_metabolism,GraphRAG-Gene,4,Fatty acyl-CoA biosynthesis,ACACA;FASN,21.25,1.0,strict,0
+Fatty_acid_metabolism,GraphRAG-Gene,5,Regulation of cholesterol biosynthesis by SREBP (SREBF),ACACA;FASN,21.25,1.0,strict,0
+Fatty_acid_metabolism,GraphRAG-Gene,6,Activation of gene expression by SREBF (SREBP),ACACA;FASN,21.1,0.85,strict,0
+Fatty_acid_metabolism,GraphRAG-Gene,7,ChREBP activates metabolic gene expression,ACACA;FASN,21.1,0.85,strict,0
+Fatty_acid_metabolism,GraphRAG-Gene,8,Integration of energy metabolism,ACACA;FASN,21.1,0.85,strict,0
+Fatty_acid_metabolism,GraphRAG-Gene,9,Metabolism of steroids,ACACA;FASN,21.1,0.85,strict,0
+Fatty_acid_metabolism,GraphRAG-Gene,10,Metabolism of vitamins and cofactors,ACACA;FASN,21.1,0.85,strict,0
+Glycolysis,Gene-only retrieval,1,Glucose metabolism,HK1;PFKM;PKM,3.0,0.85,strict,1
+Glycolysis,Gene-only retrieval,2,Glycolysis,HK1;PFKM;PKM,3.0,1.0,strict,1
+Glycolysis,Gene-only retrieval,3,Metabolism,HK1;PFKM;PKM,3.0,0.85,strict,0
+Glycolysis,Gene-only retrieval,4,Metabolism of carbohydrates,HK1;PFKM;PKM,3.0,0.85,strict,1
+Glycolysis,Gene-only retrieval,5,Aerobic respiration and respiratory electron transport,PKM,1.0,1.0,strict,0
+Glycolysis,Gene-only retrieval,6,Defective HK1 causes hexokinase deficiency (HK deficiency),HK1,1.0,1.0,strict,0
+Glycolysis,Gene-only retrieval,7,Disease,HK1,1.0,0.85,strict,0
+Glycolysis,Gene-only retrieval,8,Disorders of transmembrane transporters,HK1,1.0,1.0,strict,0
+Glycolysis,Gene-only retrieval,9,Immune System,PKM,1.0,1.0,strict,0
+Glycolysis,Gene-only retrieval,10,Innate Immune System,PKM,1.0,1.0,strict,0
+Glycolysis,Pathway-only retrieval,1,Glucose metabolism,HK1;PFKM;PKM,3.0,0.85,strict,1
+Glycolysis,Pathway-only retrieval,2,Glycolysis,HK1;PFKM;PKM,3.0,1.0,strict,1
+Glycolysis,Pathway-only retrieval,3,Metabolism,HK1;PFKM;PKM,3.0,0.85,strict,0
+Glycolysis,Pathway-only retrieval,4,Metabolism of carbohydrates,HK1;PFKM;PKM,3.0,0.85,strict,1
+Glycolysis,Pathway-only retrieval,5,Aerobic respiration and respiratory electron transport,PKM,1.0,1.0,strict,0
+Glycolysis,Pathway-only retrieval,6,Defective HK1 causes hexokinase deficiency (HK deficiency),HK1,1.0,1.0,strict,0
+Glycolysis,Pathway-only retrieval,7,Disease,HK1,1.0,0.85,strict,0
+Glycolysis,Pathway-only retrieval,8,Disorders of transmembrane transporters,HK1,1.0,1.0,strict,0
+Glycolysis,Pathway-only retrieval,9,Immune System,PKM,1.0,1.0,strict,0
+Glycolysis,Pathway-only retrieval,10,Innate Immune System,PKM,1.0,1.0,strict,0
+Glycolysis,GraphRAG-Gene,1,Glycolysis,HK1;PFKM;PKM,31.75,1.0,strict,1
+Glycolysis,GraphRAG-Gene,2,Glucose metabolism,HK1;PFKM;PKM,31.6,0.85,strict,1
+Glycolysis,GraphRAG-Gene,3,Metabolism,HK1;PFKM;PKM,31.6,0.85,strict,0
+Glycolysis,GraphRAG-Gene,4,Metabolism of carbohydrates,HK1;PFKM;PKM,31.6,0.85,strict,1
+Glycolysis,GraphRAG-Gene,5,Aerobic respiration and respiratory electron transport,PKM,11.0,1.0,strict,0
+Glycolysis,GraphRAG-Gene,6,Defective HK1 causes hexokinase deficiency (HK deficiency),HK1,11.0,1.0,strict,0
+Glycolysis,GraphRAG-Gene,7,Disorders of transmembrane transporters,HK1,11.0,1.0,strict,0
+Glycolysis,GraphRAG-Gene,8,Immune System,PKM,11.0,1.0,strict,0
+Glycolysis,GraphRAG-Gene,9,Innate Immune System,PKM,11.0,1.0,strict,0
+Glycolysis,GraphRAG-Gene,10,Neutrophil degranulation,PKM,11.0,1.0,strict,0
+Urea_cycle,Gene-only retrieval,1,Metabolism,ASS1;CPS1;OTC,3.0,0.85,strict,0
+Urea_cycle,Gene-only retrieval,2,Metabolism of amino acids and derivatives,ASS1;CPS1;OTC,3.0,0.85,strict,0
+Urea_cycle,Gene-only retrieval,3,Urea cycle,ASS1;CPS1;OTC,3.0,1.0,strict,1
+Urea_cycle,Gene-only retrieval,4,Mitochondrial protein import,OTC,1.0,1.0,strict,0
+Urea_cycle,Gene-only retrieval,5,Protein localization,OTC,1.0,1.0,strict,0
+Urea_cycle,Pathway-only retrieval,1,Metabolism,ASS1;CPS1;OTC,3.0,0.85,strict,0
+Urea_cycle,Pathway-only retrieval,2,Metabolism of amino acids and derivatives,ASS1;CPS1;OTC,3.0,0.85,strict,0
+Urea_cycle,Pathway-only retrieval,3,Urea cycle,ASS1;CPS1;OTC,3.0,1.0,strict,1
+Urea_cycle,Pathway-only retrieval,4,Mitochondrial protein import,OTC,1.0,1.0,strict,0
+Urea_cycle,Pathway-only retrieval,5,Protein localization,OTC,1.0,1.0,strict,0
+Urea_cycle,GraphRAG-Gene,1,Urea cycle,ASS1;CPS1;OTC,31.25,1.0,strict,1
+Urea_cycle,GraphRAG-Gene,2,Metabolism,ASS1;CPS1;OTC,31.1,0.85,strict,0
+Urea_cycle,GraphRAG-Gene,3,Metabolism of amino acids and derivatives,ASS1;CPS1;OTC,31.1,0.85,strict,0
+Urea_cycle,GraphRAG-Gene,4,Mitochondrial protein import,OTC,11.0,1.0,strict,0
+Urea_cycle,GraphRAG-Gene,5,Protein localization,OTC,11.0,1.0,strict,0
+Autophagy,Gene-only retrieval,1,Autophagy,ATG5;BECN1;MAP1LC3B,3.0,1.0,strict,1
+Autophagy,Gene-only retrieval,2,Disease,BECN1;MAP1LC3B,2.0,0.85,strict,0
+Autophagy,Gene-only retrieval,3,Early SARS-CoV-2 Infection Events,BECN1;MAP1LC3B,2.0,1.0,strict,0
+Autophagy,Gene-only retrieval,4,Immune System,ATG5;BECN1,2.0,1.0,strict,0
+Autophagy,Gene-only retrieval,5,Macroautophagy,ATG5;MAP1LC3B,2.0,1.0,strict,1
+Autophagy,Gene-only retrieval,6,SARS-CoV-2 Infection,BECN1;MAP1LC3B,2.0,1.0,strict,0
+Autophagy,Gene-only retrieval,7,Adaptive Immune System,BECN1,1.0,1.0,strict,0
+Autophagy,Gene-only retrieval,8,"Antigen Presentation: Folding, assembly and peptide loading of class I MHC",BECN1,1.0,1.0,strict,0
+Autophagy,Gene-only retrieval,9,Antiviral mechanism by IFN-stimulated genes,BECN1,1.0,1.0,strict,0
+Autophagy,Gene-only retrieval,10,Cellular response to chemical stress,MAP1LC3B,1.0,0.85,strict,0
+Autophagy,Pathway-only retrieval,1,Autophagy,ATG5;BECN1;MAP1LC3B,3.0,1.0,strict,1
+Autophagy,Pathway-only retrieval,2,Macroautophagy,ATG5;BECN1;MAP1LC3B,3.0,1.0,strict,1
+Autophagy,Pathway-only retrieval,3,Disease,BECN1;MAP1LC3B,2.0,0.85,strict,0
+Autophagy,Pathway-only retrieval,4,Early SARS-CoV-2 Infection Events,BECN1;MAP1LC3B,2.0,1.0,strict,0
+Autophagy,Pathway-only retrieval,5,Immune System,ATG5;BECN1,2.0,1.0,strict,0
+Autophagy,Pathway-only retrieval,6,Infectious disease,BECN1;MAP1LC3B,2.0,0.85,strict,0
+Autophagy,Pathway-only retrieval,7,Mitophagy,ATG5;MAP1LC3B,2.0,1.0,strict,0
+Autophagy,Pathway-only retrieval,8,PINK1-PRKN Mediated Mitophagy,ATG5;MAP1LC3B,2.0,1.0,strict,0
+Autophagy,Pathway-only retrieval,9,Receptor Mediated Mitophagy,ATG5;MAP1LC3B,2.0,1.0,strict,0
+Autophagy,Pathway-only retrieval,10,SARS-CoV Infections,BECN1;MAP1LC3B,2.0,1.0,strict,0
+Autophagy,GraphRAG-Gene,1,Autophagy,ATG5;BECN1;MAP1LC3B,31.75,1.0,strict,1
+Autophagy,GraphRAG-Gene,2,Macroautophagy,ATG5;BECN1;MAP1LC3B,31.75,1.0,strict,1
+Autophagy,GraphRAG-Gene,3,Early SARS-CoV-2 Infection Events,BECN1;MAP1LC3B,21.25,1.0,strict,0
+Autophagy,GraphRAG-Gene,4,Immune System,ATG5;BECN1,21.25,1.0,strict,0
+Autophagy,GraphRAG-Gene,5,Mitophagy,ATG5;MAP1LC3B,21.25,1.0,strict,0
+Autophagy,GraphRAG-Gene,6,PINK1-PRKN Mediated Mitophagy,ATG5;MAP1LC3B,21.25,1.0,strict,0
+Autophagy,GraphRAG-Gene,7,Receptor Mediated Mitophagy,ATG5;MAP1LC3B,21.25,1.0,strict,0
+Autophagy,GraphRAG-Gene,8,SARS-CoV Infections,BECN1;MAP1LC3B,21.25,1.0,strict,0
+Autophagy,GraphRAG-Gene,9,SARS-CoV-1 Infection,BECN1;MAP1LC3B,21.25,1.0,strict,0
+Autophagy,GraphRAG-Gene,10,SARS-CoV-2 Infection,BECN1;MAP1LC3B,21.25,1.0,strict,0
+ER_stress_UPR,Gene-only retrieval,1,Cellular responses to stimuli,ATF6;EIF2AK3;ERN1,3.0,0.7,strict,0
+ER_stress_UPR,Gene-only retrieval,2,Cellular responses to stress,ATF6;EIF2AK3;ERN1,3.0,0.7,strict,0
+ER_stress_UPR,Gene-only retrieval,3,PERK regulates gene expression,ATF6;EIF2AK3,2.0,0.85,strict,1
+ER_stress_UPR,Gene-only retrieval,4,Unfolded Protein Response (UPR),ATF6;ERN1,2.0,1.0,strict,1
+ER_stress_UPR,Gene-only retrieval,5,ALK mutants bind TKIs,EIF2AK3,1.0,1.0,strict,0
+ER_stress_UPR,Gene-only retrieval,6,ATF4 activates genes in response to endoplasmic reticulum  stress,ATF6,1.0,1.0,strict,0
+ER_stress_UPR,Gene-only retrieval,7,ATF6 (ATF6-alpha) activates chaperone genes,ATF6,1.0,1.0,strict,1
+ER_stress_UPR,Gene-only retrieval,8,ATF6 (ATF6-alpha) activates chaperones,ATF6,1.0,1.0,strict,1
+ER_stress_UPR,Gene-only retrieval,9,Cellular response to chemical stress,EIF2AK3,1.0,0.85,strict,0
+ER_stress_UPR,Gene-only retrieval,10,Disease,EIF2AK3,1.0,0.85,strict,0
+ER_stress_UPR,Pathway-only retrieval,1,Cellular responses to stimuli,ATF6;EIF2AK3;ERN1,3.0,0.7,strict,0
+ER_stress_UPR,Pathway-only retrieval,2,Cellular responses to stress,ATF6;EIF2AK3;ERN1,3.0,0.7,strict,0
+ER_stress_UPR,Pathway-only retrieval,3,Unfolded Protein Response (UPR),ATF6;EIF2AK3;ERN1,3.0,1.0,strict,1
+ER_stress_UPR,Pathway-only retrieval,4,PERK regulates gene expression,ATF6;EIF2AK3,2.0,0.85,strict,1
+ER_stress_UPR,Pathway-only retrieval,5,ALK mutants bind TKIs,EIF2AK3,1.0,1.0,strict,0
+ER_stress_UPR,Pathway-only retrieval,6,ATF4 activates genes in response to endoplasmic reticulum  stress,ATF6,1.0,1.0,strict,0
+ER_stress_UPR,Pathway-only retrieval,7,ATF6 (ATF6-alpha) activates chaperone genes,ATF6,1.0,1.0,strict,1
+ER_stress_UPR,Pathway-only retrieval,8,ATF6 (ATF6-alpha) activates chaperones,ATF6,1.0,1.0,strict,1
+ER_stress_UPR,Pathway-only retrieval,9,Cellular response to chemical stress,EIF2AK3,1.0,0.85,strict,0
+ER_stress_UPR,Pathway-only retrieval,10,Disease,EIF2AK3,1.0,0.85,strict,0
+ER_stress_UPR,GraphRAG-Gene,1,Unfolded Protein Response (UPR),ATF6;EIF2AK3;ERN1,31.0,1.0,strict,1
+ER_stress_UPR,GraphRAG-Gene,2,Cellular responses to stimuli,ATF6;EIF2AK3;ERN1,30.7,0.7,strict,0
+ER_stress_UPR,GraphRAG-Gene,3,Cellular responses to stress,ATF6;EIF2AK3;ERN1,30.7,0.7,strict,0
+ER_stress_UPR,GraphRAG-Gene,4,PERK regulates gene expression,ATF6;EIF2AK3,20.85,0.85,strict,1
+ER_stress_UPR,GraphRAG-Gene,5,ALK mutants bind TKIs,EIF2AK3,11.0,1.0,strict,0
+ER_stress_UPR,GraphRAG-Gene,6,ATF4 activates genes in response to endoplasmic reticulum  stress,ATF6,11.0,1.0,strict,0
+ER_stress_UPR,GraphRAG-Gene,7,ATF6 (ATF6-alpha) activates chaperone genes,ATF6,11.0,1.0,strict,1
+ER_stress_UPR,GraphRAG-Gene,8,ATF6 (ATF6-alpha) activates chaperones,ATF6,11.0,1.0,strict,1
+ER_stress_UPR,GraphRAG-Gene,9,IRE1alpha activates chaperones,ERN1,11.0,1.0,strict,1
+ER_stress_UPR,GraphRAG-Gene,10,KEAP1-NFE2L2 pathway,EIF2AK3,11.0,1.0,strict,0
+mTOR_signaling,Gene-only retrieval,1,Adaptive Immune System,MTOR;RICTOR,2.0,1.0,strict,0
+mTOR_signaling,Gene-only retrieval,2,Amino acids regulate mTORC1,MTOR;RPTOR,2.0,1.0,strict,1
+mTOR_signaling,Gene-only retrieval,3,Autophagy,MTOR;RPTOR,2.0,1.0,strict,0
+mTOR_signaling,Gene-only retrieval,4,CD28 co-stimulation,MTOR;RICTOR,2.0,1.0,strict,0
+mTOR_signaling,Gene-only retrieval,5,CD28 dependent PI3K/Akt signaling,MTOR;RICTOR,2.0,1.0,strict,1
+mTOR_signaling,Gene-only retrieval,6,Cellular response to heat stress,MTOR;RPTOR,2.0,0.85,strict,0
+mTOR_signaling,Gene-only retrieval,7,Cellular response to starvation,MTOR;RPTOR,2.0,0.85,strict,0
+mTOR_signaling,Gene-only retrieval,8,Cellular responses to stimuli,MTOR;RPTOR,2.0,0.7,strict,0
+mTOR_signaling,Gene-only retrieval,9,Cellular responses to stress,MTOR;RPTOR,2.0,0.7,strict,0
+mTOR_signaling,Gene-only retrieval,10,Constitutive Signaling by AKT1 E17K in Cancer,MTOR;RICTOR,2.0,1.0,strict,1
+mTOR_signaling,Pathway-only retrieval,1,Gene expression (Transcription),MTOR;RICTOR;RPTOR,3.0,0.7,strict,0
+mTOR_signaling,Pathway-only retrieval,2,Generic Transcription Pathway,MTOR;RICTOR;RPTOR,3.0,0.85,strict,0
+mTOR_signaling,Pathway-only retrieval,3,Intracellular signaling by second messengers,MTOR;RICTOR;RPTOR,3.0,1.0,strict,0
+mTOR_signaling,Pathway-only retrieval,4,PIP3 activates AKT signaling,MTOR;RICTOR;RPTOR,3.0,1.0,strict,1
+mTOR_signaling,Pathway-only retrieval,5,RNA Polymerase II Transcription,MTOR;RICTOR;RPTOR,3.0,0.85,strict,0
+mTOR_signaling,Pathway-only retrieval,6,Signal Transduction,MTOR;RICTOR;RPTOR,3.0,0.85,strict,0
+mTOR_signaling,Pathway-only retrieval,7,Transcriptional Regulation by TP53,MTOR;RICTOR;RPTOR,3.0,0.85,strict,0
+mTOR_signaling,Pathway-only retrieval,8,Adaptive Immune System,MTOR;RICTOR,2.0,1.0,strict,0
+mTOR_signaling,Pathway-only retrieval,9,Amino acids regulate mTORC1,MTOR;RPTOR,2.0,1.0,strict,1
+mTOR_signaling,Pathway-only retrieval,10,Autophagy,MTOR;RPTOR,2.0,1.0,strict,0
+mTOR_signaling,GraphRAG-Gene,1,Intracellular signaling by second messengers,MTOR;RICTOR;RPTOR,31.75,1.0,strict,0
+mTOR_signaling,GraphRAG-Gene,2,PIP3 activates AKT signaling,MTOR;RICTOR;RPTOR,31.75,1.0,strict,1
+mTOR_signaling,GraphRAG-Gene,3,Generic Transcription Pathway,MTOR;RICTOR;RPTOR,31.6,0.85,strict,0
+mTOR_signaling,GraphRAG-Gene,4,RNA Polymerase II Transcription,MTOR;RICTOR;RPTOR,31.6,0.85,strict,0
+mTOR_signaling,GraphRAG-Gene,5,Signal Transduction,MTOR;RICTOR;RPTOR,31.6,0.85,strict,0
+mTOR_signaling,GraphRAG-Gene,6,Transcriptional Regulation by TP53,MTOR;RICTOR;RPTOR,31.6,0.85,strict,0
+mTOR_signaling,GraphRAG-Gene,7,Gene expression (Transcription),MTOR;RICTOR;RPTOR,31.45,0.7,strict,0
+mTOR_signaling,GraphRAG-Gene,8,Adaptive Immune System,MTOR;RICTOR,21.25,1.0,strict,0
+mTOR_signaling,GraphRAG-Gene,9,Amino acids regulate mTORC1,MTOR;RPTOR,21.25,1.0,strict,1
+mTOR_signaling,GraphRAG-Gene,10,Autophagy,MTOR;RPTOR,21.25,1.0,strict,0
+VEGF_signaling,Gene-only retrieval,1,Disease,KDR;VEGFA,2.0,0.85,strict,0
+VEGF_signaling,Gene-only retrieval,2,Neurophilin interactions with VEGF and VEGFR,FLT1;KDR,2.0,1.0,strict,1
+VEGF_signaling,Gene-only retrieval,3,Signal Transduction,FLT1;KDR,2.0,0.85,strict,0
+VEGF_signaling,Gene-only retrieval,4,Signaling by Receptor Tyrosine Kinases,FLT1;KDR,2.0,1.0,strict,1
+VEGF_signaling,Gene-only retrieval,5,Signaling by VEGF,FLT1;KDR,2.0,1.0,strict,1
+VEGF_signaling,Gene-only retrieval,6,Cellular response to hypoxia,VEGFA,1.0,0.85,strict,0
+VEGF_signaling,Gene-only retrieval,7,Cellular responses to stimuli,VEGFA,1.0,0.7,strict,0
+VEGF_signaling,Gene-only retrieval,8,Cellular responses to stress,VEGFA,1.0,0.7,strict,0
+VEGF_signaling,Gene-only retrieval,9,Cytokine Signaling in Immune system,VEGFA,1.0,1.0,strict,0
+VEGF_signaling,Gene-only retrieval,10,Diseases of signal transduction by growth factor receptors and second messengers,KDR,1.0,0.55,strict,0
+VEGF_signaling,Pathway-only retrieval,1,Signal Transduction,FLT1;KDR;VEGFA,3.0,0.85,strict,0
+VEGF_signaling,Pathway-only retrieval,2,Signaling by Receptor Tyrosine Kinases,FLT1;KDR;VEGFA,3.0,1.0,strict,1
+VEGF_signaling,Pathway-only retrieval,3,Signaling by VEGF,FLT1;KDR;VEGFA,3.0,1.0,strict,1
+VEGF_signaling,Pathway-only retrieval,4,VEGF binds to VEGFR leading to receptor dimerization,FLT1;KDR;VEGFA,3.0,1.0,strict,1
+VEGF_signaling,Pathway-only retrieval,5,VEGF ligand-receptor interactions,FLT1;KDR;VEGFA,3.0,1.0,strict,1
+VEGF_signaling,Pathway-only retrieval,6,Disease,KDR;VEGFA,2.0,0.85,strict,0
+VEGF_signaling,Pathway-only retrieval,7,Neurophilin interactions with VEGF and VEGFR,FLT1;KDR,2.0,1.0,strict,1
+VEGF_signaling,Pathway-only retrieval,8,VEGFA-VEGFR2 Pathway,KDR;VEGFA,2.0,1.0,strict,1
+VEGF_signaling,Pathway-only retrieval,9,VEGFR2 mediated cell proliferation,KDR;VEGFA,2.0,1.0,strict,1
+VEGF_signaling,Pathway-only retrieval,10,Cellular response to hypoxia,VEGFA,1.0,0.85,strict,0
+VEGF_signaling,GraphRAG-Gene,1,Signaling by Receptor Tyrosine Kinases,FLT1;KDR;VEGFA,31.75,1.0,strict,1
+VEGF_signaling,GraphRAG-Gene,2,Signaling by VEGF,FLT1;KDR;VEGFA,31.75,1.0,strict,1
+VEGF_signaling,GraphRAG-Gene,3,VEGF binds to VEGFR leading to receptor dimerization,FLT1;KDR;VEGFA,31.75,1.0,strict,1
+VEGF_signaling,GraphRAG-Gene,4,VEGF ligand-receptor interactions,FLT1;KDR;VEGFA,31.75,1.0,strict,1
+VEGF_signaling,GraphRAG-Gene,5,Signal Transduction,FLT1;KDR;VEGFA,31.6,0.85,strict,0
+VEGF_signaling,GraphRAG-Gene,6,Neurophilin interactions with VEGF and VEGFR,FLT1;KDR,21.25,1.0,strict,1
+VEGF_signaling,GraphRAG-Gene,7,VEGFA-VEGFR2 Pathway,KDR;VEGFA,21.25,1.0,strict,1
+VEGF_signaling,GraphRAG-Gene,8,VEGFR2 mediated cell proliferation,KDR;VEGFA,21.25,1.0,strict,1
+VEGF_signaling,GraphRAG-Gene,9,Disease,KDR;VEGFA,21.1,0.85,strict,0
+VEGF_signaling,GraphRAG-Gene,10,Cytokine Signaling in Immune system,VEGFA,11.0,1.0,strict,0
+Integrin_signaling,Gene-only retrieval,1,Cell surface interactions at the vascular wall,FN1;ITGA5;ITGB1,3.0,1.0,strict,0
+Integrin_signaling,Gene-only retrieval,2,Axon guidance,ITGA5;ITGB1,2.0,1.0,strict,0
+Integrin_signaling,Gene-only retrieval,3,Cytokine Signaling in Immune system,FN1;ITGB1,2.0,1.0,strict,0
+Integrin_signaling,Gene-only retrieval,4,Developmental Biology,ITGA5;ITGB1,2.0,0.85,strict,0
+Integrin_signaling,Gene-only retrieval,5,Elastic fibre formation,FN1;ITGA5,2.0,1.0,strict,0
+Integrin_signaling,Gene-only retrieval,6,Extracellular matrix organization,FN1;ITGA5,2.0,1.0,strict,1
+Integrin_signaling,Gene-only retrieval,7,Fibronectin matrix formation,FN1;ITGA5,2.0,1.0,strict,0
+Integrin_signaling,Gene-only retrieval,8,Immune System,FN1;ITGB1,2.0,1.0,strict,0
+Integrin_signaling,Gene-only retrieval,9,Adaptive Immune System,ITGB1,1.0,1.0,strict,0
+Integrin_signaling,Gene-only retrieval,10,ALK mutants bind TKIs,FN1,1.0,1.0,strict,0
+Integrin_signaling,Pathway-only retrieval,1,Cell surface interactions at the vascular wall,FN1;ITGA5;ITGB1,3.0,1.0,strict,0
+Integrin_signaling,Pathway-only retrieval,2,Elastic fibre formation,FN1;ITGA5;ITGB1,3.0,1.0,strict,0
+Integrin_signaling,Pathway-only retrieval,3,Extracellular matrix organization,FN1;ITGA5;ITGB1,3.0,1.0,strict,1
+Integrin_signaling,Pathway-only retrieval,4,Fibronectin matrix formation,FN1;ITGA5;ITGB1,3.0,1.0,strict,0
+Integrin_signaling,Pathway-only retrieval,5,G alpha (s) signalling events,FN1;ITGA5;ITGB1,3.0,1.0,strict,0
+Integrin_signaling,Pathway-only retrieval,6,GPCR downstream signalling,FN1;ITGA5;ITGB1,3.0,1.0,strict,0
+Integrin_signaling,Pathway-only retrieval,7,GPER1 signaling,FN1;ITGA5;ITGB1,3.0,1.0,strict,0
+Integrin_signaling,Pathway-only retrieval,8,Hemostasis,FN1;ITGA5;ITGB1,3.0,1.0,strict,0
+Integrin_signaling,Pathway-only retrieval,9,Integrin cell surface interactions,FN1;ITGA5;ITGB1,3.0,1.0,strict,1
+Integrin_signaling,Pathway-only retrieval,10,Signal Transduction,FN1;ITGA5;ITGB1,3.0,0.85,strict,0
+Integrin_signaling,GraphRAG-Gene,1,Cell surface interactions at the vascular wall,FN1;ITGA5;ITGB1,31.75,1.0,strict,0
+Integrin_signaling,GraphRAG-Gene,2,Elastic fibre formation,FN1;ITGA5;ITGB1,31.75,1.0,strict,0
+Integrin_signaling,GraphRAG-Gene,3,Extracellular matrix organization,FN1;ITGA5;ITGB1,31.75,1.0,strict,1
+Integrin_signaling,GraphRAG-Gene,4,Fibronectin matrix formation,FN1;ITGA5;ITGB1,31.75,1.0,strict,0
+Integrin_signaling,GraphRAG-Gene,5,G alpha (s) signalling events,FN1;ITGA5;ITGB1,31.75,1.0,strict,0
+Integrin_signaling,GraphRAG-Gene,6,GPCR downstream signalling,FN1;ITGA5;ITGB1,31.75,1.0,strict,0
+Integrin_signaling,GraphRAG-Gene,7,GPER1 signaling,FN1;ITGA5;ITGB1,31.75,1.0,strict,0
+Integrin_signaling,GraphRAG-Gene,8,Hemostasis,FN1;ITGA5;ITGB1,31.75,1.0,strict,0
+Integrin_signaling,GraphRAG-Gene,9,Integrin cell surface interactions,FN1;ITGA5;ITGB1,31.75,1.0,strict,1
+Integrin_signaling,GraphRAG-Gene,10,Signaling by GPCR,FN1;ITGA5;ITGB1,31.75,1.0,strict,0
+ECM_organization,Gene-only retrieval,1,Collagen degradation,COL1A1;COL1A2;MMP2,3.0,1.0,strict,1
+ECM_organization,Gene-only retrieval,2,Immune System,COL1A1;COL1A2;MMP2,3.0,1.0,strict,0
+ECM_organization,Gene-only retrieval,3,Adaptive Immune System,COL1A1;COL1A2,2.0,1.0,strict,0
+ECM_organization,Gene-only retrieval,4,Anchoring fibril formation,COL1A1;COL1A2,2.0,1.0,strict,0
+ECM_organization,Gene-only retrieval,5,Assembly of collagen fibrils and other multimeric structures,COL1A1;COL1A2,2.0,1.0,strict,1
+ECM_organization,Gene-only retrieval,6,Binding and Uptake of Ligands by Scavenger Receptors,COL1A1;COL1A2,2.0,1.0,strict,0
+ECM_organization,Gene-only retrieval,7,Cell surface interactions at the vascular wall,COL1A1;COL1A2,2.0,1.0,strict,0
+ECM_organization,Gene-only retrieval,8,Collagen biosynthesis and modifying enzymes,COL1A1;COL1A2,2.0,1.0,strict,1
+ECM_organization,Gene-only retrieval,9,Collagen chain trimerization,COL1A1;COL1A2,2.0,1.0,strict,1
+ECM_organization,Gene-only retrieval,10,Collagen formation,COL1A1;COL1A2,2.0,1.0,strict,1
+ECM_organization,Pathway-only retrieval,1,Collagen degradation,COL1A1;COL1A2;MMP2,3.0,1.0,strict,1
+ECM_organization,Pathway-only retrieval,2,Degradation of the extracellular matrix,COL1A1;COL1A2;MMP2,3.0,1.0,strict,0
+ECM_organization,Pathway-only retrieval,3,Extracellular matrix organization,COL1A1;COL1A2;MMP2,3.0,1.0,strict,1
+ECM_organization,Pathway-only retrieval,4,Immune System,COL1A1;COL1A2;MMP2,3.0,1.0,strict,0
+ECM_organization,Pathway-only retrieval,5,Signal Transduction,COL1A1;COL1A2;MMP2,3.0,0.85,strict,0
+ECM_organization,Pathway-only retrieval,6,Adaptive Immune System,COL1A1;COL1A2,2.0,1.0,strict,0
+ECM_organization,Pathway-only retrieval,7,Anchoring fibril formation,COL1A1;COL1A2,2.0,1.0,strict,0
+ECM_organization,Pathway-only retrieval,8,Assembly of collagen fibrils and other multimeric structures,COL1A1;COL1A2,2.0,1.0,strict,1
+ECM_organization,Pathway-only retrieval,9,Binding and Uptake of Ligands by Scavenger Receptors,COL1A1;COL1A2,2.0,1.0,strict,0
+ECM_organization,Pathway-only retrieval,10,Cell surface interactions at the vascular wall,COL1A1;COL1A2,2.0,1.0,strict,0
+ECM_organization,GraphRAG-Gene,1,Collagen degradation,COL1A1;COL1A2;MMP2,31.5,1.0,strict,1
+ECM_organization,GraphRAG-Gene,2,Degradation of the extracellular matrix,COL1A1;COL1A2;MMP2,31.5,1.0,strict,0
+ECM_organization,GraphRAG-Gene,3,Extracellular matrix organization,COL1A1;COL1A2;MMP2,31.5,1.0,strict,1
+ECM_organization,GraphRAG-Gene,4,Immune System,COL1A1;COL1A2;MMP2,31.5,1.0,strict,0
+ECM_organization,GraphRAG-Gene,5,Signal Transduction,COL1A1;COL1A2;MMP2,31.35,0.85,strict,0
+ECM_organization,GraphRAG-Gene,6,Adaptive Immune System,COL1A1;COL1A2,21.25,1.0,strict,0
+ECM_organization,GraphRAG-Gene,7,Anchoring fibril formation,COL1A1;COL1A2,21.25,1.0,strict,0
+ECM_organization,GraphRAG-Gene,8,Assembly of collagen fibrils and other multimeric structures,COL1A1;COL1A2,21.25,1.0,strict,1
+ECM_organization,GraphRAG-Gene,9,Binding and Uptake of Ligands by Scavenger Receptors,COL1A1;COL1A2,21.25,1.0,strict,0
+ECM_organization,GraphRAG-Gene,10,Cell surface interactions at the vascular wall,COL1A1;COL1A2,21.25,1.0,strict,0
+Chromatin_modification,Gene-only retrieval,1,Activation of anterior HOX genes in hindbrain development during early embryogenesis,EED;EZH2;SUZ12,3.0,1.0,strict,0
+Chromatin_modification,Gene-only retrieval,2,Activation of HOX genes during differentiation,EED;EZH2;SUZ12,3.0,1.0,strict,0
+Chromatin_modification,Gene-only retrieval,3,Cellular responses to stimuli,EED;EZH2;SUZ12,3.0,0.7,strict,0
+Chromatin_modification,Gene-only retrieval,4,Cellular responses to stress,EED;EZH2;SUZ12,3.0,0.7,strict,0
+Chromatin_modification,Gene-only retrieval,5,Cellular Senescence,EED;EZH2;SUZ12,3.0,1.0,strict,0
+Chromatin_modification,Gene-only retrieval,6,Chromatin modifying enzymes,EED;EZH2;SUZ12,3.0,1.0,strict,1
+Chromatin_modification,Gene-only retrieval,7,Chromatin organization,EED;EZH2;SUZ12,3.0,1.0,strict,1
+Chromatin_modification,Gene-only retrieval,8,Defective pyroptosis,EED;EZH2;SUZ12,3.0,1.0,strict,0
+Chromatin_modification,Gene-only retrieval,9,Developmental Biology,EED;EZH2;SUZ12,3.0,0.85,strict,0
+Chromatin_modification,Gene-only retrieval,10,Disease,EED;EZH2;SUZ12,3.0,0.85,strict,0
+Chromatin_modification,Pathway-only retrieval,1,Activation of anterior HOX genes in hindbrain development during early embryogenesis,EED;EZH2;SUZ12,3.0,1.0,strict,0
+Chromatin_modification,Pathway-only retrieval,2,Activation of HOX genes during differentiation,EED;EZH2;SUZ12,3.0,1.0,strict,0
+Chromatin_modification,Pathway-only retrieval,3,Cellular responses to stimuli,EED;EZH2;SUZ12,3.0,0.7,strict,0
+Chromatin_modification,Pathway-only retrieval,4,Cellular responses to stress,EED;EZH2;SUZ12,3.0,0.7,strict,0
+Chromatin_modification,Pathway-only retrieval,5,Cellular Senescence,EED;EZH2;SUZ12,3.0,1.0,strict,0
+Chromatin_modification,Pathway-only retrieval,6,Chromatin modifying enzymes,EED;EZH2;SUZ12,3.0,1.0,strict,1
+Chromatin_modification,Pathway-only retrieval,7,Chromatin organization,EED;EZH2;SUZ12,3.0,1.0,strict,1
+Chromatin_modification,Pathway-only retrieval,8,Defective pyroptosis,EED;EZH2;SUZ12,3.0,1.0,strict,0
+Chromatin_modification,Pathway-only retrieval,9,Developmental Biology,EED;EZH2;SUZ12,3.0,0.85,strict,0
+Chromatin_modification,Pathway-only retrieval,10,Disease,EED;EZH2;SUZ12,3.0,0.85,strict,0
+Chromatin_modification,GraphRAG-Gene,1,Activation of anterior HOX genes in hindbrain development during early embryogenesis,EED;EZH2;SUZ12,31.75,1.0,strict,0
+Chromatin_modification,GraphRAG-Gene,2,Activation of HOX genes during differentiation,EED;EZH2;SUZ12,31.75,1.0,strict,0
+Chromatin_modification,GraphRAG-Gene,3,Cellular Senescence,EED;EZH2;SUZ12,31.75,1.0,strict,0
+Chromatin_modification,GraphRAG-Gene,4,Chromatin modifying enzymes,EED;EZH2;SUZ12,31.75,1.0,strict,1
+Chromatin_modification,GraphRAG-Gene,5,Chromatin organization,EED;EZH2;SUZ12,31.75,1.0,strict,1
+Chromatin_modification,GraphRAG-Gene,6,Defective pyroptosis,EED;EZH2;SUZ12,31.75,1.0,strict,0
+Chromatin_modification,GraphRAG-Gene,7,HCMV Early Events,EED;EZH2;SUZ12,31.75,1.0,strict,0
+Chromatin_modification,GraphRAG-Gene,8,HCMV Infection,EED;EZH2;SUZ12,31.75,1.0,strict,0
+Chromatin_modification,GraphRAG-Gene,9,Intracellular signaling by second messengers,EED;EZH2;SUZ12,31.75,1.0,strict,0
+Chromatin_modification,GraphRAG-Gene,10,Oxidative Stress Induced Senescence,EED;EZH2;SUZ12,31.75,1.0,strict,0
+RNA_polymerase_II,Gene-only retrieval,1,Abortive elongation of HIV-1 transcript in the absence of Tat,POLR2A;POLR2B;POLR2C,3.0,1.0,strict,0
+RNA_polymerase_II,Gene-only retrieval,2,Activation of anterior HOX genes in hindbrain development during early embryogenesis,POLR2A;POLR2B;POLR2C,3.0,1.0,strict,0
+RNA_polymerase_II,Gene-only retrieval,3,Activation of HOX genes during differentiation,POLR2A;POLR2B;POLR2C,3.0,1.0,strict,0
+RNA_polymerase_II,Gene-only retrieval,4,Cell Cycle,POLR2A;POLR2B;POLR2C,3.0,1.0,strict,0
+RNA_polymerase_II,Gene-only retrieval,5,Chromosome Maintenance,POLR2A;POLR2B;POLR2C,3.0,1.0,strict,0
+RNA_polymerase_II,Gene-only retrieval,6,Developmental Biology,POLR2A;POLR2B;POLR2C,3.0,0.85,strict,0
+RNA_polymerase_II,Gene-only retrieval,7,Disease,POLR2A;POLR2B;POLR2C,3.0,0.85,strict,0
+RNA_polymerase_II,Gene-only retrieval,8,Diseases of signal transduction by growth factor receptors and second messengers,POLR2A;POLR2B;POLR2C,3.0,0.55,strict,0
+RNA_polymerase_II,Gene-only retrieval,9,DNA Repair,POLR2A;POLR2B;POLR2C,3.0,1.0,strict,0
+RNA_polymerase_II,Gene-only retrieval,10,Dual incision in TC-NER,POLR2A;POLR2B;POLR2C,3.0,1.0,strict,0
+RNA_polymerase_II,Pathway-only retrieval,1,Abortive elongation of HIV-1 transcript in the absence of Tat,POLR2A;POLR2B;POLR2C,3.0,1.0,strict,0
+RNA_polymerase_II,Pathway-only retrieval,2,Activation of anterior HOX genes in hindbrain development during early embryogenesis,POLR2A;POLR2B;POLR2C,3.0,1.0,strict,0
+RNA_polymerase_II,Pathway-only retrieval,3,Activation of HOX genes during differentiation,POLR2A;POLR2B;POLR2C,3.0,1.0,strict,0
+RNA_polymerase_II,Pathway-only retrieval,4,Cell Cycle,POLR2A;POLR2B;POLR2C,3.0,1.0,strict,0
+RNA_polymerase_II,Pathway-only retrieval,5,Chromosome Maintenance,POLR2A;POLR2B;POLR2C,3.0,1.0,strict,0
+RNA_polymerase_II,Pathway-only retrieval,6,Developmental Biology,POLR2A;POLR2B;POLR2C,3.0,0.85,strict,0
+RNA_polymerase_II,Pathway-only retrieval,7,Disease,POLR2A;POLR2B;POLR2C,3.0,0.85,strict,0
+RNA_polymerase_II,Pathway-only retrieval,8,Diseases of signal transduction by growth factor receptors and second messengers,POLR2A;POLR2B;POLR2C,3.0,0.55,strict,0
+RNA_polymerase_II,Pathway-only retrieval,9,DNA Repair,POLR2A;POLR2B;POLR2C,3.0,1.0,strict,0
+RNA_polymerase_II,Pathway-only retrieval,10,Dual incision in TC-NER,POLR2A;POLR2B;POLR2C,3.0,1.0,strict,0
+RNA_polymerase_II,GraphRAG-Gene,1,Abortive elongation of HIV-1 transcript in the absence of Tat,POLR2A;POLR2B;POLR2C,31.75,1.0,strict,0
+RNA_polymerase_II,GraphRAG-Gene,2,Activation of anterior HOX genes in hindbrain development during early embryogenesis,POLR2A;POLR2B;POLR2C,31.75,1.0,strict,0
+RNA_polymerase_II,GraphRAG-Gene,3,Activation of HOX genes during differentiation,POLR2A;POLR2B;POLR2C,31.75,1.0,strict,0
+RNA_polymerase_II,GraphRAG-Gene,4,Cell Cycle,POLR2A;POLR2B;POLR2C,31.75,1.0,strict,0
+RNA_polymerase_II,GraphRAG-Gene,5,Chromosome Maintenance,POLR2A;POLR2B;POLR2C,31.75,1.0,strict,0
+RNA_polymerase_II,GraphRAG-Gene,6,DNA Repair,POLR2A;POLR2B;POLR2C,31.75,1.0,strict,0
+RNA_polymerase_II,GraphRAG-Gene,7,Dual incision in TC-NER,POLR2A;POLR2B;POLR2C,31.75,1.0,strict,0
+RNA_polymerase_II,GraphRAG-Gene,8,ESR-mediated signaling,POLR2A;POLR2B;POLR2C,31.75,1.0,strict,0
+RNA_polymerase_II,GraphRAG-Gene,9,FGFR2 alternative splicing,POLR2A;POLR2B;POLR2C,31.75,1.0,strict,0
+RNA_polymerase_II,GraphRAG-Gene,10,FGFR2 mutant receptor activation,POLR2A;POLR2B;POLR2C,31.75,1.0,strict,0
+Translation_initiation,Gene-only retrieval,1,"Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S",EIF2S1;EIF4E;EIF4G1,3.0,1.0,strict,0
+Translation_initiation,Gene-only retrieval,2,Antiviral mechanism by IFN-stimulated genes,EIF2S1;EIF4E;EIF4G1,3.0,1.0,strict,0
+Translation_initiation,Gene-only retrieval,3,Cap-dependent Translation Initiation,EIF2S1;EIF4E;EIF4G1,3.0,1.0,strict,1
+Translation_initiation,Gene-only retrieval,4,Cytokine Signaling in Immune system,EIF2S1;EIF4E;EIF4G1,3.0,1.0,strict,0
+Translation_initiation,Gene-only retrieval,5,Eukaryotic Translation Initiation,EIF2S1;EIF4E;EIF4G1,3.0,1.0,strict,1
+Translation_initiation,Gene-only retrieval,6,Immune System,EIF2S1;EIF4E;EIF4G1,3.0,1.0,strict,0
+Translation_initiation,Gene-only retrieval,7,Translation,EIF2S1;EIF4E;EIF4G1,3.0,1.0,strict,1
+Translation_initiation,Gene-only retrieval,8,Deadenylation of mRNA,EIF4E;EIF4G1,2.0,1.0,strict,0
+Translation_initiation,Gene-only retrieval,9,Deadenylation-dependent mRNA decay,EIF4E;EIF4G1,2.0,1.0,strict,0
+Translation_initiation,Gene-only retrieval,10,Developmental Biology,EIF4E;EIF4G1,2.0,0.85,strict,0
+Translation_initiation,Pathway-only retrieval,1,"Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S",EIF2S1;EIF4E;EIF4G1,3.0,1.0,strict,0
+Translation_initiation,Pathway-only retrieval,2,Antiviral mechanism by IFN-stimulated genes,EIF2S1;EIF4E;EIF4G1,3.0,1.0,strict,0
+Translation_initiation,Pathway-only retrieval,3,Cap-dependent Translation Initiation,EIF2S1;EIF4E;EIF4G1,3.0,1.0,strict,1
+Translation_initiation,Pathway-only retrieval,4,Cytokine Signaling in Immune system,EIF2S1;EIF4E;EIF4G1,3.0,1.0,strict,0
+Translation_initiation,Pathway-only retrieval,5,Eukaryotic Translation Initiation,EIF2S1;EIF4E;EIF4G1,3.0,1.0,strict,1
+Translation_initiation,Pathway-only retrieval,6,GTP hydrolysis and joining of the 60S ribosomal subunit,EIF2S1;EIF4E;EIF4G1,3.0,1.0,strict,0
+Translation_initiation,Pathway-only retrieval,7,Immune System,EIF2S1;EIF4E;EIF4G1,3.0,1.0,strict,0
+Translation_initiation,Pathway-only retrieval,8,Interferon Signaling,EIF2S1;EIF4E;EIF4G1,3.0,1.0,strict,0
+Translation_initiation,Pathway-only retrieval,9,L13a-mediated translational silencing of Ceruloplasmin expression,EIF2S1;EIF4E;EIF4G1,3.0,1.0,strict,1
+Translation_initiation,Pathway-only retrieval,10,Metabolism of proteins,EIF2S1;EIF4E;EIF4G1,3.0,0.85,strict,0
+Translation_initiation,GraphRAG-Gene,1,"Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S",EIF2S1;EIF4E;EIF4G1,31.75,1.0,strict,0
+Translation_initiation,GraphRAG-Gene,2,Antiviral mechanism by IFN-stimulated genes,EIF2S1;EIF4E;EIF4G1,31.75,1.0,strict,0
+Translation_initiation,GraphRAG-Gene,3,Cap-dependent Translation Initiation,EIF2S1;EIF4E;EIF4G1,31.75,1.0,strict,1
+Translation_initiation,GraphRAG-Gene,4,Cytokine Signaling in Immune system,EIF2S1;EIF4E;EIF4G1,31.75,1.0,strict,0
+Translation_initiation,GraphRAG-Gene,5,Eukaryotic Translation Initiation,EIF2S1;EIF4E;EIF4G1,31.75,1.0,strict,1
+Translation_initiation,GraphRAG-Gene,6,GTP hydrolysis and joining of the 60S ribosomal subunit,EIF2S1;EIF4E;EIF4G1,31.75,1.0,strict,0
+Translation_initiation,GraphRAG-Gene,7,Immune System,EIF2S1;EIF4E;EIF4G1,31.75,1.0,strict,0
+Translation_initiation,GraphRAG-Gene,8,Interferon Signaling,EIF2S1;EIF4E;EIF4G1,31.75,1.0,strict,0
+Translation_initiation,GraphRAG-Gene,9,L13a-mediated translational silencing of Ceruloplasmin expression,EIF2S1;EIF4E;EIF4G1,31.75,1.0,strict,1
+Translation_initiation,GraphRAG-Gene,10,Ribosomal scanning and start codon recognition,EIF2S1;EIF4E;EIF4G1,31.75,1.0,strict,0
+Proteasome_degradation,Gene-only retrieval,1,ABC transporter disorders,PSMA1;PSMB5;PSMC1,3.0,1.0,strict,0
+Proteasome_degradation,Gene-only retrieval,2,ABC-family proteins mediated transport,PSMA1;PSMB5;PSMC1,3.0,1.0,strict,0
+Proteasome_degradation,Gene-only retrieval,3,Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,PSMA1;PSMB5;PSMC1,3.0,1.0,strict,0
+Proteasome_degradation,Gene-only retrieval,4,Activation of NF-kappaB in B cells,PSMA1;PSMB5;PSMC1,3.0,1.0,strict,0
+Proteasome_degradation,Gene-only retrieval,5,APC/C-mediated degradation of cell cycle proteins,PSMA1;PSMB5;PSMC1,3.0,1.0,strict,0
+Proteasome_degradation,Gene-only retrieval,6,APC/C:Cdc20 mediated degradation of mitotic proteins,PSMA1;PSMB5;PSMC1,3.0,1.0,strict,0
+Proteasome_degradation,Gene-only retrieval,7,APC/C:Cdc20 mediated degradation of Securin,PSMA1;PSMB5;PSMC1,3.0,1.0,strict,0
+Proteasome_degradation,Gene-only retrieval,8,APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1,PSMA1;PSMB5;PSMC1,3.0,1.0,strict,0
+Proteasome_degradation,Gene-only retrieval,9,APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint,PSMA1;PSMB5;PSMC1,3.0,1.0,strict,0
+Proteasome_degradation,Gene-only retrieval,10,AUF1 (hnRNP D0) binds and destabilizes mRNA,PSMA1;PSMB5;PSMC1,3.0,1.0,strict,0
+Proteasome_degradation,Pathway-only retrieval,1,ABC transporter disorders,PSMA1;PSMB5;PSMC1,3.0,1.0,strict,0
+Proteasome_degradation,Pathway-only retrieval,2,ABC-family proteins mediated transport,PSMA1;PSMB5;PSMC1,3.0,1.0,strict,0
+Proteasome_degradation,Pathway-only retrieval,3,Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,PSMA1;PSMB5;PSMC1,3.0,1.0,strict,0
+Proteasome_degradation,Pathway-only retrieval,4,Activation of NF-kappaB in B cells,PSMA1;PSMB5;PSMC1,3.0,1.0,strict,0
+Proteasome_degradation,Pathway-only retrieval,5,Adaptive Immune System,PSMA1;PSMB5;PSMC1,3.0,1.0,strict,0
+Proteasome_degradation,Pathway-only retrieval,6,Antigen processing-Cross presentation,PSMA1;PSMB5;PSMC1,3.0,1.0,strict,0
+Proteasome_degradation,Pathway-only retrieval,7,Antigen processing: Ubiquitination & Proteasome degradation,PSMA1;PSMB5;PSMC1,3.0,1.0,strict,1
+Proteasome_degradation,Pathway-only retrieval,8,APC/C-mediated degradation of cell cycle proteins,PSMA1;PSMB5;PSMC1,3.0,1.0,strict,0
+Proteasome_degradation,Pathway-only retrieval,9,APC/C:Cdc20 mediated degradation of mitotic proteins,PSMA1;PSMB5;PSMC1,3.0,1.0,strict,0
+Proteasome_degradation,Pathway-only retrieval,10,APC/C:Cdc20 mediated degradation of Securin,PSMA1;PSMB5;PSMC1,3.0,1.0,strict,0
+Proteasome_degradation,GraphRAG-Gene,1,ABC transporter disorders,PSMA1;PSMB5;PSMC1,31.75,1.0,strict,0
+Proteasome_degradation,GraphRAG-Gene,2,ABC-family proteins mediated transport,PSMA1;PSMB5;PSMC1,31.75,1.0,strict,0
+Proteasome_degradation,GraphRAG-Gene,3,Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,PSMA1;PSMB5;PSMC1,31.75,1.0,strict,0
+Proteasome_degradation,GraphRAG-Gene,4,Activation of NF-kappaB in B cells,PSMA1;PSMB5;PSMC1,31.75,1.0,strict,0
+Proteasome_degradation,GraphRAG-Gene,5,Adaptive Immune System,PSMA1;PSMB5;PSMC1,31.75,1.0,strict,0
+Proteasome_degradation,GraphRAG-Gene,6,Antigen processing-Cross presentation,PSMA1;PSMB5;PSMC1,31.75,1.0,strict,0
+Proteasome_degradation,GraphRAG-Gene,7,Antigen processing: Ubiquitination & Proteasome degradation,PSMA1;PSMB5;PSMC1,31.75,1.0,strict,1
+Proteasome_degradation,GraphRAG-Gene,8,APC/C-mediated degradation of cell cycle proteins,PSMA1;PSMB5;PSMC1,31.75,1.0,strict,0
+Proteasome_degradation,GraphRAG-Gene,9,APC/C:Cdc20 mediated degradation of mitotic proteins,PSMA1;PSMB5;PSMC1,31.75,1.0,strict,0
+Proteasome_degradation,GraphRAG-Gene,10,APC/C:Cdc20 mediated degradation of Securin,PSMA1;PSMB5;PSMC1,31.75,1.0,strict,0
+DNA_replication,Gene-only retrieval,1,Cell Cycle,MCM2;MCM4;PCNA,3.0,1.0,strict,1
+DNA_replication,Gene-only retrieval,2,"Cell Cycle, Mitotic",MCM2;MCM4;PCNA,3.0,1.0,strict,1
+DNA_replication,Gene-only retrieval,3,DNA Replication,MCM2;MCM4;PCNA,3.0,1.0,strict,1
+DNA_replication,Gene-only retrieval,4,DNA strand elongation,MCM2;MCM4;PCNA,3.0,1.0,strict,0
+DNA_replication,Gene-only retrieval,5,Activation of ATR in response to replication stress,MCM2;MCM4,2.0,1.0,strict,0
+DNA_replication,Gene-only retrieval,6,Activation of the pre-replicative complex,MCM2;MCM4,2.0,1.0,strict,0
+DNA_replication,Gene-only retrieval,7,Assembly of the pre-replicative complex,MCM2;MCM4,2.0,1.0,strict,0
+DNA_replication,Gene-only retrieval,8,Cell Cycle Checkpoints,MCM2;MCM4,2.0,1.0,strict,1
+DNA_replication,Gene-only retrieval,9,DNA Replication Pre-Initiation,MCM2;MCM4,2.0,1.0,strict,1
+DNA_replication,Gene-only retrieval,10,G1/S Transition,MCM2;MCM4,2.0,1.0,strict,0
+DNA_replication,Pathway-only retrieval,1,Cell Cycle,MCM2;MCM4;PCNA,3.0,1.0,strict,1
+DNA_replication,Pathway-only retrieval,2,"Cell Cycle, Mitotic",MCM2;MCM4;PCNA,3.0,1.0,strict,1
+DNA_replication,Pathway-only retrieval,3,DNA Replication,MCM2;MCM4;PCNA,3.0,1.0,strict,1
+DNA_replication,Pathway-only retrieval,4,DNA strand elongation,MCM2;MCM4;PCNA,3.0,1.0,strict,0
+DNA_replication,Pathway-only retrieval,5,G1/S Transition,MCM2;MCM4;PCNA,3.0,1.0,strict,0
+DNA_replication,Pathway-only retrieval,6,Mitotic G1 phase and G1/S transition,MCM2;MCM4;PCNA,3.0,1.0,strict,0
+DNA_replication,Pathway-only retrieval,7,S Phase,MCM2;MCM4;PCNA,3.0,1.0,strict,0
+DNA_replication,Pathway-only retrieval,8,Synthesis of DNA,MCM2;MCM4;PCNA,3.0,1.0,strict,1
+DNA_replication,Pathway-only retrieval,9,Activation of ATR in response to replication stress,MCM2;MCM4,2.0,1.0,strict,0
+DNA_replication,Pathway-only retrieval,10,Activation of the pre-replicative complex,MCM2;MCM4,2.0,1.0,strict,0
+DNA_replication,GraphRAG-Gene,1,Cell Cycle,MCM2;MCM4;PCNA,31.5,1.0,strict,1
+DNA_replication,GraphRAG-Gene,2,"Cell Cycle, Mitotic",MCM2;MCM4;PCNA,31.5,1.0,strict,1
+DNA_replication,GraphRAG-Gene,3,DNA Replication,MCM2;MCM4;PCNA,31.5,1.0,strict,1
+DNA_replication,GraphRAG-Gene,4,DNA strand elongation,MCM2;MCM4;PCNA,31.5,1.0,strict,0
+DNA_replication,GraphRAG-Gene,5,G1/S Transition,MCM2;MCM4;PCNA,31.5,1.0,strict,0
+DNA_replication,GraphRAG-Gene,6,Mitotic G1 phase and G1/S transition,MCM2;MCM4;PCNA,31.5,1.0,strict,0
+DNA_replication,GraphRAG-Gene,7,S Phase,MCM2;MCM4;PCNA,31.5,1.0,strict,0
+DNA_replication,GraphRAG-Gene,8,Synthesis of DNA,MCM2;MCM4;PCNA,31.5,1.0,strict,1
+DNA_replication,GraphRAG-Gene,9,Activation of ATR in response to replication stress,MCM2;MCM4,21.25,1.0,strict,0
+DNA_replication,GraphRAG-Gene,10,Activation of the pre-replicative complex,MCM2;MCM4,21.25,1.0,strict,0
+Mismatch_repair,Gene-only retrieval,1,Disease,MLH1;MSH2;MSH6,3.0,0.85,strict,0
+Mismatch_repair,Gene-only retrieval,2,Diseases of DNA repair,MLH1;MSH2;MSH6,3.0,0.7,strict,1
+Mismatch_repair,Gene-only retrieval,3,Diseases of Mismatch Repair (MMR),MLH1;MSH2;MSH6,3.0,0.7,strict,1
+Mismatch_repair,Gene-only retrieval,4,DNA Repair,MLH1;MSH2;MSH6,3.0,1.0,strict,1
+Mismatch_repair,Gene-only retrieval,5,Mismatch Repair,MLH1;MSH2;MSH6,3.0,1.0,strict,1
+Mismatch_repair,Gene-only retrieval,6,Defective Mismatch Repair Associated With MSH2,MSH2;MSH6,2.0,1.0,strict,1
+Mismatch_repair,Gene-only retrieval,7,Defective Mismatch Repair Associated With MSH6,MSH2;MSH6,2.0,1.0,strict,1
+Mismatch_repair,Gene-only retrieval,8,Gene expression (Transcription),MLH1;MSH2,2.0,0.7,strict,0
+Mismatch_repair,Gene-only retrieval,9,Generic Transcription Pathway,MLH1;MSH2,2.0,0.85,strict,0
+Mismatch_repair,Gene-only retrieval,10,Cell Cycle,MLH1,1.0,1.0,strict,0
+Mismatch_repair,Pathway-only retrieval,1,Disease,MLH1;MSH2;MSH6,3.0,0.85,strict,0
+Mismatch_repair,Pathway-only retrieval,2,Diseases of DNA repair,MLH1;MSH2;MSH6,3.0,0.7,strict,1
+Mismatch_repair,Pathway-only retrieval,3,Diseases of Mismatch Repair (MMR),MLH1;MSH2;MSH6,3.0,0.7,strict,1
+Mismatch_repair,Pathway-only retrieval,4,DNA Repair,MLH1;MSH2;MSH6,3.0,1.0,strict,1
+Mismatch_repair,Pathway-only retrieval,5,Mismatch Repair,MLH1;MSH2;MSH6,3.0,1.0,strict,1
+Mismatch_repair,Pathway-only retrieval,6,Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha),MLH1;MSH2;MSH6,3.0,1.0,strict,1
+Mismatch_repair,Pathway-only retrieval,7,Defective Mismatch Repair Associated With MSH2,MSH2;MSH6,2.0,1.0,strict,1
+Mismatch_repair,Pathway-only retrieval,8,Defective Mismatch Repair Associated With MSH6,MSH2;MSH6,2.0,1.0,strict,1
+Mismatch_repair,Pathway-only retrieval,9,Gene expression (Transcription),MLH1;MSH2,2.0,0.7,strict,0
+Mismatch_repair,Pathway-only retrieval,10,Generic Transcription Pathway,MLH1;MSH2,2.0,0.85,strict,0
+Mismatch_repair,GraphRAG-Gene,1,DNA Repair,MLH1;MSH2;MSH6,31.75,1.0,strict,1
+Mismatch_repair,GraphRAG-Gene,2,Mismatch Repair,MLH1;MSH2;MSH6,31.75,1.0,strict,1
+Mismatch_repair,GraphRAG-Gene,3,Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha),MLH1;MSH2;MSH6,31.75,1.0,strict,1
+Mismatch_repair,GraphRAG-Gene,4,Disease,MLH1;MSH2;MSH6,31.6,0.85,strict,0
+Mismatch_repair,GraphRAG-Gene,5,Diseases of DNA repair,MLH1;MSH2;MSH6,31.45,0.7,strict,1
+Mismatch_repair,GraphRAG-Gene,6,Diseases of Mismatch Repair (MMR),MLH1;MSH2;MSH6,31.45,0.7,strict,1
+Mismatch_repair,GraphRAG-Gene,7,Defective Mismatch Repair Associated With MSH2,MSH2;MSH6,21.25,1.0,strict,1
+Mismatch_repair,GraphRAG-Gene,8,Defective Mismatch Repair Associated With MSH6,MSH2;MSH6,21.25,1.0,strict,1
+Mismatch_repair,GraphRAG-Gene,9,Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta),MLH1;MSH2,21.25,1.0,strict,1
+Mismatch_repair,GraphRAG-Gene,10,Generic Transcription Pathway,MLH1;MSH2,21.1,0.85,strict,0
+Base_excision_repair,Gene-only retrieval,1,APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway,OGG1;XRCC1,2.0,1.0,strict,0
+Base_excision_repair,Gene-only retrieval,2,Base Excision Repair,OGG1;XRCC1,2.0,1.0,strict,1
+Base_excision_repair,Gene-only retrieval,3,DNA Repair,OGG1;XRCC1,2.0,1.0,strict,1
+Base_excision_repair,Gene-only retrieval,4,"Base-Excision Repair, AP Site Formation",OGG1,1.0,1.0,strict,0
+Base_excision_repair,Gene-only retrieval,5,Cleavage of the damaged purine,OGG1,1.0,1.0,strict,0
+Base_excision_repair,Gene-only retrieval,6,Cleavage of the damaged pyrimidine,OGG1,1.0,1.0,strict,0
+Base_excision_repair,Gene-only retrieval,7,Defective Base Excision Repair Associated with OGG1,OGG1,1.0,1.0,strict,1
+Base_excision_repair,Gene-only retrieval,8,Defective OGG1 Localization,OGG1,1.0,1.0,strict,0
+Base_excision_repair,Gene-only retrieval,9,Defective OGG1 Substrate Binding,OGG1,1.0,1.0,strict,0
+Base_excision_repair,Gene-only retrieval,10,Defective OGG1 Substrate Processing,OGG1,1.0,1.0,strict,0
+Base_excision_repair,Pathway-only retrieval,1,APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway,OGG1;XRCC1,2.0,1.0,strict,0
+Base_excision_repair,Pathway-only retrieval,2,Base Excision Repair,OGG1;XRCC1,2.0,1.0,strict,1
+Base_excision_repair,Pathway-only retrieval,3,DNA Repair,OGG1;XRCC1,2.0,1.0,strict,1
+Base_excision_repair,Pathway-only retrieval,4,Resolution of Abasic Sites (AP sites),OGG1;XRCC1,2.0,1.0,strict,0
+Base_excision_repair,Pathway-only retrieval,5,"Base-Excision Repair, AP Site Formation",OGG1,1.0,1.0,strict,0
+Base_excision_repair,Pathway-only retrieval,6,Cleavage of the damaged purine,OGG1,1.0,1.0,strict,0
+Base_excision_repair,Pathway-only retrieval,7,Cleavage of the damaged pyrimidine,OGG1,1.0,1.0,strict,0
+Base_excision_repair,Pathway-only retrieval,8,Defective Base Excision Repair Associated with OGG1,OGG1,1.0,1.0,strict,1
+Base_excision_repair,Pathway-only retrieval,9,Defective OGG1 Localization,OGG1,1.0,1.0,strict,0
+Base_excision_repair,Pathway-only retrieval,10,Defective OGG1 Substrate Binding,OGG1,1.0,1.0,strict,0
+Base_excision_repair,GraphRAG-Gene,1,APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway,OGG1;XRCC1,21.25,1.0,strict,0
+Base_excision_repair,GraphRAG-Gene,2,Base Excision Repair,OGG1;XRCC1,21.25,1.0,strict,1
+Base_excision_repair,GraphRAG-Gene,3,DNA Repair,OGG1;XRCC1,21.25,1.0,strict,1
+Base_excision_repair,GraphRAG-Gene,4,Resolution of Abasic Sites (AP sites),OGG1;XRCC1,21.25,1.0,strict,0
+Base_excision_repair,GraphRAG-Gene,5,"Base-Excision Repair, AP Site Formation",OGG1,11.0,1.0,strict,0
+Base_excision_repair,GraphRAG-Gene,6,Cleavage of the damaged purine,OGG1,11.0,1.0,strict,0
+Base_excision_repair,GraphRAG-Gene,7,Cleavage of the damaged pyrimidine,OGG1,11.0,1.0,strict,0
+Base_excision_repair,GraphRAG-Gene,8,Defective Base Excision Repair Associated with OGG1,OGG1,11.0,1.0,strict,1
+Base_excision_repair,GraphRAG-Gene,9,Defective OGG1 Localization,OGG1,11.0,1.0,strict,0
+Base_excision_repair,GraphRAG-Gene,10,Defective OGG1 Substrate Binding,OGG1,11.0,1.0,strict,0
+Nucleotide_excision_repair,Gene-only retrieval,1,DNA Repair,ERCC2;ERCC3;XPA,3.0,1.0,strict,1
+Nucleotide_excision_repair,Gene-only retrieval,2,Dual Incision in GG-NER,ERCC2;ERCC3;XPA,3.0,1.0,strict,1
+Nucleotide_excision_repair,Gene-only retrieval,3,Dual incision in TC-NER,ERCC2;ERCC3;XPA,3.0,1.0,strict,1
+Nucleotide_excision_repair,Gene-only retrieval,4,Formation of Incision Complex in GG-NER,ERCC2;ERCC3;XPA,3.0,1.0,strict,1
+Nucleotide_excision_repair,Gene-only retrieval,5,Disease,ERCC2;ERCC3,2.0,0.85,strict,0
+Nucleotide_excision_repair,Gene-only retrieval,6,Epigenetic regulation of gene expression,ERCC2;ERCC3,2.0,0.85,strict,0
+Nucleotide_excision_repair,Gene-only retrieval,7,Formation of HIV elongation complex in the absence of HIV Tat,ERCC2;ERCC3,2.0,1.0,strict,0
+Nucleotide_excision_repair,Gene-only retrieval,8,Formation of HIV-1 elongation complex containing HIV-1 Tat,ERCC2;ERCC3,2.0,1.0,strict,0
+Nucleotide_excision_repair,Gene-only retrieval,9,Formation of RNA Pol II elongation complex,ERCC2;ERCC3,2.0,1.0,strict,0
+Nucleotide_excision_repair,Gene-only retrieval,10,Formation of TC-NER Pre-Incision Complex,ERCC3;XPA,2.0,1.0,strict,1
+Nucleotide_excision_repair,Pathway-only retrieval,1,DNA Repair,ERCC2;ERCC3;XPA,3.0,1.0,strict,1
+Nucleotide_excision_repair,Pathway-only retrieval,2,Dual Incision in GG-NER,ERCC2;ERCC3;XPA,3.0,1.0,strict,1
+Nucleotide_excision_repair,Pathway-only retrieval,3,Dual incision in TC-NER,ERCC2;ERCC3;XPA,3.0,1.0,strict,1
+Nucleotide_excision_repair,Pathway-only retrieval,4,Formation of Incision Complex in GG-NER,ERCC2;ERCC3;XPA,3.0,1.0,strict,1
+Nucleotide_excision_repair,Pathway-only retrieval,5,Formation of TC-NER Pre-Incision Complex,ERCC2;ERCC3;XPA,3.0,1.0,strict,1
+Nucleotide_excision_repair,Pathway-only retrieval,6,Global Genome Nucleotide Excision Repair (GG-NER),ERCC2;ERCC3;XPA,3.0,1.0,strict,1
+Nucleotide_excision_repair,Pathway-only retrieval,7,Nucleotide Excision Repair,ERCC2;ERCC3;XPA,3.0,1.0,strict,1
+Nucleotide_excision_repair,Pathway-only retrieval,8,Transcription-Coupled Nucleotide Excision Repair (TC-NER),ERCC2;ERCC3;XPA,3.0,0.85,strict,1
+Nucleotide_excision_repair,Pathway-only retrieval,9,Disease,ERCC2;ERCC3,2.0,0.85,strict,0
+Nucleotide_excision_repair,Pathway-only retrieval,10,Epigenetic regulation of gene expression,ERCC2;ERCC3,2.0,0.85,strict,0
+Nucleotide_excision_repair,GraphRAG-Gene,1,DNA Repair,ERCC2;ERCC3;XPA,31.75,1.0,strict,1
+Nucleotide_excision_repair,GraphRAG-Gene,2,Dual Incision in GG-NER,ERCC2;ERCC3;XPA,31.75,1.0,strict,1
+Nucleotide_excision_repair,GraphRAG-Gene,3,Dual incision in TC-NER,ERCC2;ERCC3;XPA,31.75,1.0,strict,1
+Nucleotide_excision_repair,GraphRAG-Gene,4,Formation of Incision Complex in GG-NER,ERCC2;ERCC3;XPA,31.75,1.0,strict,1
+Nucleotide_excision_repair,GraphRAG-Gene,5,Formation of TC-NER Pre-Incision Complex,ERCC2;ERCC3;XPA,31.75,1.0,strict,1
+Nucleotide_excision_repair,GraphRAG-Gene,6,Global Genome Nucleotide Excision Repair (GG-NER),ERCC2;ERCC3;XPA,31.75,1.0,strict,1
+Nucleotide_excision_repair,GraphRAG-Gene,7,Nucleotide Excision Repair,ERCC2;ERCC3;XPA,31.75,1.0,strict,1
+Nucleotide_excision_repair,GraphRAG-Gene,8,Transcription-Coupled Nucleotide Excision Repair (TC-NER),ERCC2;ERCC3;XPA,31.6,0.85,strict,1
+Nucleotide_excision_repair,GraphRAG-Gene,9,Formation of HIV elongation complex in the absence of HIV Tat,ERCC2;ERCC3,21.25,1.0,strict,0
+Nucleotide_excision_repair,GraphRAG-Gene,10,Formation of HIV-1 elongation complex containing HIV-1 Tat,ERCC2;ERCC3,21.25,1.0,strict,0
+Telomere_maintenance,Gene-only retrieval,1,Cell Cycle,TERF1;TERF2;TERT,3.0,1.0,strict,0
+Telomere_maintenance,Gene-only retrieval,2,Chromosome Maintenance,TERF1;TERF2;TERT,3.0,1.0,strict,0
+Telomere_maintenance,Gene-only retrieval,3,Base Excision Repair,TERF1;TERF2,2.0,1.0,strict,0
+Telomere_maintenance,Gene-only retrieval,4,"Base-Excision Repair, AP Site Formation",TERF1;TERF2,2.0,1.0,strict,0
+Telomere_maintenance,Gene-only retrieval,5,Cellular responses to stimuli,TERF1;TERF2,2.0,0.7,strict,0
+Telomere_maintenance,Gene-only retrieval,6,Cellular responses to stress,TERF1;TERF2,2.0,0.7,strict,0
+Telomere_maintenance,Gene-only retrieval,7,Cellular Senescence,TERF1;TERF2,2.0,1.0,strict,0
+Telomere_maintenance,Gene-only retrieval,8,Cleavage of the damaged purine,TERF1;TERF2,2.0,1.0,strict,0
+Telomere_maintenance,Gene-only retrieval,9,Cleavage of the damaged pyrimidine,TERF1;TERF2,2.0,1.0,strict,0
+Telomere_maintenance,Gene-only retrieval,10,DNA Damage/Telomere Stress Induced Senescence,TERF1;TERF2,2.0,1.0,strict,1
+Telomere_maintenance,Pathway-only retrieval,1,Cell Cycle,TERF1;TERF2;TERT,3.0,1.0,strict,0
+Telomere_maintenance,Pathway-only retrieval,2,Chromosome Maintenance,TERF1;TERF2;TERT,3.0,1.0,strict,0
+Telomere_maintenance,Pathway-only retrieval,3,Extension of Telomeres,TERF1;TERF2;TERT,3.0,1.0,strict,1
+Telomere_maintenance,Pathway-only retrieval,4,Telomere Extension By Telomerase,TERF1;TERF2;TERT,3.0,1.0,strict,1
+Telomere_maintenance,Pathway-only retrieval,5,Telomere Maintenance,TERF1;TERF2;TERT,3.0,1.0,strict,1
+Telomere_maintenance,Pathway-only retrieval,6,Base Excision Repair,TERF1;TERF2,2.0,1.0,strict,0
+Telomere_maintenance,Pathway-only retrieval,7,"Base-Excision Repair, AP Site Formation",TERF1;TERF2,2.0,1.0,strict,0
+Telomere_maintenance,Pathway-only retrieval,8,Cellular responses to stimuli,TERF1;TERF2,2.0,0.7,strict,0
+Telomere_maintenance,Pathway-only retrieval,9,Cellular responses to stress,TERF1;TERF2,2.0,0.7,strict,0
+Telomere_maintenance,Pathway-only retrieval,10,Cellular Senescence,TERF1;TERF2,2.0,1.0,strict,0
+Telomere_maintenance,GraphRAG-Gene,1,Cell Cycle,TERF1;TERF2;TERT,31.75,1.0,strict,0
+Telomere_maintenance,GraphRAG-Gene,2,Chromosome Maintenance,TERF1;TERF2;TERT,31.75,1.0,strict,0
+Telomere_maintenance,GraphRAG-Gene,3,Extension of Telomeres,TERF1;TERF2;TERT,31.75,1.0,strict,1
+Telomere_maintenance,GraphRAG-Gene,4,Telomere Extension By Telomerase,TERF1;TERF2;TERT,31.75,1.0,strict,1
+Telomere_maintenance,GraphRAG-Gene,5,Telomere Maintenance,TERF1;TERF2;TERT,31.75,1.0,strict,1
+Telomere_maintenance,GraphRAG-Gene,6,Base Excision Repair,TERF1;TERF2,21.25,1.0,strict,0
+Telomere_maintenance,GraphRAG-Gene,7,"Base-Excision Repair, AP Site Formation",TERF1;TERF2,21.25,1.0,strict,0
+Telomere_maintenance,GraphRAG-Gene,8,Cellular Senescence,TERF1;TERF2,21.25,1.0,strict,0
+Telomere_maintenance,GraphRAG-Gene,9,Cleavage of the damaged purine,TERF1;TERF2,21.25,1.0,strict,0
+Telomere_maintenance,GraphRAG-Gene,10,Cleavage of the damaged pyrimidine,TERF1;TERF2,21.25,1.0,strict,0

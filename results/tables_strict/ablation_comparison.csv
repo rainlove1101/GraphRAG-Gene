@@ -1,0 +1,5 @@
+﻿method,n_cases,top1_hit_rate,top3_hit_rate,top5_hit_rate,mean_top5_specificity
+GraphRAG-Gene full,36,0.5278,0.8611,0.9167,0.9794
+No direct-relation bonus,36,0.5278,0.8611,0.9167,0.9794
+No specificity weighting,36,0.3889,0.7778,0.8333,0.9453
+Overlap count only,36,0.3889,0.7778,0.8333,0.9453

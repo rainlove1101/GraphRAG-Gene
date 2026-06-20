@@ -1,0 +1,4 @@
+﻿method,n_cases,top1_hit_rate,top3_hit_rate,top5_hit_rate,mean_top5_specificity
+Gene-only retrieval,36,0.3611,0.6667,0.7778,0.9553
+GraphRAG-Gene,36,0.5278,0.8611,0.9167,0.9794
+Pathway-only retrieval,36,0.3889,0.7778,0.8333,0.9453

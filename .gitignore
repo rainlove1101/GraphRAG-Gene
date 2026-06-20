@@ -1,0 +1,49 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# IDE and notebook state
+.idea/
+.vscode/
+.ipynb_checkpoints/
+.jupyter/
+.agents/
+
+# Backups and generated submission material
+_backups/
+_to_delete_old_generated/
+submission_package*/
+GraphRAG_Gene*.zip
+GraphRAG_Gene*.docx
+manuscript/
+~$*
+
+# Internal manuscript assembly and submission helpers
+scripts/build_*docx.py
+scripts/enhance_original_manuscript_docx.py
+scripts/clean_enhanced_manuscript_figures.py
+scripts/update_author_information.py
+scripts/update_luoyang_affiliation.py
+scripts/redraw_resolution_figure_pillow.py
+
+# Source data and generated graph indexes
+data/raw/
+results/index/
+results/index_v3/
+results/cases/
+
+# PNG files are the canonical public figure assets
+results/figures/*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
