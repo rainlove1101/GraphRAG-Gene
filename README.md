@@ -119,10 +119,10 @@ These tables can be used in the manuscript.
 
 ## 8. Manuscript positioning
 
-This project should be described as a pathway-level systems biology interpretation framework. It should not be described as a clinical diagnostic system, personal disease risk predictor, or treatment recommendation system.
-
 The framework is intended for pathway-level systems biology research. It is not a clinical diagnostic system, personal disease-risk predictor, variant pathogenicity assessor, or treatment recommendation system.
 
-## Repository
+## Citation
 
-<https://github.com/rainlove1101/GraphRAG-Gene>
+Archived release: <https://doi.org/10.5281/zenodo.20769380>
+
+Repository: <https://github.com/rainlove1101/GraphRAG-Gene>

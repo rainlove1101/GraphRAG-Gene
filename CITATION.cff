@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use GraphRAG-Gene, please cite this software."
+title: "GraphRAG-Gene"
+type: software
+authors:
+  - family-names: "Wu"
+    given-names: "Zheng"
+  - family-names: "Liu"
+    given-names: "Yunqing"
+    email: "liuyq@lit.edu.cn"
+version: "1.0.1"
+date-released: "2026-06-20"
+doi: "10.5281/zenodo.20769380"
+repository-code: "https://github.com/rainlove1101/GraphRAG-Gene"
+url: "https://doi.org/10.5281/zenodo.20769380"
