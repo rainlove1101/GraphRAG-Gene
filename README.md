@@ -7,9 +7,7 @@ GraphRAG-Gene constructs a heterogeneous gene-pathway graph, applies Leiden comm
 ## Authors
 
 Zheng Wu and Yunqing Liu  
-Luoyang Institute of Science and Technology
-
-School of Computer Science, Luoyang Institute of Science and Technology, Luoyang 471000, China.
+School of Computer Science, Luoyang Institute of Science and Technology, China.
 
 ## 1. Data
 Place the following files in `data/raw/`:
